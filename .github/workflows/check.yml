@@ -35,7 +35,7 @@ jobs:
         run: python needoh_watch.py
 
       - name: Save what we saw
-        if: ${{ !inputs.test_alert }}
+        if: ${{ always() && !inputs.test_alert }}
         run: |
           git config user.name "needoh-bot"
           git config user.email "needoh-bot@users.noreply.github.com"
