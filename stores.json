@@ -1,0 +1,348 @@
+{
+  "keywords": [
+    "needoh",
+    "nee doh",
+    "nee-doh"
+  ],
+  "stores": [
+    {
+      "name": "Bigjigs Toys",
+      "type": "shopify",
+      "url": "https://www.bigjigstoys.co.uk",
+      "collections": [
+        "nee-doh"
+      ]
+    },
+    {
+      "name": "Jadlam Toys",
+      "type": "shopify",
+      "url": "https://www.jadlamracingmodels.com",
+      "collections": [
+        "needoh"
+      ]
+    },
+    {
+      "name": "Junior Edition",
+      "type": "shopify",
+      "url": "https://www.junioredition.com",
+      "collections": [
+        "needoh"
+      ]
+    },
+    {
+      "name": "The Kid Collective",
+      "type": "shopify",
+      "url": "https://thekidcollective.co.uk",
+      "collections": [
+        "needoh"
+      ]
+    },
+    {
+      "name": "The Dyslexia Shop",
+      "type": "shopify",
+      "url": "https://www.thedyslexiashop.co.uk",
+      "collections": [
+        "needoh"
+      ]
+    },
+    {
+      "name": "Jukupop",
+      "type": "shopify",
+      "url": "https://jukupop.com"
+    },
+    {
+      "name": "Funky Fidgets",
+      "type": "shopify",
+      "url": "https://funkyfidgetsshop.co.uk"
+    },
+    {
+      "name": "Isaac's Treasures",
+      "type": "woocommerce",
+      "url": "https://www.isaacstreasures.com"
+    },
+    {
+      "name": "Toytown",
+      "type": "product_pages",
+      "products": [
+        "https://www.toytownstores.com/toys-c6/pocket-money-c144/fidget-toys-c145/bigjigs-needoh-jelly-squish-super-solid-squish-jellyfish-fidget-toy-p8430",
+        "https://www.toytownstores.com/toys-c6/pocket-money-c144/bigjigs-needoh-dream-drop-p8397",
+        "https://www.toytownstores.com/toys-c6/pocket-money-c144/bigjigs-needoh-gumdrop-one-supplied-chosen-at-random-p8391",
+        "https://www.toytownstores.com/toys-c6/pocket-money-c144/fidget-toys-c145/bigjigs-needoh-glow-in-the-dark-one-supplied-at-random-p8287",
+        "https://www.toytownstores.com/toys-c6/pocket-money-c144/bigjigs-needoh-teenie-nice-ice-baby-cube-one-supplied-at-random-p8286",
+        "https://www.toytownstores.com/toys-c6/pocket-money-c144/fidget-toys-c145/bigjigs-fuzz-ball-wonder-waves-needoh-one-supplied-at-random-p7965",
+        "https://www.toytownstores.com/toys-c6/pocket-money-c144/fidget-toys-c145/bigjigs-needoh-nice-cube-swirl-fidget-toy-one-supplied-at-random-p7964",
+        "https://www.toytownstores.com/toys-c6/pocket-money-c144/fidget-toys-c145/bigjigs-nice-cube-needoh-sold-individually-p7963",
+        "https://www.toytownstores.com/toys-c6/pocket-money-c144/fidget-toys-c145/bigjigs-needoh-glitter-glow-nice-cube-one-chosen-at-random-p7962"
+      ],
+      "discover": [
+        {
+          "url": "https://www.toytownstores.com/search?q=needoh",
+          "link_pattern": "toytownstores\\.com/.+-p\\d+$"
+        }
+      ]
+    },
+    {
+      "name": "Waterstones",
+      "type": "product_pages",
+      "products": [
+        "https://www.waterstones.com/product/needoh-candy-swirl-nice-cube/0019649506743",
+        "https://www.waterstones.com/product/needoh-teenie-fuzz-ball-3-pack/0019649507948",
+        "https://www.waterstones.com/product/needoh-colour-change-cube/0019649508013",
+        "https://www.waterstones.com/product/needoh-glow-cube/0019649508020",
+        "https://www.waterstones.com/product/needoh-jelly-squish/0019649508051",
+        "https://www.waterstones.com/product/needoh-jelly-hop/0019649507207"
+      ],
+      "discover": [
+        {
+          "url": "https://www.waterstones.com/books/search/term/needoh",
+          "link_pattern": "waterstones\\.com/product/"
+        }
+      ]
+    },
+    {
+      "name": "Roskai",
+      "type": "shopify",
+      "url": "https://roskai.com",
+      "collections": [
+        "needoh"
+      ]
+    },
+    {
+      "name": "Giftology",
+      "type": "shopify",
+      "url": "https://giftology-uk.com",
+      "collections": [
+        "needoh"
+      ]
+    },
+    {
+      "name": "Cloud Nine Boutique",
+      "type": "shopify",
+      "url": "https://cloudnineboutique.net",
+      "collections": [
+        "needoh"
+      ]
+    },
+    {
+      "name": "So Realistic",
+      "type": "shopify",
+      "url": "https://sorealistic.co.uk",
+      "collections": [
+        "needoh"
+      ]
+    },
+    {
+      "name": "Rainbow Nation",
+      "type": "shopify",
+      "url": "https://rainbownationclothing.com",
+      "collections": [
+        "needoh"
+      ]
+    },
+    {
+      "name": "Teddy's Fidgets",
+      "type": "shopify",
+      "url": "https://www.teddysfidgets.com",
+      "collections": [
+        "needoh"
+      ]
+    },
+    {
+      "name": "Teddy's Trove",
+      "type": "shopify",
+      "url": "https://teddystrove.co.uk",
+      "collections": [
+        "squeeze-toys-stress-balls",
+        "schylling"
+      ]
+    },
+    {
+      "name": "Fidget Fables",
+      "type": "shopify",
+      "url": "https://fidgetfables.com",
+      "collections": [
+        "needoh"
+      ]
+    },
+    {
+      "name": "Ali's Sensory Boxes",
+      "type": "shopify",
+      "url": "https://www.alissensoryboxes.com",
+      "collections": [
+        "needoh"
+      ]
+    },
+    {
+      "name": "Funkytoystore",
+      "type": "shopify",
+      "url": "https://www.funkytoystore.com",
+      "collections": [
+        "needoh"
+      ]
+    },
+    {
+      "name": "My Small World Toy Shop",
+      "type": "shopify",
+      "url": "https://mysmallworld.co.uk",
+      "collections": [
+        "the-needoh-shop"
+      ]
+    },
+    {
+      "name": "Tinker & Tot",
+      "type": "shopify",
+      "url": "https://tinkerandtot.co.uk",
+      "collections": [
+        "needoh"
+      ]
+    },
+    {
+      "name": "Toys4you",
+      "type": "shopify",
+      "url": "https://www.toys4you.co.uk",
+      "collections": [
+        "needoh"
+      ]
+    },
+    {
+      "name": "Chocoloons",
+      "type": "shopify",
+      "url": "https://chocoloonstoys.com",
+      "collections": [
+        "needoh-sensory-toy-nicecube"
+      ]
+    },
+    {
+      "name": "TDMM Family",
+      "type": "shopify",
+      "url": "https://tdmmfamily.co.uk"
+    },
+    {
+      "name": "Funhouse Toys",
+      "type": "shopify",
+      "url": "https://funhousetoys.co.uk"
+    },
+    {
+      "name": "Fantastic Fidgets UK",
+      "type": "shopify",
+      "url": "https://fantasticfidgetsuk.com"
+    },
+    {
+      "name": "Be More Geek",
+      "type": "shopify",
+      "url": "https://www.bemoregeek.co.uk"
+    },
+    {
+      "name": "Tink n Stink",
+      "type": "product_pages",
+      "out_of_stock_pattern": "class=\"[^\"]*\\bunavailable stock\\b",
+      "in_stock_pattern": "class=\"[^\"]*(?<!un)available stock\\b",
+      "products": [
+        "https://www.tinknstink.co.uk/dream-drop-needoh.html",
+        "https://www.tinknstink.co.uk/ginger-glow-man-needoh.html",
+        "https://www.tinknstink.co.uk/glowy-ghost-needoh.html",
+        "https://www.tinknstink.co.uk/mello-mallo-needoh.html",
+        "https://www.tinknstink.co.uk/needoh-bunnies-and-chicks.html",
+        "https://www.tinknstink.co.uk/needoh-colour-change-cube.html",
+        "https://www.tinknstink.co.uk/needoh-dig-it-pig.html",
+        "https://www.tinknstink.co.uk/needoh-funky-pup.html",
+        "https://www.tinknstink.co.uk/needoh-fuzz-ball.html",
+        "https://www.tinknstink.co.uk/needoh-glitter-glow-nice-cube.html",
+        "https://www.tinknstink.co.uk/needoh-gum-drop.html",
+        "https://www.tinknstink.co.uk/needoh-jelly-hops.html",
+        "https://www.tinknstink.co.uk/needoh-jelly-squish.html",
+        "https://www.tinknstink.co.uk/needoh-nice-berg-glitter-glow.html",
+        "https://www.tinknstink.co.uk/needoh-nice-berg-swirl.html",
+        "https://www.tinknstink.co.uk/needoh-nice-cube-swirl.html",
+        "https://www.tinknstink.co.uk/needoh-ramen-noodlies.html",
+        "https://www.tinknstink.co.uk/nice-cube-glow-needoh.html",
+        "https://www.tinknstink.co.uk/nice-cube-needoh.html",
+        "https://www.tinknstink.co.uk/niceberg-needoh.html",
+        "https://www.tinknstink.co.uk/panic-pete-needoh.html",
+        "https://www.tinknstink.co.uk/sploot-splat-needoh.html",
+        "https://www.tinknstink.co.uk/squish-n-flow-snow-globe-needoh.html",
+        "https://www.tinknstink.co.uk/teenie-needoh-cool-cats.html"
+      ],
+      "discover": [
+        {
+          "url": "https://www.tinknstink.co.uk/catalogsearch/result/?q=needoh&product_list_limit=48",
+          "link_pattern": "tinknstink\\.co\\.uk/[^/]+\\.html$"
+        }
+      ]
+    },
+    {
+      "name": "Hamleys",
+      "type": "product_pages",
+      "out_of_stock_pattern": "Notify me when this product is in stock|box-outofstock",
+      "in_stock_pattern": "product-addtocart-button",
+      "products": [
+        "https://www.hamleys.com/color-change-cube-needoh"
+      ]
+    },
+    {
+      "name": "Urban Outfitters",
+      "type": "product_pages",
+      "products": [
+        "https://www.urbanoutfitters.com/en-gb/shop/needoh-dream-drop-fidget-toy",
+        "https://www.urbanoutfitters.com/en-gb/shop/needoh-advent-calender",
+        "https://www.urbanoutfitters.com/en-gb/shop/needoh-nice-cube",
+        "https://www.urbanoutfitters.com/en-gb/shop/niceberg-needoh-cube",
+        "https://www.urbanoutfitters.com/en-gb/shop/nee-doh-funky-pup-stress-ball"
+      ],
+      "discover": [
+        {
+          "url": "https://www.urbanoutfitters.com/en-gb/brands/nee-doh",
+          "link_pattern": "/en-gb/shop/"
+        }
+      ]
+    },
+    {
+      "name": "Polhill Garden Centre",
+      "type": "shopify",
+      "url": "https://polhill.co.uk",
+      "note": "No NeeDoh yet - searched every 30 min in case some are added"
+    },
+    {
+      "name": "Toy Barnhaus",
+      "type": "shopify",
+      "url": "https://www.toybarnhaus.co.uk",
+      "note": "No NeeDoh yet - searched every 30 min in case some are added"
+    },
+    {
+      "name": "Plush Paradise",
+      "type": "shopify",
+      "url": "https://plushparadise.co.uk",
+      "note": "No NeeDoh yet - searched every 30 min in case some are added"
+    },
+    {
+      "name": "The Fidget Works",
+      "type": "shopify",
+      "url": "https://thefidgetworks.co.uk",
+      "note": "No NeeDoh yet - searched every 30 min in case some are added"
+    },
+    {
+      "name": "Paper Tiger",
+      "type": "shopify",
+      "url": "https://papertiger.co.uk",
+      "note": "No NeeDoh yet - searched every 30 min in case some are added"
+    },
+    {
+      "name": "Scribbler",
+      "type": "shopify",
+      "url": "https://www.scribbler.com",
+      "note": "No NeeDoh yet - searched every 30 min in case some are added"
+    },
+    {
+      "name": "Science Museum Shop",
+      "type": "shopify",
+      "url": "https://shop.sciencemuseum.org.uk",
+      "note": "No NeeDoh yet - searched every 30 min in case some are added"
+    },
+    {
+      "name": "Beanie Games",
+      "type": "shopify",
+      "url": "https://beaniegames.co.uk",
+      "note": "No NeeDoh yet - searched every 30 min in case some are added"
+    }
+  ]
+}
