@@ -1,0 +1,43 @@
+name: Check NeeDoh stock
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"   # every 5 minutes (GitHub sometimes runs it a little late)
+  workflow_dispatch:         # lets you press "Run workflow" by hand
+    inputs:
+      test_alert:
+        description: "Just send a test notification to my phone"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write   # lets the job save state.json so you aren't alerted twice
+
+concurrency:
+  group: needoh-check
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Check shops
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          TEST_ALERT: ${{ inputs.test_alert && '1' || '0' }}
+        run: python needoh_watch.py
+
+      - name: Save what we saw
+        if: ${{ always() && !inputs.test_alert }}
+        run: |
+          git config user.name "needoh-bot"
+          git config user.email "needoh-bot@users.noreply.github.com"
+          git add state.json
+          git diff --cached --quiet || (git commit -m "Update stock state" && git push)

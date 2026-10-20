@@ -20,6 +20,7 @@ import re
 import sys
 import html as html_lib
 import time
+from concurrent.futures import ThreadPoolExecutor
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -36,6 +37,8 @@ UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
 # After this many failed checks in a row for one shop, send one heads-up.
 FAIL_ALERT_AFTER = 12  # ~1 hour at 5-minute checks
 FULL_SCAN_EVERY = 30 * 60  # seconds between whole-shop searches for new NeeDoh
+RUN_BUDGET = 9 * 60  # stop starting new work after this, so results always get saved
+PARALLEL_SHOPS = 10  # shops checked at the same time
 
 
 # --------------------------------------------------------------------------
@@ -46,7 +49,7 @@ def log(msg):
     print(f"[{datetime.now(timezone.utc):%H:%M:%S}] {msg}", flush=True)
 
 
-def http_get(url, accept="application/json,text/html;q=0.9,*/*;q=0.8", timeout=25):
+def http_get(url, accept="application/json,text/html;q=0.9,*/*;q=0.8", timeout=20):
     req = urllib.request.Request(url, headers={
         "User-Agent": UA,
         "Accept": accept,
@@ -93,8 +96,21 @@ def _is_needoh(p, keywords):
     return matches(f"{p.get('title', '')} {p.get('vendor', '')}", keywords)
 
 
+class OutOfTime(Exception):
+    pass
+
+
+def _check_time():
+    if time.time() > DEADLINE[0]:
+        raise OutOfTime("ran out of time this run, will finish next run")
+
+
+DEADLINE = [float("inf")]
+
+
 def _scan_shopify(src, max_pages):
     for page in range(1, max_pages + 1):
+        _check_time()
         products = json.loads(http_get(f"{src}?limit=250&page={page}")).get("products", [])
         yield from products
         if len(products) < 250:
@@ -258,6 +274,8 @@ def check_product_pages(store, keywords, ctx):
     found, errors = {}, []
     urls = list(dict.fromkeys(store.get("products", []) + known))
     for url in urls:
+        if time.time() > DEADLINE[0]:
+            break  # out of time: report what we have, the rest is checked next run
         try:
             found[f"{store['name']}|{url}"] = _read_product_page(store, url)
         except Exception as e:  # noqa: BLE001
@@ -356,13 +374,26 @@ def main():
         state["full_scan_slot"] = slot
 
     in_stock_now, new_shops = [], []
+    DEADLINE[0] = time.time() + RUN_BUDGET
+    stores = [st for st in config["stores"] if st.get("enabled", True) is not False]
 
-    for store in config["stores"]:
-        if store.get("enabled", True) is False:
-            continue
-        name = store["name"]
+    def run_one(store):
         try:
-            results = CHECKERS[store["type"]](store, store.get("keywords", keywords), ctx)
+            return CHECKERS[store["type"]](store, store.get("keywords", keywords), ctx), None
+        except Exception as e:  # noqa: BLE001
+            return None, e
+
+    with ThreadPoolExecutor(max_workers=PARALLEL_SHOPS) as pool:
+        outcomes = list(pool.map(run_one, stores))
+
+    for store, (results, err) in zip(stores, outcomes):
+        name = store["name"]
+        if isinstance(err, OutOfTime):
+            log(f"{name}: {err}")
+            continue
+        try:
+            if err:
+                raise err
         except Exception as e:  # noqa: BLE001 - keep going with the other shops
             n = state["failures"].get(name, 0) + 1
             state["failures"][name] = min(n, FAIL_ALERT_AFTER + 1)  # stop counting = no extra commits
@@ -405,7 +436,7 @@ def main():
                            click=item["url"], priority="default", tags="new")
             state["products"][key] = item  # only changes on real changes, so few commits
 
-    if first_run or new_shops:
+    if new_shops:
         title = "NeeDoh watcher started" if first_run else f"Now also watching {len(new_shops)} more shop(s)"
         stock = ("In stock right now:\n- " + "\n- ".join(in_stock_now)) if in_stock_now \
             else "Everything is sold out at the moment. You'll hear the second that changes."
