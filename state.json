@@ -43,7 +43,9 @@
   "City Beach UK"
  ],
  "discovered": {
-  "City Beach UK": [],
+  "City Beach UK": [
+   "https://www.citybeach.com/uk/schylling-needoh-candy-swirl-nice-cube-squishy-fidget-toy/20413070-01.html"
+  ],
   "Hamleys": [],
   "Tink n Stink": [],
   "Toytown": [],
@@ -241,7 +243,7 @@
   "Funkytoystore": 0,
   "Giftology": 0,
   "Hamleys": 2,
-  "Isaac's Treasures": 7,
+  "Isaac's Treasures": 8,
   "JKDIRECT": 0,
   "Jadlam Toys": 0,
   "Jukupop": 0,
@@ -872,6 +874,12 @@
    "price": "£6.00",
    "title": "Scrunchems Marshmallow Squishy",
    "url": "https://chocoloonstoys.com/products/scrunchems-marshmallow-squishy"
+  },
+  "City Beach UK|https://www.citybeach.com/uk/schylling-needoh-candy-swirl-nice-cube-squishy-fidget-toy/20413070-01.html": {
+   "available": true,
+   "price": "£13.99",
+   "title": "NeeDoh Candy Swirl Nice Cube Squishy Fidget Toy",
+   "url": "https://www.citybeach.com/uk/schylling-needoh-candy-swirl-nice-cube-squishy-fidget-toy/20413070-01.html"
   },
   "City Beach UK|https://www.citybeach.com/uk/schylling-needoh-fuzz-ball-teenie-4-pack-squishy-fidget-toy/2040897001016-01.html": {
    "available": false,
