@@ -124,7 +124,8 @@
   "Funkytoystore": [],
   "Giftology": [],
   "JKDIRECT": [
-   "needoh-nice-ice-baby"
+   "needoh-nice-ice-baby",
+   "needoh-swirl-4-pack"
   ],
   "Jadlam Toys": [
    "halloween-squish-toy-bundle-w-jack-glow-needoh-lantern",
@@ -240,7 +241,7 @@
   "Hamleys": 2,
   "Isaac's Treasures": 0,
   "JKDIRECT": 0,
-  "Jadlam Toys": 1,
+  "Jadlam Toys": 0,
   "Jukupop": 0,
   "Junior Edition": 0,
   "My Small World Toy Shop": 0,
@@ -2321,6 +2322,12 @@
    "price": "£14.00",
    "title": "NeeDoh Nice Ice Baby",
    "url": "https://jkdirectstore.com/products/needoh-nice-ice-baby"
+  },
+  "JKDIRECT|needoh-swirl-4-pack": {
+   "available": false,
+   "price": "£25.00",
+   "title": "NeeDoh Swirl 4 Pack",
+   "url": "https://jkdirectstore.com/products/needoh-swirl-4-pack"
   },
   "Jadlam Toys|halloween-squish-toy-bundle-w-jack-glow-needoh-lantern": {
    "available": true,
