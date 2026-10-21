@@ -175,6 +175,7 @@
    "nee-doh-fuzz-ball-1",
    "nee-doh-nice-cube-swirl",
    "needoh-advent-calendar",
+   "needoh-candy",
    "needoh-dippin-dazzler-eggs-colour-changing-egg-easter-fidget-toy",
    "needoh-fuzz-ball-copy",
    "needoh-fuzz-ball-wonder-waves-copy",
@@ -235,7 +236,7 @@
   "Urban Outfitters": 13,
   "Waterstones": 2
  },
- "full_scan_slot": 995881,
+ "full_scan_slot": 995882,
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
    "available": false,
@@ -4286,6 +4287,12 @@
    "price": "£24.99",
    "title": "Needoh Advent Calendar",
    "url": "https://toy-box-hampshire.co.uk/products/needoh-advent-calendar"
+  },
+  "Toy-Box Hampshire|needoh-candy": {
+   "available": false,
+   "price": "£8.99",
+   "title": "NeeDoh Candy",
+   "url": "https://toy-box-hampshire.co.uk/products/needoh-candy"
   },
   "Toy-Box Hampshire|needoh-dippin-dazzler-eggs-colour-changing-egg-easter-fidget-toy": {
    "available": false,
