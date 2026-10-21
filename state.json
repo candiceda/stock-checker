@@ -124,7 +124,7 @@
   "Funkytoystore": [],
   "Giftology": [],
   "JKDIRECT": [
-   "needoh-jack-glow-lantern-glow-in-the-dark-w-sticker-sheet-random-colour"
+   "needoh-nice-ice-baby"
   ],
   "Jadlam Toys": [
    "halloween-squish-toy-bundle-w-jack-glow-needoh-lantern",
@@ -240,7 +240,7 @@
   "Hamleys": 2,
   "Isaac's Treasures": 0,
   "JKDIRECT": 0,
-  "Jadlam Toys": 0,
+  "Jadlam Toys": 1,
   "Jukupop": 0,
   "Junior Edition": 0,
   "My Small World Toy Shop": 0,
@@ -268,7 +268,7 @@
   "Urban Outfitters": 13,
   "Waterstones": 2
  },
- "full_scan_slot": 995891,
+ "full_scan_slot": 995892,
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
    "available": false,
@@ -2315,6 +2315,12 @@
    "price": "£21.00",
    "title": "NeeDoh Mello Mallo",
    "url": "https://jkdirectstore.com/products/needoh-mellow-mallow"
+  },
+  "JKDIRECT|needoh-nice-ice-baby": {
+   "available": false,
+   "price": "£14.00",
+   "title": "NeeDoh Nice Ice Baby",
+   "url": "https://jkdirectstore.com/products/needoh-nice-ice-baby"
   },
   "Jadlam Toys|halloween-squish-toy-bundle-w-jack-glow-needoh-lantern": {
    "available": true,
