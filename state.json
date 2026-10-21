@@ -39,9 +39,11 @@
   "Beanie Games",
   "Toy-Box Hampshire",
   "Simply Toys",
-  "JKDIRECT"
+  "JKDIRECT",
+  "City Beach UK"
  ],
  "discovered": {
+  "City Beach UK": [],
   "Hamleys": [],
   "Tink n Stink": [],
   "Toytown": [],
@@ -230,6 +232,7 @@
   "Beanie Games": 0,
   "Bigjigs Toys": 0,
   "Chocoloons": 0,
+  "City Beach UK": 0,
   "Cloud Nine Boutique": 0,
   "Fantastic Fidgets UK": 0,
   "Fidget Fables": 0,
@@ -238,7 +241,7 @@
   "Funkytoystore": 0,
   "Giftology": 0,
   "Hamleys": 2,
-  "Isaac's Treasures": 4,
+  "Isaac's Treasures": 5,
   "JKDIRECT": 0,
   "Jadlam Toys": 0,
   "Jukupop": 0,
@@ -265,7 +268,7 @@
   "Toy-Box Hampshire": 0,
   "Toys4you": 0,
   "Toytown": 0,
-  "Urban Outfitters": 12,
+  "Urban Outfitters": 13,
   "Waterstones": 2
  },
  "full_scan_slot": 995903,
@@ -869,6 +872,18 @@
    "price": "£6.00",
    "title": "Scrunchems Marshmallow Squishy",
    "url": "https://chocoloonstoys.com/products/scrunchems-marshmallow-squishy"
+  },
+  "City Beach UK|https://www.citybeach.com/uk/schylling-needoh-fuzz-ball-teenie-4-pack-squishy-fidget-toy/2040897001016-01.html": {
+   "available": false,
+   "price": "£10.99",
+   "title": "NeeDoh Fuzz Ball Teenie 4 Pack Squishy Fidget Toy",
+   "url": "https://www.citybeach.com/uk/schylling-needoh-fuzz-ball-teenie-4-pack-squishy-fidget-toy/2040897001016-01.html"
+  },
+  "City Beach UK|https://www.citybeach.com/uk/schylling-needoh-nice-cube-swirl-squishy-fidget-toy/20399425-01.html": {
+   "available": true,
+   "price": "£13.99",
+   "title": "NeeDoh Nice Cube Swirl Squishy Fidget Toy",
+   "url": "https://www.citybeach.com/uk/schylling-needoh-nice-cube-swirl-squishy-fidget-toy/20399425-01.html"
   },
   "Cloud Nine Boutique|needoh-advent-calendar-mini-christmas-groovy-squishy-fidget-toy-24-pack": {
    "available": false,
