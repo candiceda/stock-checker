@@ -97,7 +97,9 @@
           "url": "https://www.waterstones.com/books/search/term/needoh",
           "link_pattern": "waterstones\\.com/product/"
         }
-      ]
+      ],
+      "enabled": false,
+      "note": "Turned off: blocks the checker when it runs on GitHub (HTTP 403)"
     },
     {
       "name": "Roskai",
@@ -277,7 +279,9 @@
       "in_stock_pattern": "product-addtocart-button",
       "products": [
         "https://www.hamleys.com/color-change-cube-needoh"
-      ]
+      ],
+      "enabled": false,
+      "note": "Turned off: blocks the checker when it runs on GitHub (HTTP 403)"
     },
     {
       "name": "Urban Outfitters",
@@ -342,6 +346,12 @@
       "name": "Beanie Games",
       "type": "shopify",
       "url": "https://beaniegames.co.uk",
+      "note": "No NeeDoh yet - searched every 30 min in case some are added"
+    },
+    {
+      "name": "Toy-Box Hampshire",
+      "type": "shopify",
+      "url": "https://toy-box-hampshire.co.uk",
       "note": "No NeeDoh yet - searched every 30 min in case some are added"
     }
   ]
