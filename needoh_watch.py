@@ -60,8 +60,21 @@ def http_get(url, accept="application/json,text/html;q=0.9,*/*;q=0.8", timeout=2
 
 
 def matches(text, keywords):
-    t = (text or "").lower()
-    return any(k.lower() in t for k in keywords)
+    """
+    A keyword matches if it appears in the text.
+    "gump+tree" means both words must appear (any order).
+    "re:..." is a pattern, for names shops spell many ways.
+    """
+    t = (text or "").lower().replace("-", " ")
+    for k in keywords:
+        if k.startswith("re:"):
+            if re.search(k[3:], t, re.I):
+                return True
+            continue
+        parts = [w.strip().replace("-", " ") for w in k.lower().split("+")]
+        if all(w and w in t for w in parts):
+            return True
+    return False
 
 
 def load_json(path, default):
@@ -91,8 +104,10 @@ def _shopify_item(store, base, p, from_js=False):
     }
 
 
-def _is_needoh(p, keywords):
+def _is_needoh(p, keywords, exclude=()):
     # title or brand only - shop tags often mention NeeDoh on lookalike squishies
+    if exclude and any(re.search(x, p.get("title", ""), re.I) for x in exclude):
+        return False
     return matches(f"{p.get('title', '')} {p.get('vendor', '')}", keywords)
 
 
@@ -135,7 +150,7 @@ def check_shopify(store, keywords, ctx):
     in_collection = set()
     for handle in store.get("collections", []):
         for p in _scan_shopify(f"{base}/collections/{handle}/products.json", store.get("max_pages", 4)):
-            if _is_needoh(p, keywords):
+            if _is_needoh(p, keywords, store.get("exclude", [])):
                 found[f"{name}|{p['handle']}"] = _shopify_item(store, base, p)
                 in_collection.add(p["handle"])
 
@@ -143,12 +158,23 @@ def check_shopify(store, keywords, ctx):
     if full_scan:
         outside = []
         for p in _scan_shopify(f"{base}/products.json", store.get("full_scan_pages", 40)):
-            if _is_needoh(p, keywords) and p["handle"] not in in_collection:
+            if _is_needoh(p, keywords, store.get("exclude", [])) and p["handle"] not in in_collection:
                 found[f"{name}|{p['handle']}"] = _shopify_item(store, base, p)
                 outside.append(p["handle"])
         extras[name] = sorted(outside)
     else:
+        # Shopify lists the newest uploads first, so one quick look at page 1
+        # every run catches brand-new products within minutes, not 30.
+        known = set(extras.get(name, []))
+        for p in _scan_shopify(f"{base}/products.json", 1):
+            if _is_needoh(p, keywords, store.get("exclude", [])) and p["handle"] not in in_collection:
+                found[f"{name}|{p['handle']}"] = _shopify_item(store, base, p)
+                if p["handle"] not in known:
+                    extras.setdefault(name, []).append(p["handle"])
+                    known.add(p["handle"])
         for handle in extras.get(name, []):
+            if f"{name}|{handle}" in found:
+                continue
             try:
                 p = json.loads(http_get(f"{base}/products/{handle}.js"))
                 found[f"{name}|{handle}"] = _shopify_item(store, base, p, from_js=True)
@@ -294,7 +320,7 @@ def check_woocommerce(store, keywords, ctx):
     """WooCommerce (WordPress) shops have a public Store API with stock info."""
     base = store["url"].rstrip("/")
     found = {}
-    for term in store.get("search_terms", ["needoh", "nee doh"]):
+    for term in store.get("search_terms", ["needoh", "nee doh", "gump", "scrunchems", "squish flow"]):
         q = urllib.parse.quote(term)
         data = json.loads(http_get(f"{base}/wp-json/wc/store/v1/products?search={q}&per_page=100"))
         for p in data:
@@ -430,7 +456,7 @@ def main():
                            f"{item['title']}{price}\nat {name}\nTap to open the shop.",
                            click=item["url"])
                 elif before is None:
-                    notify(f"New NeeDoh listed: {item['title']}"[:120],
+                    notify(f"New listing: {item['title']}"[:120],
                            f"{name} has just added {item['title']}{price}. It's not buyable yet, "
                            "but you'll get a loud alert the moment it is.",
                            click=item["url"], priority="default", tags="new")
