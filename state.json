@@ -262,13 +262,13 @@
   "Tink n Stink": 0,
   "Tinker & Tot": 0,
   "Toy Barnhaus": 0,
-  "Toy-Box Hampshire": 0,
+  "Toy-Box Hampshire": 1,
   "Toys4you": 0,
   "Toytown": 0,
   "Urban Outfitters": 13,
   "Waterstones": 2
  },
- "full_scan_slot": 995900,
+ "full_scan_slot": 995901,
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
    "available": false,
