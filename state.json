@@ -37,7 +37,9 @@
   "Scribbler",
   "Science Museum Shop",
   "Beanie Games",
-  "Toy-Box Hampshire"
+  "Toy-Box Hampshire",
+  "Simply Toys",
+  "JKDIRECT"
  ],
  "discovered": {
   "Hamleys": [],
@@ -68,7 +70,9 @@
    "super-needoh-fuzz-ball-damaged-box-x-rtsysfzbnd",
    "teenie-needoh-fuzz-ball-damaged-box-x-rtsyfzbtnd"
   ],
-  "Chocoloons": [],
+  "Chocoloons": [
+   "scrunchems-marshmallow-squishy"
+  ],
   "Cloud Nine Boutique": [],
   "Fantastic Fidgets UK": [
    "dream-drop-needoh",
@@ -85,9 +89,12 @@
    "needoh-snow-ball-crunch-crunchy-feel-winter-themed-stress-ball",
    "needoh-sploot-splat-needoh-splat-shaped-squishy-fidget-toy-for-kids-3-years-safe-non-toxic-tactile-fun-random-colour-selection",
    "teenie-nice-ice-baby-needoh",
-   "teenie-singles-needoh-glow-in-the-dark-ripples-fidget-sensory-toy-for-stress-relief-adhd-anxiety-and-autism"
+   "teenie-singles-needoh-glow-in-the-dark-ripples-fidget-sensory-toy-for-stress-relief-adhd-anxiety-and-autism",
+   "lava-squish-n-flow-glow-in-the-dark-stress-relief-sensory-fidget-toy-lava-lamp-for-stress-relief"
   ],
-  "Fidget Fables": [],
+  "Fidget Fables": [
+   "speks-gump-christmas-tree-limited-edition-squishy"
+  ],
   "Funhouse Toys": [
    "needoh-advent-calendar-24-day-of-squishmas",
    "needoh-candy-swirl-nice-cube",
@@ -98,7 +105,8 @@
    "needoh-nice-ice-baby-fidget-toy-4-pack",
    "needoh-nice-sicle",
    "needoh-niceberg-jumbo-squishy",
-   "needoh-piece-o-cake-new-for-2026-launching-august"
+   "needoh-piece-o-cake-new-for-2026-launching-august",
+   "scrunchems-marshmallow-foam-squishy"
   ],
   "Funky Fidgets": [
    "coming-soon",
@@ -107,10 +115,15 @@
    "coming-soon-needoh-nice-sicle",
    "coming-soon-needoh-squeezza-pizza",
    "halloween-bundle",
-   "needoh-candy-swirl-nice-cube"
+   "needoh-candy-swirl-nice-cube",
+   "scrunchems-squishy-marshmallow"
   ],
   "Funkytoystore": [],
   "Giftology": [],
+  "JKDIRECT": [
+   "needoh-jack-glow-lantern-glow-in-the-dark-w-sticker-sheet-random-colour",
+   "needoh-mellow-mallow"
+  ],
   "Jadlam Toys": [
    "halloween-squish-toy-bundle-w-jack-glow-needoh-lantern",
    "needoh-jack-glow-lantern-cute-critters-bundle",
@@ -131,10 +144,13 @@
    "needoh-nice-cube-swirl-squishy-fidget-toy-for-stress-anxiety-adhd-autism",
    "needoh-snowball-crunch-fidget-toy-snow-anti-stress-sensory-ball",
    "needoh-teenie-fuzz-ball-multipack-sensory-fidget-toy",
-   "teenie-needoh-cool-cats-fidget-toy-set-pack-of-3-sensory-toy"
+   "teenie-needoh-cool-cats-fidget-toy-set-pack-of-3-sensory-toy",
+   "scrunchems-marshmallow-squishy"
   ],
   "Junior Edition": [],
-  "My Small World Toy Shop": [],
+  "My Small World Toy Shop": [
+   "speks-tree-gump"
+  ],
   "Paper Tiger": [
    "needoh-advent-calendar-2025",
    "teeny-jack-glow-lanterns-pack-of-three-needoh"
@@ -142,9 +158,12 @@
   "Plush Paradise": [],
   "Polhill Garden Centre": [],
   "Rainbow Nation": [],
-  "Roskai": [],
+  "Roskai": [
+   "speks-tree-gump-24-units-with-display-christmas-the-memory-gel-stress-ball-sensory-fidget"
+  ],
   "Science Museum Shop": [],
   "Scribbler": [],
+  "Simply Toys": [],
   "So Realistic": [],
   "TDMM Family": [
    "genuine-needoh-advent-calendar-2026",
@@ -160,7 +179,8 @@
   "Teddy's Fidgets": [],
   "Teddy's Trove": [],
   "The Dyslexia Shop": [
-   "snow-ball-crunch"
+   "snow-ball-crunch",
+   "speks-tree-gump-christmas-memory-gel-stress-ball"
   ],
   "The Fidget Works": [
    "needoh-sploot-splat"
@@ -192,7 +212,9 @@
    "new-doh-gumdrop",
    "niceberg-needoh"
   ],
-  "Toys4you": []
+  "Toys4you": [
+   "scrunchems-squishy-marshmallow"
+  ]
  },
  "failures": {
   "Ali's Sensory Boxes": 0,
@@ -209,6 +231,7 @@
   "Giftology": 0,
   "Hamleys": 2,
   "Isaac's Treasures": 0,
+  "JKDIRECT": 0,
   "Jadlam Toys": 0,
   "Jukupop": 0,
   "Junior Edition": 0,
@@ -220,6 +243,7 @@
   "Roskai": 0,
   "Science Museum Shop": 0,
   "Scribbler": 0,
+  "Simply Toys": 0,
   "So Realistic": 0,
   "TDMM Family": 0,
   "Teddy's Fidgets": 0,
@@ -832,6 +856,12 @@
    "title": "NeeDoh Teenie Fuzz Ball - Mini Fuzzy Stress Balls for Kids, Squishy Sensory Toy",
    "url": "https://www.bigjigstoys.co.uk/products/teenie-needoh-fuzz-ball-syfzbtnd"
   },
+  "Chocoloons|scrunchems-marshmallow-squishy": {
+   "available": true,
+   "price": "£6.00",
+   "title": "Scrunchems Marshmallow Squishy",
+   "url": "https://chocoloonstoys.com/products/scrunchems-marshmallow-squishy"
+  },
   "Cloud Nine Boutique|needoh-advent-calendar-mini-christmas-groovy-squishy-fidget-toy-24-pack": {
    "available": false,
    "price": "£62.00",
@@ -1240,6 +1270,12 @@
    "title": "NeeDoh Dream Drop",
    "url": "https://fantasticfidgetsuk.com/products/dream-drop-needoh"
   },
+  "Fantastic Fidgets UK|lava-squish-n-flow-glow-in-the-dark-stress-relief-sensory-fidget-toy-lava-lamp-for-stress-relief": {
+   "available": false,
+   "price": "£6.99",
+   "title": "Lava Squish N Flow",
+   "url": "https://fantasticfidgetsuk.com/products/lava-squish-n-flow-glow-in-the-dark-stress-relief-sensory-fidget-toy-lava-lamp-for-stress-relief"
+  },
   "Fantastic Fidgets UK|needoh-advent-calendar-2026": {
    "available": false,
    "price": "£40.00",
@@ -1558,6 +1594,12 @@
    "title": "Needoh Teenie Nice Ice Baby 4 Pack",
    "url": "https://fidgetfables.com/products/needoh-teenie-nice-ice-baby-4-pack"
   },
+  "Fidget Fables|speks-gump-christmas-tree-limited-edition-squishy": {
+   "available": false,
+   "price": "£10.00",
+   "title": "SPEKS Gump Christmas Tree Limited Edition Squishy",
+   "url": "https://fidgetfables.com/products/speks-gump-christmas-tree-limited-edition-squishy"
+  },
   "Fidget Fables|worlds-smallest-needoh": {
    "available": false,
    "price": "£14.00",
@@ -1624,6 +1666,12 @@
    "title": "Coming Soon... Needoh Peace O' Cake - NEW FOR 2026",
    "url": "https://funhousetoys.co.uk/products/needoh-piece-o-cake-new-for-2026-launching-august"
   },
+  "Funhouse Toys|scrunchems-marshmallow-foam-squishy": {
+   "available": false,
+   "price": "£4.99",
+   "title": "Scrunchems Marshmallow Foam Squishy",
+   "url": "https://funhousetoys.co.uk/products/scrunchems-marshmallow-foam-squishy"
+  },
   "Funky Fidgets|coming-soon": {
    "available": false,
    "price": "£0.00",
@@ -1665,6 +1713,12 @@
    "price": "£11.00",
    "title": "NeeDoh Candy Swirl Nice Cube",
    "url": "https://funkyfidgetsshop.co.uk/products/needoh-candy-swirl-nice-cube"
+  },
+  "Funky Fidgets|scrunchems-squishy-marshmallow": {
+   "available": false,
+   "price": "£7.00",
+   "title": "Scrunchems Squishy Marshmallow",
+   "url": "https://funkyfidgetsshop.co.uk/products/scrunchems-squishy-marshmallow"
   },
   "Funkytoystore|needoh-2026-advent-calendar": {
    "available": false,
@@ -2230,6 +2284,18 @@
    "title": "Color Changing NeeDoh",
    "url": "https://www.isaacstreasures.com/product/bigjigs-color-changing-needoh/"
   },
+  "JKDIRECT|needoh-jack-glow-lantern-glow-in-the-dark-w-sticker-sheet-random-colour": {
+   "available": false,
+   "price": "£25.00",
+   "title": "NeeDoh Jack-Glow Lantern Glow In The Dark w/ Sticker Sheet - Random Colour",
+   "url": "https://jkdirectstore.com/products/needoh-jack-glow-lantern-glow-in-the-dark-w-sticker-sheet-random-colour"
+  },
+  "JKDIRECT|needoh-mellow-mallow": {
+   "available": false,
+   "price": "£21.00",
+   "title": "NeeDoh Mello Mallo",
+   "url": "https://jkdirectstore.com/products/needoh-mellow-mallow"
+  },
   "Jadlam Toys|halloween-squish-toy-bundle-w-jack-glow-needoh-lantern": {
    "available": true,
    "price": "£39.95",
@@ -2578,6 +2644,12 @@
    "title": "NeeDoh Teenie Fuzz Ball Multipack Sensory Fidget Toy",
    "url": "https://jukupop.com/products/needoh-teenie-fuzz-ball-multipack-sensory-fidget-toy"
   },
+  "Jukupop|scrunchems-marshmallow-squishy": {
+   "available": false,
+   "price": "£4.99",
+   "title": "Scrunchems Marshmallow Squishy",
+   "url": "https://jukupop.com/products/scrunchems-marshmallow-squishy"
+  },
   "Jukupop|teenie-needoh-cool-cats-fidget-toy-set-pack-of-3-sensory-toy": {
    "available": false,
    "price": "£9.99",
@@ -2805,6 +2877,12 @@
    "price": "£4.00",
    "title": "Snow Ball Crunch",
    "url": "https://mysmallworld.co.uk/products/snow-ball-crunch"
+  },
+  "My Small World Toy Shop|speks-tree-gump": {
+   "available": false,
+   "price": "£8.00",
+   "title": "Speks Tree Gump",
+   "url": "https://mysmallworld.co.uk/products/speks-tree-gump"
   },
   "My Small World Toy Shop|squeeza-needoh": {
    "available": false,
@@ -3094,6 +3172,12 @@
    "title": "Roskai Sensory Fidgets Bundle including 1 Random Needoh",
    "url": "https://roskai.com/products/sensory-fidgets-bundle-including-1-random-needoh"
   },
+  "Roskai|speks-tree-gump-24-units-with-display-christmas-the-memory-gel-stress-ball-sensory-fidget": {
+   "available": false,
+   "price": "£7.95",
+   "title": "Coming soon..Speks Tree Gump 24 Units with Display - Christmas - The Memory Gel Stress Ball Sensory Fidget",
+   "url": "https://roskai.com/products/speks-tree-gump-24-units-with-display-christmas-the-memory-gel-stress-ball-sensory-fidget"
+  },
   "Roskai|sploot-splat-needoh-sensory-fidget-stress-toy": {
    "available": false,
    "price": "£7.99",
@@ -3141,6 +3225,12 @@
    "price": "£3.99",
    "title": "Teenie Singles Nice Ice Baby Needoh",
    "url": "https://roskai.com/products/teenie-singles-nice-ice-baby-needoh-assorted-colours"
+  },
+  "Simply Toys|new-tree-gump-christmas-order-by-1st-april-2026-the-memory-gel-stress-ball": {
+   "available": false,
+   "price": "£6.95",
+   "title": "*New* Tree Gump - Christmas - The Memory Gel Stress Ball",
+   "url": "https://simplytoys.co.uk/products/new-tree-gump-christmas-order-by-1st-april-2026-the-memory-gel-stress-ball"
   },
   "So Realistic|1729438089614625850": {
    "available": false,
@@ -3532,6 +3622,12 @@
    "title": "Groovy Fruit NeeDoh (3 Pack)",
    "url": "https://www.thedyslexiashop.co.uk/products/groovy-fruit-needoh-3-pack"
   },
+  "The Dyslexia Shop|lava-squish-n-flow": {
+   "available": false,
+   "price": "£5.99",
+   "title": "Lava Squish N Flow",
+   "url": "https://www.thedyslexiashop.co.uk/products/lava-squish-n-flow"
+  },
   "The Dyslexia Shop|mello-mallo-needoh": {
    "available": false,
    "price": "£7.00",
@@ -3777,6 +3873,12 @@
    "price": "£7.00",
    "title": "Snow Ball Crunch",
    "url": "https://www.thedyslexiashop.co.uk/products/snow-ball-crunch"
+  },
+  "The Dyslexia Shop|speks-tree-gump-christmas-memory-gel-stress-ball": {
+   "available": false,
+   "price": "£7.49",
+   "title": "Speks Tree Gump - Christmas Memory Gel Stress Ball",
+   "url": "https://www.thedyslexiashop.co.uk/products/speks-tree-gump-christmas-memory-gel-stress-ball"
   },
   "The Dyslexia Shop|sploot-splat-needoh": {
    "available": false,
@@ -4401,6 +4503,12 @@
    "price": "£8.00",
    "title": "Needoh Nice Ice Baby Fidget Cube",
    "url": "https://www.toys4you.co.uk/products/schylling-needoh-nice-ice-baby-sensory-squeeze-toy"
+  },
+  "Toys4you|scrunchems-squishy-marshmallow": {
+   "available": false,
+   "price": "£9.00",
+   "title": "Scrunchems Squishy Marshmallow",
+   "url": "https://www.toys4you.co.uk/products/scrunchems-squishy-marshmallow"
   },
   "Toytown|https://www.toytownstores.com/toys-c6/pocket-money-c144/bigjigs-needoh-dream-drop-p8397": {
    "available": false,
