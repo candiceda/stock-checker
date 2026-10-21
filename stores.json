@@ -373,6 +373,21 @@
         "^needoh sticker sheet"
       ],
       "note": "Reseller - prices are often well above the normal NeeDoh price. Sticker sheets on their own are ignored."
+    },
+    {
+      "name": "City Beach UK",
+      "type": "product_pages",
+      "products": [
+        "https://www.citybeach.com/uk/schylling-needoh-nice-cube-swirl-squishy-fidget-toy/20399425-01.html",
+        "https://www.citybeach.com/uk/schylling-needoh-fuzz-ball-teenie-4-pack-squishy-fidget-toy/2040897001016-01.html"
+      ],
+      "discover": [
+        {
+          "url": "https://www.citybeach.com/uk/brands/schylling/",
+          "link_pattern": "citybeach\\.com/uk/[^/]+/[\\w-]+\\.html$"
+        }
+      ],
+      "note": "Australian retailer with a UK site; delivery 3-8 working days"
     }
   ]
 }
