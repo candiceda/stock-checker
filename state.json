@@ -130,7 +130,11 @@
    "needoh-jack-glow-lantern-glow-in-the-dark-w-sticker-sheet-random-colour",
    "needoh-mellow-mallow",
    "needoh-super-fuzzball",
-   "needoh-hot-shots-football-rare-discontinued"
+   "needoh-hot-shots-football-rare-discontinued",
+   "needoh-groovy-the-glowman-rare-discontinued",
+   "needoh-dream-drop",
+   "needoh-gum-drop",
+   "needoh-cool-cats"
   ],
   "Jadlam Toys": [
    "halloween-squish-toy-bundle-w-jack-glow-needoh-lantern",
@@ -2310,15 +2314,39 @@
    "title": "Color Changing NeeDoh",
    "url": "https://www.isaacstreasures.com/product/bigjigs-color-changing-needoh/"
   },
+  "JKDIRECT|needoh-cool-cats": {
+   "available": false,
+   "price": "£33.00",
+   "title": "NeeDoh Cool Cats Purple",
+   "url": "https://jkdirectstore.com/products/needoh-cool-cats"
+  },
+  "JKDIRECT|needoh-dream-drop": {
+   "available": false,
+   "price": "£31.00",
+   "title": "NeeDoh Dream Drop",
+   "url": "https://jkdirectstore.com/products/needoh-dream-drop"
+  },
   "JKDIRECT|needoh-funky-pup": {
    "available": false,
    "price": "£31.00",
    "title": "NeeDoh Funky Pup",
    "url": "https://jkdirectstore.com/products/needoh-funky-pup"
   },
+  "JKDIRECT|needoh-groovy-the-glowman-rare-discontinued": {
+   "available": false,
+   "price": "£96.00",
+   "title": "NeeDoh Groovy The Glowman - RARE DISCONTINUED!",
+   "url": "https://jkdirectstore.com/products/needoh-groovy-the-glowman-rare-discontinued"
+  },
+  "JKDIRECT|needoh-gum-drop": {
+   "available": false,
+   "price": "£28.00",
+   "title": "NeeDoh Gumdrop",
+   "url": "https://jkdirectstore.com/products/needoh-gum-drop"
+  },
   "JKDIRECT|needoh-hot-shots-football-rare-discontinued": {
    "available": false,
-   "price": "£205.00",
+   "price": "£206.00",
    "title": "NeeDoh Hot Shots Football - RARE DISCONTINUED",
    "url": "https://jkdirectstore.com/products/needoh-hot-shots-football-rare-discontinued"
   },
