@@ -127,7 +127,10 @@
    "needoh-nice-ice-baby",
    "needoh-swirl-4-pack",
    "needoh-funky-pup",
-   "needoh-jack-glow-lantern-glow-in-the-dark-w-sticker-sheet-random-colour"
+   "needoh-jack-glow-lantern-glow-in-the-dark-w-sticker-sheet-random-colour",
+   "needoh-mellow-mallow",
+   "needoh-super-fuzzball",
+   "needoh-hot-shots-football-rare-discontinued"
   ],
   "Jadlam Toys": [
    "halloween-squish-toy-bundle-w-jack-glow-needoh-lantern",
@@ -2313,6 +2316,12 @@
    "title": "NeeDoh Funky Pup",
    "url": "https://jkdirectstore.com/products/needoh-funky-pup"
   },
+  "JKDIRECT|needoh-hot-shots-football-rare-discontinued": {
+   "available": false,
+   "price": "£205.00",
+   "title": "NeeDoh Hot Shots Football - RARE DISCONTINUED",
+   "url": "https://jkdirectstore.com/products/needoh-hot-shots-football-rare-discontinued"
+  },
   "JKDIRECT|needoh-jack-glow-lantern-glow-in-the-dark-w-sticker-sheet-random-colour": {
    "available": false,
    "price": "£25.00",
@@ -2330,6 +2339,12 @@
    "price": "£14.00",
    "title": "NeeDoh Nice Ice Baby",
    "url": "https://jkdirectstore.com/products/needoh-nice-ice-baby"
+  },
+  "JKDIRECT|needoh-super-fuzzball": {
+   "available": false,
+   "price": "£48.00",
+   "title": "NeeDoh Super Fuzzball",
+   "url": "https://jkdirectstore.com/products/needoh-super-fuzzball"
   },
   "JKDIRECT|needoh-swirl-4-pack": {
    "available": false,
@@ -4583,7 +4598,7 @@
   },
   "Toys4you|scrunchems-squishy-marshmallow": {
    "available": false,
-   "price": "£9.00",
+   "price": "£10.00",
    "title": "Scrunchems Squishy Marshmallow",
    "url": "https://www.toys4you.co.uk/products/scrunchems-squishy-marshmallow"
   },
