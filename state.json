@@ -238,7 +238,7 @@
   "Urban Outfitters": 13,
   "Waterstones": 2
  },
- "full_scan_slot": 995867,
+ "full_scan_slot": 995868,
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
    "available": false,
@@ -3457,7 +3457,7 @@
    "url": "https://teddystrove.co.uk/products/schylling-glow-in-the-dark-nee-doh"
   },
   "Teddy's Trove|schylling-gum-ball-squeeze-ball": {
-   "available": false,
+   "available": true,
    "price": "£9.99",
    "title": "Schylling Gum Ball Nee Doh Squeeze Ball",
    "url": "https://teddystrove.co.uk/products/schylling-gum-ball-squeeze-ball"
