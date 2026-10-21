@@ -125,7 +125,9 @@
   "Giftology": [],
   "JKDIRECT": [
    "needoh-nice-ice-baby",
-   "needoh-swirl-4-pack"
+   "needoh-swirl-4-pack",
+   "needoh-funky-pup",
+   "needoh-jack-glow-lantern-glow-in-the-dark-w-sticker-sheet-random-colour"
   ],
   "Jadlam Toys": [
    "halloween-squish-toy-bundle-w-jack-glow-needoh-lantern",
@@ -2304,6 +2306,12 @@
    "price": "£3.49",
    "title": "Color Changing NeeDoh",
    "url": "https://www.isaacstreasures.com/product/bigjigs-color-changing-needoh/"
+  },
+  "JKDIRECT|needoh-funky-pup": {
+   "available": false,
+   "price": "£31.00",
+   "title": "NeeDoh Funky Pup",
+   "url": "https://jkdirectstore.com/products/needoh-funky-pup"
   },
   "JKDIRECT|needoh-jack-glow-lantern-glow-in-the-dark-w-sticker-sheet-random-colour": {
    "available": false,
