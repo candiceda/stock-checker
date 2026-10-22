@@ -128,14 +128,14 @@
   "Funkytoystore": [],
   "Giftology": [],
   "JKDIRECT": [
-   "needoh-jack-glow-lantern-glow-in-the-dark-w-sticker-sheet-random-colour",
-   "needoh-teenie-fuzz-ball",
-   "needoh-funky-pup",
    "needoh-cloud-pleaser",
-   "needoh-fuzzball-flower-power",
    "needoh-dream-drop",
+   "needoh-funky-pup",
+   "needoh-fuzzball-flower-power",
+   "needoh-jack-glow-lantern-glow-in-the-dark-w-sticker-sheet-random-colour",
    "needoh-mellow-mallow",
-   "needoh-nice-cube-blue"
+   "needoh-nice-cube-blue",
+   "needoh-teenie-fuzz-ball"
   ],
   "Jadlam Toys": [
    "halloween-squish-toy-bundle-w-jack-glow-needoh-lantern",
@@ -283,7 +283,7 @@
   "Urban Outfitters": 13,
   "Waterstones": 2
  },
- "full_scan_slot": 995944,
+ "full_scan_slot": 995945,
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
    "available": false,
