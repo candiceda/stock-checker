@@ -171,7 +171,9 @@
    "speks-tree-gump-24-units-with-display-christmas-the-memory-gel-stress-ball-sensory-fidget"
   ],
   "Science Museum Shop": [],
-  "Scribbler": [],
+  "Scribbler": [
+   "needoh-advent-calendar-2026"
+  ],
   "Simply Toys": [],
   "So Realistic": [],
   "TDMM Family": [
@@ -3340,6 +3342,12 @@
    "price": "£3.99",
    "title": "Teenie Singles Nice Ice Baby Needoh",
    "url": "https://roskai.com/products/teenie-singles-nice-ice-baby-needoh-assorted-colours"
+  },
+  "Scribbler|needoh-advent-calendar-2026": {
+   "available": true,
+   "price": "£41.01",
+   "title": "NeeDoh Advent Calendar 2026",
+   "url": "https://www.scribbler.com/products/needoh-advent-calendar-2026"
   },
   "Simply Toys|new-tree-gump-christmas-order-by-1st-april-2026-the-memory-gel-stress-ball": {
    "available": false,
