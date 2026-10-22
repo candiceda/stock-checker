@@ -142,6 +142,7 @@
    "speks-gump-christmas-tree-adult-fidget-stress-relief"
   ],
   "Jukupop": [
+   "jukupop-viral-squishy-bundles",
    "needoh-2026-advent-calendar-24-mini-fidget-sensory-toys-stress-relief-mindful-play",
    "needoh-dream-drop-squishy-fidget-toy-for-stress-anxiety-adhd-autism-maltose-sugar-filling",
    "needoh-glitter-glow-nice-cube-sensory-fidget-toy",
@@ -276,7 +277,7 @@
   "Urban Outfitters": 13,
   "Waterstones": 2
  },
- "full_scan_slot": 995943,
+ "full_scan_slot": 995944,
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
    "available": false,
@@ -2695,6 +2696,12 @@
    "price": "£8.95",
    "title": "Speks Gump - Christmas Tree - Adult Fidget Stress-Relief",
    "url": "https://www.jadlamracingmodels.com/products/speks-gump-christmas-tree-adult-fidget-stress-relief"
+  },
+  "Jukupop|jukupop-viral-squishy-bundles": {
+   "available": true,
+   "price": "£36.99",
+   "title": "JUKUPOP Viral Squishy Bundle – Includes NeeDoh & 4 More Sensory Toys",
+   "url": "https://jukupop.com/products/jukupop-viral-squishy-bundles"
   },
   "Jukupop|needoh-2026-advent-calendar-24-mini-fidget-sensory-toys-stress-relief-mindful-play": {
    "available": false,
