@@ -128,7 +128,8 @@
   "Funkytoystore": [],
   "Giftology": [],
   "JKDIRECT": [
-   "needoh-jack-glow-lantern-glow-in-the-dark-w-sticker-sheet-random-colour"
+   "needoh-jack-glow-lantern-glow-in-the-dark-w-sticker-sheet-random-colour",
+   "needoh-teenie-fuzz-ball"
   ],
   "Jadlam Toys": [
    "halloween-squish-toy-bundle-w-jack-glow-needoh-lantern",
@@ -2394,6 +2395,12 @@
    "price": "£25.00",
    "title": "NeeDoh Swirl 4 Pack",
    "url": "https://jkdirectstore.com/products/needoh-swirl-4-pack"
+  },
+  "JKDIRECT|needoh-teenie-fuzz-ball": {
+   "available": false,
+   "price": "£25.00",
+   "title": "NeeDoh Teenie Fuzz Ball (3 Pack) - Damaged Box",
+   "url": "https://jkdirectstore.com/products/needoh-teenie-fuzz-ball"
   },
   "Jadlam Toys|halloween-squish-toy-bundle-w-jack-glow-needoh-lantern": {
    "available": true,
