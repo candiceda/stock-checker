@@ -130,7 +130,9 @@
   "JKDIRECT": [
    "needoh-jack-glow-lantern-glow-in-the-dark-w-sticker-sheet-random-colour",
    "needoh-teenie-fuzz-ball",
-   "needoh-funky-pup"
+   "needoh-funky-pup",
+   "needoh-cloud-pleaser",
+   "needoh-fuzzball-flower-power"
   ],
   "Jadlam Toys": [
    "halloween-squish-toy-bundle-w-jack-glow-needoh-lantern",
@@ -2332,6 +2334,12 @@
    "title": "Color Changing NeeDoh",
    "url": "https://www.isaacstreasures.com/product/bigjigs-color-changing-needoh/"
   },
+  "JKDIRECT|needoh-cloud-pleaser": {
+   "available": false,
+   "price": "£39.00",
+   "title": "NeeDoh Cloud Pleaser",
+   "url": "https://jkdirectstore.com/products/needoh-cloud-pleaser"
+  },
   "JKDIRECT|needoh-cool-cats": {
    "available": false,
    "price": "£33.00",
@@ -2349,6 +2357,12 @@
    "price": "£31.00",
    "title": "NeeDoh Funky Pup",
    "url": "https://jkdirectstore.com/products/needoh-funky-pup"
+  },
+  "JKDIRECT|needoh-fuzzball-flower-power": {
+   "available": false,
+   "price": "£28.00",
+   "title": "NeeDoh Fuzzball Flower Power / Original w/ Sticker Sheet",
+   "url": "https://jkdirectstore.com/products/needoh-fuzzball-flower-power"
   },
   "JKDIRECT|needoh-groovy-the-glowman-rare-discontinued": {
    "available": false,
