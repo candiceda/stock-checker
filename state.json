@@ -255,7 +255,7 @@
   "Rainbow Nation": 0,
   "Roskai": 0,
   "Science Museum Shop": 0,
-  "Scribbler": 0,
+  "Scribbler": 1,
   "Simply Toys": 0,
   "So Realistic": 0,
   "TDMM Family": 0,
@@ -273,7 +273,7 @@
   "Urban Outfitters": 13,
   "Waterstones": 2
  },
- "full_scan_slot": 995908,
+ "full_scan_slot": 995909,
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
    "available": false,
