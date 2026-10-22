@@ -134,7 +134,8 @@
    "needoh-cloud-pleaser",
    "needoh-fuzzball-flower-power",
    "needoh-dream-drop",
-   "needoh-mellow-mallow"
+   "needoh-mellow-mallow",
+   "needoh-nice-cube-blue"
   ],
   "Jadlam Toys": [
    "halloween-squish-toy-bundle-w-jack-glow-needoh-lantern",
@@ -2395,6 +2396,12 @@
    "price": "£21.00",
    "title": "NeeDoh Mello Mallo",
    "url": "https://jkdirectstore.com/products/needoh-mellow-mallow"
+  },
+  "JKDIRECT|needoh-nice-cube-blue": {
+   "available": false,
+   "price": "£21.00",
+   "title": "NeeDoh Nice Cube - Random Colour",
+   "url": "https://jkdirectstore.com/products/needoh-nice-cube-blue"
   },
   "JKDIRECT|needoh-nice-ice-baby": {
    "available": false,
