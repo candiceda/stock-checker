@@ -259,7 +259,7 @@
   "Jukupop": 0,
   "Junior Edition": 0,
   "My Small World Toy Shop": 0,
-  "Paper Tiger": 0,
+  "Paper Tiger": 1,
   "Plush Paradise": 0,
   "Polhill Garden Centre": 0,
   "Rainbow Nation": 0,
@@ -283,7 +283,7 @@
   "Urban Outfitters": 13,
   "Waterstones": 2
  },
- "full_scan_slot": 995964,
+ "full_scan_slot": 995965,
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
    "available": false,
