@@ -206,7 +206,8 @@
   ],
   "The Fidget Works": [
    "needoh-sploot-splat",
-   "scrunchems-marshmallow-squishy"
+   "scrunchems-marshmallow-squishy",
+   "needoh-advent-calendar-2026"
   ],
   "The Kid Collective": [],
   "Tinker & Tot": [],
@@ -4096,6 +4097,12 @@
    "price": "£6.98",
    "title": "Needoh Teenie Singles Nice Ice Baby",
    "url": "https://www.thedyslexiashop.co.uk/products/teenie-singles-nice-ice-baby-needoh"
+  },
+  "The Fidget Works|needoh-advent-calendar-2026": {
+   "available": true,
+   "price": "£44.99",
+   "title": "NeeDoh Advent Calendar 2026 1 per customer",
+   "url": "https://thefidgetworks.co.uk/products/needoh-advent-calendar-2026"
   },
   "The Fidget Works|needoh-sploot-splat": {
    "available": false,
