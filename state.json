@@ -282,7 +282,7 @@
   "Toy-Box Hampshire": 0,
   "Toys4you": 0,
   "Toytown": 0,
-  "Urban Outfitters": 10,
+  "Urban Outfitters": 11,
   "Waterstones": 2
  },
  "full_scan_slot": 995990,
@@ -3397,7 +3397,7 @@
   },
   "Scribbler|needoh-advent-calendar-2026": {
    "available": false,
-   "price": "£40.90",
+   "price": "£40.91",
    "title": "NeeDoh Advent Calendar 2026",
    "url": "https://www.scribbler.com/products/needoh-advent-calendar-2026"
   },
@@ -4681,7 +4681,7 @@
   },
   "Toys4you|needoh-2026-christmas-advent-calendar-stress-ball-set": {
    "available": false,
-   "price": "£105.00",
+   "price": "£106.00",
    "title": "Needoh 2026 Christmas Advent Calendar Stress Ball Set",
    "url": "https://www.toys4you.co.uk/products/needoh-2026-christmas-advent-calendar-stress-ball-set"
   },
