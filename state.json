@@ -280,7 +280,7 @@
   "Toy-Box Hampshire": 0,
   "Toys4you": 0,
   "Toytown": 0,
-  "Urban Outfitters": 10,
+  "Urban Outfitters": 11,
   "Waterstones": 2
  },
  "full_scan_slot": 995970,
@@ -1666,7 +1666,7 @@
    "url": "https://funhousetoys.co.uk/products/needoh-advent-calendar-24-day-of-squishmas"
   },
   "Funhouse Toys|needoh-candy-swirl-nice-cube": {
-   "available": false,
+   "available": true,
    "price": "£8.99",
    "title": "NeeDoh Candy Swirl Nice Cube",
    "url": "https://funhousetoys.co.uk/products/needoh-candy-swirl-nice-cube"
