@@ -256,7 +256,7 @@
   "Funhouse Toys": 0,
   "Funky Fidgets": 0,
   "Funkytoystore": 0,
-  "Giftology": 0,
+  "Giftology": 1,
   "Hamleys": 2,
   "Isaac's Treasures": 0,
   "JKDIRECT": 0,
@@ -288,7 +288,7 @@
   "Urban Outfitters": 13,
   "Waterstones": 2
  },
- "full_scan_slot": 996039,
+ "full_scan_slot": 996040,
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
    "available": false,
