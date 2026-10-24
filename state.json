@@ -142,7 +142,8 @@
    "needoh-teenie-fuzz-ball",
    "needoh-fuzzball-teenie-velvet-squeeze-soft-cloud-squishy-stress-ball-4-pack",
    "needoh-jelly-hops-yellow",
-   "needoh-knittens-random-colour"
+   "needoh-knittens-random-colour",
+   "needoh-jelly-squish-pink"
   ],
   "Jadlam Toys": [
    "halloween-squish-toy-bundle-w-jack-glow-needoh-lantern",
@@ -2415,6 +2416,12 @@
    "price": "£41.00",
    "title": "NeeDoh Jelly Hops - Random Colour",
    "url": "https://jkdirectstore.com/products/needoh-jelly-hops-yellow"
+  },
+  "JKDIRECT|needoh-jelly-squish-pink": {
+   "available": false,
+   "price": "£41.00",
+   "title": "NeeDoh Jelly Squish - PINK",
+   "url": "https://jkdirectstore.com/products/needoh-jelly-squish-pink"
   },
   "JKDIRECT|needoh-knittens-random-colour": {
    "available": false,
