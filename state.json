@@ -140,7 +140,9 @@
    "needoh-nice-cube-glitter-glow",
    "needoh-swirl-4-pack",
    "needoh-teenie-fuzz-ball",
-   "needoh-fuzzball-teenie-velvet-squeeze-soft-cloud-squishy-stress-ball-4-pack"
+   "needoh-fuzzball-teenie-velvet-squeeze-soft-cloud-squishy-stress-ball-4-pack",
+   "needoh-jelly-hops-yellow",
+   "needoh-knittens-random-colour"
   ],
   "Jadlam Toys": [
    "halloween-squish-toy-bundle-w-jack-glow-needoh-lantern",
@@ -2407,6 +2409,18 @@
    "price": "£25.00",
    "title": "NeeDoh Jack-Glow Lantern Glow In The Dark w/ Sticker Sheet - Random Colour",
    "url": "https://jkdirectstore.com/products/needoh-jack-glow-lantern-glow-in-the-dark-w-sticker-sheet-random-colour"
+  },
+  "JKDIRECT|needoh-jelly-hops-yellow": {
+   "available": false,
+   "price": "£0.00",
+   "title": "NeeDoh Jelly Hops - Random Colour",
+   "url": "https://jkdirectstore.com/products/needoh-jelly-hops-yellow"
+  },
+  "JKDIRECT|needoh-knittens-random-colour": {
+   "available": false,
+   "price": "£33.00",
+   "title": "NeeDoh Knittens - Random Colour",
+   "url": "https://jkdirectstore.com/products/needoh-knittens-random-colour"
   },
   "JKDIRECT|needoh-mellow-mallow": {
    "available": false,
