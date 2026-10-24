@@ -144,7 +144,8 @@
    "needoh-nice-cube-glitter-glow",
    "needoh-swirl-4-pack",
    "needoh-teenie-fuzz-ball",
-   "needoh-nice-berg-swirl-random-colour"
+   "needoh-nice-berg-swirl-random-colour",
+   "needoh-colour-change-random-colour"
   ],
   "Jadlam Toys": [
    "halloween-squish-toy-bundle-w-jack-glow-needoh-lantern",
@@ -2357,6 +2358,12 @@
    "price": "£39.00",
    "title": "NeeDoh Cloud Pleaser",
    "url": "https://jkdirectstore.com/products/needoh-cloud-pleaser"
+  },
+  "JKDIRECT|needoh-colour-change-random-colour": {
+   "available": false,
+   "price": "£21.00",
+   "title": "NeeDoh Colour Change - Random Colour",
+   "url": "https://jkdirectstore.com/products/needoh-colour-change-random-colour"
   },
   "JKDIRECT|needoh-cool-cats": {
    "available": false,
