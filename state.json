@@ -286,7 +286,7 @@
   "Urban Outfitters": 13,
   "Waterstones": 2
  },
- "full_scan_slot": 996018,
+ "full_scan_slot": 996019,
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
    "available": false,
@@ -349,7 +349,7 @@
    "url": "https://www.alissensoryboxes.com/products/needoh-nice-cube"
   },
   "Ali's Sensory Boxes|needoh-nice-cube-candy-swirl": {
-   "available": false,
+   "available": true,
    "price": "£6.99",
    "title": "NeeDoh Nice Cube Candy Swirl",
    "url": "https://www.alissensoryboxes.com/products/needoh-nice-cube-candy-swirl"
