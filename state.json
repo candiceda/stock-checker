@@ -132,13 +132,13 @@
    "needoh-dream-drop",
    "needoh-funky-pup",
    "needoh-fuzzball-flower-power",
+   "needoh-gum-drop",
    "needoh-jack-glow-lantern-glow-in-the-dark-w-sticker-sheet-random-colour",
    "needoh-mellow-mallow",
    "needoh-nice-cube-blue",
    "needoh-nice-cube-glitter-glow",
    "needoh-swirl-4-pack",
-   "needoh-teenie-fuzz-ball",
-   "needoh-gum-drop"
+   "needoh-teenie-fuzz-ball"
   ],
   "Jadlam Toys": [
    "halloween-squish-toy-bundle-w-jack-glow-needoh-lantern",
@@ -286,7 +286,7 @@
   "Urban Outfitters": 13,
   "Waterstones": 2
  },
- "full_scan_slot": 996014,
+ "full_scan_slot": 996015,
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
    "available": false,
