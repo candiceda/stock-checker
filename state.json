@@ -143,7 +143,8 @@
    "needoh-nice-cube-blue",
    "needoh-nice-cube-glitter-glow",
    "needoh-swirl-4-pack",
-   "needoh-teenie-fuzz-ball"
+   "needoh-teenie-fuzz-ball",
+   "needoh-nice-berg-swirl-random-colour"
   ],
   "Jadlam Toys": [
    "halloween-squish-toy-bundle-w-jack-glow-needoh-lantern",
@@ -2434,6 +2435,12 @@
    "price": "£21.00",
    "title": "NeeDoh Mello Mallo",
    "url": "https://jkdirectstore.com/products/needoh-mellow-mallow"
+  },
+  "JKDIRECT|needoh-nice-berg-swirl-random-colour": {
+   "available": false,
+   "price": "£0.00",
+   "title": "NeeDoh Nice Berg Swirl - Random Colour",
+   "url": "https://jkdirectstore.com/products/needoh-nice-berg-swirl-random-colour"
   },
   "JKDIRECT|needoh-nice-cube-blue": {
    "available": false,
