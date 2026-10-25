@@ -137,6 +137,7 @@
    "needoh-jack-glow-lantern-glow-in-the-dark-w-sticker-sheet-random-colour",
    "needoh-jelly-hops-yellow",
    "needoh-mellow-mallow",
+   "needoh-nice-berg",
    "needoh-nice-cube-blue",
    "needoh-nice-cube-glitter-glow",
    "needoh-super-fuzzball",
@@ -289,7 +290,7 @@
   "Urban Outfitters": 13,
   "Waterstones": 2
  },
- "full_scan_slot": 996069,
+ "full_scan_slot": 996070,
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
    "available": false,
@@ -2438,6 +2439,12 @@
    "price": "£21.00",
    "title": "NeeDoh Mello Mallo",
    "url": "https://jkdirectstore.com/products/needoh-mellow-mallow"
+  },
+  "JKDIRECT|needoh-nice-berg": {
+   "available": false,
+   "price": "£41.00",
+   "title": "NeeDoh Nice Berg Blue",
+   "url": "https://jkdirectstore.com/products/needoh-nice-berg"
   },
   "JKDIRECT|needoh-nice-berg-swirl-random-colour": {
    "available": false,
