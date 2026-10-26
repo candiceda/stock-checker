@@ -266,7 +266,7 @@
   "Funkytoystore": 0,
   "Giftology": 0,
   "Hamleys": 2,
-  "Isaac's Treasures": 1,
+  "Isaac's Treasures": 2,
   "JKDIRECT": 0,
   "Jadlam Toys": 0,
   "Jukupop": 0,
@@ -1110,13 +1110,13 @@
   },
   "Cloud Nine Boutique|needoh-mystery-box-3-different-needoh": {
    "available": false,
-   "price": "£69.00",
+   "price": "£68.00",
    "title": "NeeDoh Mystery Box – 3 Different NeeDoh",
    "url": "https://cloudnineboutique.net/products/needoh-mystery-box-3-different-needoh"
   },
   "Cloud Nine Boutique|needoh-mystery-box-5-different-needoh": {
    "available": false,
-   "price": "£103.00",
+   "price": "£102.00",
    "title": "NeeDoh Mystery Box – 5 Different NeeDoh",
    "url": "https://cloudnineboutique.net/products/needoh-mystery-box-5-different-needoh"
   },
@@ -1242,7 +1242,7 @@
   },
   "Cloud Nine Boutique|needoh-super-fuzzball-velvet-squeeze-stress-ball": {
    "available": false,
-   "price": "£35.00",
+   "price": "£34.00",
    "title": "NeeDoh Super FuzzBall Velvet Squeeze Stress Ball (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-super-fuzzball-velvet-squeeze-stress-ball"
   },
@@ -2370,7 +2370,7 @@
   },
   "JKDIRECT|needoh-color-change-4-pack": {
    "available": false,
-   "price": "£35.00",
+   "price": "£34.00",
    "title": "NeeDoh Color Change - 4 Pack",
    "url": "https://jkdirectstore.com/products/needoh-color-change-4-pack"
   },
@@ -2490,7 +2490,7 @@
   },
   "JKDIRECT|needoh-nice-sicle": {
    "available": false,
-   "price": "£35.00",
+   "price": "£34.00",
    "title": "NeeDoh Nice-Sicle - Random Colour",
    "url": "https://jkdirectstore.com/products/needoh-nice-sicle"
   },
@@ -3474,7 +3474,7 @@
   },
   "Scribbler|needoh-advent-calendar-2026": {
    "available": false,
-   "price": "£40.86",
+   "price": "£40.78",
    "title": "NeeDoh Advent Calendar 2026",
    "url": "https://www.scribbler.com/products/needoh-advent-calendar-2026"
   },
