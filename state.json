@@ -266,7 +266,7 @@
   "Funkytoystore": 0,
   "Giftology": 0,
   "Hamleys": 2,
-  "Isaac's Treasures": 0,
+  "Isaac's Treasures": 1,
   "JKDIRECT": 0,
   "Jadlam Toys": 0,
   "Jukupop": 0,
@@ -2381,9 +2381,9 @@
    "url": "https://jkdirectstore.com/products/needoh-colour-change-random-colour"
   },
   "JKDIRECT|needoh-cool-cats": {
-   "available": false,
+   "available": true,
    "price": "£33.00",
-   "title": "NeeDoh Cool Cats Purple",
+   "title": "NeeDoh Cool Cats",
    "url": "https://jkdirectstore.com/products/needoh-cool-cats"
   },
   "JKDIRECT|needoh-dream-drop": {
