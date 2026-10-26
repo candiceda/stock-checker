@@ -296,7 +296,7 @@
   "Urban Outfitters": 13,
   "Waterstones": 2
  },
- "full_scan_slot": 996137,
+ "full_scan_slot": 996138,
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
    "available": false,
@@ -2675,7 +2675,7 @@
    "url": "https://www.jadlamracingmodels.com/products/needoh-niceberg-swirl-large-ice-cube-sensory-fidget-toy"
   },
   "Jadlam Toys|needoh-polar-glow-penguins-squishy-sensory-toy": {
-   "available": true,
+   "available": false,
    "price": "£9.95",
    "title": "NeeDoh Polar Glow Penguin - Assorted",
    "url": "https://www.jadlamracingmodels.com/products/needoh-polar-glow-penguins-squishy-sensory-toy"
