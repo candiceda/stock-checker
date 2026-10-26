@@ -44,7 +44,8 @@
  ],
  "discovered": {
   "City Beach UK": [
-   "https://www.citybeach.com/uk/schylling-needoh-candy-swirl-nice-cube-squishy-fidget-toy/20413070-01.html"
+   "https://www.citybeach.com/uk/schylling-needoh-candy-swirl-nice-cube-squishy-fidget-toy/20413070-01.html",
+   "https://www.citybeach.com/uk/schylling-needoh-nice-ice-baby-teenie-cube-squishy-fidget-toy/20391081-01.html"
   ],
   "Hamleys": [],
   "Tink n Stink": [],
@@ -910,6 +911,12 @@
    "price": "£13.99",
    "title": "NeeDoh Nice Cube Swirl Squishy Fidget Toy",
    "url": "https://www.citybeach.com/uk/schylling-needoh-nice-cube-swirl-squishy-fidget-toy/20399425-01.html"
+  },
+  "City Beach UK|https://www.citybeach.com/uk/schylling-needoh-nice-ice-baby-teenie-cube-squishy-fidget-toy/20391081-01.html": {
+   "available": true,
+   "price": "£6.99",
+   "title": "NeeDoh Nice Ice Baby Teenie Cube Squishy Fidget Toy",
+   "url": "https://www.citybeach.com/uk/schylling-needoh-nice-ice-baby-teenie-cube-squishy-fidget-toy/20391081-01.html"
   },
   "Cloud Nine Boutique|needoh-advent-calendar-mini-christmas-groovy-squishy-fidget-toy-24-pack": {
    "available": false,
