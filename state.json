@@ -122,9 +122,7 @@
    "coming-soon-needoh-nice-cream-cone",
    "coming-soon-needoh-nice-sicle",
    "coming-soon-needoh-squeezza-pizza",
-   "halloween-bundle",
-   "needoh-candy-swirl-nice-cube",
-   "scrunchems-squishy-marshmallow"
+   "needoh-candy-swirl-nice-cube"
   ],
   "Funkytoystore": [],
   "Giftology": [],
@@ -288,7 +286,7 @@
   "Teddy's Trove": 0,
   "The Dyslexia Shop": 0,
   "The Fidget Works": 0,
-  "The Kid Collective": 0,
+  "The Kid Collective": 1,
   "Tink n Stink": 0,
   "Tinker & Tot": 0,
   "Toy Barnhaus": 0,
@@ -298,7 +296,7 @@
   "Urban Outfitters": 13,
   "Waterstones": 2
  },
- "full_scan_slot": 996141,
+ "full_scan_slot": 996142,
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
    "available": false,
