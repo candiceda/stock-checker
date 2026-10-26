@@ -141,6 +141,8 @@
    "needoh-nice-berg",
    "needoh-nice-cube-blue",
    "needoh-nice-cube-glitter-glow",
+   "needoh-nice-ice-baby",
+   "needoh-nice-sicle",
    "needoh-super-fuzzball",
    "needoh-swirl-4-pack",
    "needoh-swirl-pink-white-black-purple",
@@ -292,7 +294,7 @@
   "Urban Outfitters": 13,
   "Waterstones": 2
  },
- "full_scan_slot": 996123,
+ "full_scan_slot": 996124,
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
    "available": false,
@@ -2477,6 +2479,12 @@
    "price": "£14.00",
    "title": "NeeDoh Nice Ice Baby",
    "url": "https://jkdirectstore.com/products/needoh-nice-ice-baby"
+  },
+  "JKDIRECT|needoh-nice-sicle": {
+   "available": false,
+   "price": "£35.00",
+   "title": "NeeDoh Nice-Sicle - Random Colour",
+   "url": "https://jkdirectstore.com/products/needoh-nice-sicle"
   },
   "JKDIRECT|needoh-super-fuzzball": {
    "available": false,
