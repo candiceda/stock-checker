@@ -122,7 +122,8 @@
    "coming-soon-needoh-nice-cream-cone",
    "coming-soon-needoh-nice-sicle",
    "coming-soon-needoh-squeezza-pizza",
-   "needoh-candy-swirl-nice-cube"
+   "needoh-candy-swirl-nice-cube",
+   "scrunchems-squishy-marshmallow"
   ],
   "Funkytoystore": [],
   "Giftology": [],
@@ -1787,7 +1788,7 @@
    "url": "https://funkyfidgetsshop.co.uk/products/needoh-candy-swirl-nice-cube"
   },
   "Funky Fidgets|scrunchems-squishy-marshmallow": {
-   "available": false,
+   "available": true,
    "price": "£7.00",
    "title": "Scrunchems Squishy Marshmallow",
    "url": "https://funkyfidgetsshop.co.uk/products/scrunchems-squishy-marshmallow"
