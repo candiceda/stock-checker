@@ -128,6 +128,7 @@
   "Funkytoystore": [],
   "Giftology": [],
   "JKDIRECT": [
+   "needoh-2026-christmas-advent-calendar",
    "needoh-candy-swirl-bundle",
    "needoh-cloud-pleaser",
    "needoh-color-change-4-pack",
@@ -298,7 +299,7 @@
   "Urban Outfitters": 13,
   "Waterstones": 2
  },
- "full_scan_slot": 996187,
+ "full_scan_slot": 996188,
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
    "available": false,
@@ -2357,6 +2358,12 @@
    "price": "£3.49",
    "title": "Color Changing NeeDoh",
    "url": "https://www.isaacstreasures.com/product/bigjigs-color-changing-needoh/"
+  },
+  "JKDIRECT|needoh-2026-christmas-advent-calendar": {
+   "available": false,
+   "price": "£68.00",
+   "title": "NeeDoh 2026 Christmas Advent Calendar Sealed",
+   "url": "https://jkdirectstore.com/products/needoh-2026-christmas-advent-calendar"
   },
   "JKDIRECT|needoh-candy-swirl-bundle": {
    "available": false,
