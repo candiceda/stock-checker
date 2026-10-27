@@ -189,6 +189,7 @@
   "Polhill Garden Centre": [],
   "Rainbow Nation": [],
   "Roskai": [
+   "halloween-boo-bundle-including-one-needoh",
    "scrunchems-marshmallow-squishy",
    "speks-tree-gump-24-units-with-display-christmas-the-memory-gel-stress-ball-sensory-fidget"
   ],
@@ -297,7 +298,7 @@
   "Urban Outfitters": 13,
   "Waterstones": 2
  },
- "full_scan_slot": 996174,
+ "full_scan_slot": 996175,
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
    "available": false,
@@ -3274,6 +3275,12 @@
    "price": "£6.99",
    "title": "Fuzz Ball Wonder Waves Needoh",
    "url": "https://roskai.com/products/fuzz-ball-wonder-waves-needoh"
+  },
+  "Roskai|halloween-boo-bundle-including-one-needoh": {
+   "available": true,
+   "price": "£39.99",
+   "title": "Halloween Boo Bundle including one Needoh",
+   "url": "https://roskai.com/products/halloween-boo-bundle-including-one-needoh"
   },
   "Roskai|nee-doh-snow-ball-crunch": {
    "available": false,
