@@ -295,7 +295,7 @@
   "Toy-Box Hampshire": 0,
   "Toys4you": 0,
   "Toytown": 0,
-  "Urban Outfitters": 2,
+  "Urban Outfitters": 3,
   "Waterstones": 2
  },
  "full_scan_slot": 996202,
@@ -3506,7 +3506,7 @@
   },
   "Scribbler|needoh-advent-calendar-2026": {
    "available": false,
-   "price": "£40.69",
+   "price": "£40.67",
    "title": "NeeDoh Advent Calendar 2026",
    "url": "https://www.scribbler.com/products/needoh-advent-calendar-2026"
   },
