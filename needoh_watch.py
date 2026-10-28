@@ -107,12 +107,17 @@ def _shopify_item(store, base, p, from_js=False):
     else:
         available = any(v.get("available") for v in variants)
         prices = [float(v["price"]) for v in variants if v.get("price")]
-    return {
+    item = {
         "title": p.get("title", p["handle"]),
         "url": f"{base}/products/{p['handle']}",
         "available": available,
         "price": f"£{min(prices):.2f}" if prices else "",
     }
+    # Shopify "cart link": opens checkout with this item already in the basket
+    buyable = [v for v in variants if v.get("available") and v.get("id")]
+    if buyable:
+        item["checkout"] = f"{base}/cart/{buyable[0]['id']}:1"
+    return item
 
 
 def _is_needoh(p, keywords, exclude=()):
@@ -368,7 +373,7 @@ CHECKERS = {"shopify": check_shopify, "product_pages": check_product_pages,
 # alerts
 # --------------------------------------------------------------------------
 
-def notify(title, message, click=None, priority="high", tags="tada"):
+def notify(title, message, click=None, priority="high", tags="tada", product_url=None):
     topic = os.environ.get("NTFY_TOPIC", "").strip()
     server = os.environ.get("NTFY_SERVER", "https://ntfy.sh").rstrip("/")
     if os.environ.get("DRY_RUN") == "1" or not topic:
@@ -382,7 +387,10 @@ def notify(title, message, click=None, priority="high", tags="tada"):
     }
     if click:
         headers["Click"] = click
-        headers["Actions"] = f"view, Open shop, {click}"
+        if product_url and product_url != click:
+            headers["Actions"] = f"view, Checkout now, {click}; view, See product, {product_url}"
+        else:
+            headers["Actions"] = f"view, Open shop, {click}"
     req = urllib.request.Request(f"{server}/{topic}", data=message.encode("utf-8"),
                                  headers=headers, method="POST")
     urllib.request.urlopen(req, timeout=20).read()
@@ -397,7 +405,8 @@ def main():
     if os.environ.get("TEST_ALERT") == "1":
         notify("NeeDoh watcher is working!",
                "This is a test. You'll get an alert like this when something comes back in stock.",
-               click="https://www.bigjigstoys.co.uk/collections/nee-doh")
+               click="https://www.bigjigstoys.co.uk/collections/nee-doh",
+               priority="urgent", tags="rotating_light,tada")
         return 0
 
     config = load_json(STORES_FILE, None)
@@ -493,9 +502,12 @@ def main():
                 price = f" - {item['price']}" if item["price"] else ""
                 if item["available"] and not was_available:
                     label = "NEW & IN STOCK" if before is None else "BACK IN STOCK"
+                    checkout = item.get("checkout")
+                    tap = "Tap to go straight to checkout." if checkout else "Tap to open the shop."
                     notify(f"{label}: {item['title']}"[:120],
-                           f"{item['title']}{price}\nat {name}\nTap to open the shop.",
-                           click=item["url"])
+                           f"{item['title']}{price}\nat {name}\n{tap}",
+                           click=checkout or item["url"], product_url=item["url"],
+                           priority="urgent", tags="rotating_light,tada")
                 elif before is None:
                     notify(f"New listing: {item['title']}"[:120],
                            f"{name} has just added {item['title']}{price}. It's not buyable yet, "
