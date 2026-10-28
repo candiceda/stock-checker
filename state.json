@@ -269,7 +269,7 @@
   "Funkytoystore": 0,
   "Giftology": 0,
   "Hamleys": 2,
-  "Isaac's Treasures": 1,
+  "Isaac's Treasures": 2,
   "JKDIRECT": 0,
   "Jadlam Toys": 0,
   "Jukupop": 0,
@@ -2414,7 +2414,7 @@
    "url": "https://jkdirectstore.com/products/needoh-funky-pup"
   },
   "JKDIRECT|needoh-fuzzball-flower-power": {
-   "available": true,
+   "available": false,
    "price": "£19.99",
    "title": "NeeDoh Fuzzball Flower Power / Original w/ Sticker Sheet",
    "url": "https://jkdirectstore.com/products/needoh-fuzzball-flower-power"
