@@ -302,7 +302,7 @@
   },
   "Waterstones": 2
  },
- "full_scan_slot": 996233,
+ "full_scan_slot": 996234,
  "last_checked": {
   "Austins": 1793221170.02864,
   "Hobbycraft": 1793221170.0283947,
@@ -3516,8 +3516,7 @@
    "url": "https://www.jadlamracingmodels.com/products/speks-gump-christmas-tree-adult-fidget-stress-relief"
   },
   "Jukupop|jukupop-viral-squishy-bundles": {
-   "available": true,
-   "checkout": "https://jukupop.com/cart/57545973563716:1",
+   "available": false,
    "price": "£36.99",
    "title": "JUKUPOP Viral Squishy Bundles – Includes NeeDoh & 4 More Sensory Toys",
    "url": "https://jukupop.com/products/jukupop-viral-squishy-bundles"
