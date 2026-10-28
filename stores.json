@@ -2,8 +2,7 @@
   "keywords": [
     "needoh",
     "nee doh",
-    "gump+tree",
-    "christmas gump",
+    "re:\\bgumps?\\b.*\\btrees?\\b|\\btrees?\\b.*\\bgumps?\\b",
     "scrunchems+marshmallow",
     "re:\\bsquish\\W*(n|and)?\\W*flow\\b"
   ],
@@ -81,8 +80,21 @@
         {
           "url": "https://www.toytownstores.com/search?q=needoh",
           "link_pattern": "toytownstores\\.com/.+-p\\d+$"
+        },
+        {
+          "url": "https://www.toytownstores.com/search?q=gump",
+          "link_pattern": "toytownstores\\.com/.+-p\\d+$"
+        },
+        {
+          "url": "https://www.toytownstores.com/search?q=squish+flow",
+          "link_pattern": "toytownstores\\.com/.+-p\\d+$"
+        },
+        {
+          "url": "https://www.toytownstores.com/search?q=scrunchems",
+          "link_pattern": "toytownstores\\.com/.+-p\\d+$"
         }
-      ]
+      ],
+      "every_minutes": 5
     },
     {
       "name": "Waterstones",
@@ -272,8 +284,21 @@
         {
           "url": "https://www.tinknstink.co.uk/catalogsearch/result/?q=needoh&product_list_limit=48",
           "link_pattern": "tinknstink\\.co\\.uk/[^/]+\\.html$"
+        },
+        {
+          "url": "https://www.tinknstink.co.uk/catalogsearch/result/?q=gump&product_list_limit=48",
+          "link_pattern": "tinknstink\\.co\\.uk/[^/]+\\.html$"
+        },
+        {
+          "url": "https://www.tinknstink.co.uk/catalogsearch/result/?q=squish+flow&product_list_limit=48",
+          "link_pattern": "tinknstink\\.co\\.uk/[^/]+\\.html$"
+        },
+        {
+          "url": "https://www.tinknstink.co.uk/catalogsearch/result/?q=scrunchems&product_list_limit=48",
+          "link_pattern": "tinknstink\\.co\\.uk/[^/]+\\.html$"
         }
-      ]
+      ],
+      "every_minutes": 0
     },
     {
       "name": "Hamleys",
@@ -301,7 +326,8 @@
           "url": "https://www.urbanoutfitters.com/en-gb/brands/nee-doh",
           "link_pattern": "/en-gb/shop/"
         }
-      ]
+      ],
+      "every_minutes": 5
     },
     {
       "name": "Polhill Garden Centre",
@@ -385,9 +411,93 @@
         {
           "url": "https://www.citybeach.com/uk/brands/schylling/",
           "link_pattern": "citybeach\\.com/uk/[^/]+/[\\w-]+\\.html$"
+        },
+        {
+          "url": "https://www.citybeach.com/uk/brands/speks/",
+          "link_pattern": "citybeach\\.com/uk/[^/]+/[\\w-]+\\.html$"
         }
       ],
-      "note": "Australian retailer with a UK site; delivery 3-8 working days"
+      "note": "Australian retailer with a UK site; delivery 3-8 working days",
+      "every_minutes": 0
+    },
+    {
+      "name": "John Lewis",
+      "type": "product_pages",
+      "every_minutes": 5,
+      "products": [
+        "https://www.johnlewis.com/needoh-teenie-swirl-stress-ball-pack-of-4/p116055901",
+        "https://www.johnlewis.com/needoh-teenie-fuzzball-stress-ball-pack-of-3/p116055900"
+      ],
+      "discover": [
+        {
+          "url": "https://www.johnlewis.com/brand/needoh/_/N-peac",
+          "link_pattern": "johnlewis\\.com/[^/]+/p\\d+$"
+        }
+      ]
+    },
+    {
+      "name": "Hobbycraft",
+      "type": "product_pages",
+      "every_minutes": 5,
+      "products": [
+        "https://www.hobbycraft.co.uk/assorted-classic-needoh/6820391000.html"
+      ],
+      "discover": [
+        {
+          "url": "https://www.hobbycraft.co.uk/search/?q=needoh",
+          "link_pattern": "hobbycraft\\.co\\.uk/[^/]+/\\d+\\.html$"
+        },
+        {
+          "url": "https://www.hobbycraft.co.uk/search/?q=gump",
+          "link_pattern": "hobbycraft\\.co\\.uk/[^/]+/\\d+\\.html$"
+        },
+        {
+          "url": "https://www.hobbycraft.co.uk/search/?q=squish+flow",
+          "link_pattern": "hobbycraft\\.co\\.uk/[^/]+/\\d+\\.html$"
+        },
+        {
+          "url": "https://www.hobbycraft.co.uk/search/?q=scrunchems+marshmallow",
+          "link_pattern": "hobbycraft\\.co\\.uk/[^/]+/\\d+\\.html$"
+        }
+      ],
+      "note": "Search results are read every 5 minutes for new NeeDoh"
+    },
+    {
+      "name": "Learning Space",
+      "type": "shopify",
+      "url": "https://learningspace.co.uk",
+      "collections": [
+        "needoh"
+      ]
+    },
+    {
+      "name": "Infinity Collectables",
+      "type": "shopify",
+      "url": "https://infinitycollectables.com",
+      "collections": [
+        "needoh"
+      ]
+    },
+    {
+      "name": "Maple Gifts",
+      "type": "shopify",
+      "url": "https://maplegifts.co.uk"
+    },
+    {
+      "name": "Austins",
+      "type": "product_pages",
+      "every_minutes": 5,
+      "products": [
+        "https://www.austins-uk.com/fidget-toys/bigjigs-nice-cube-needoh/",
+        "https://www.austins-uk.com/fidget-toys/bigjigs-gumdrop-needoh/",
+        "https://www.austins-uk.com/dough-modelling/bigjigs-glow-in-the-dark-needoh/"
+      ],
+      "discover": [
+        {
+          "url": "https://www.austins-uk.com/fidget-toys/",
+          "link_pattern": "austins-uk\\.com/[^/]+/[^/]+/$"
+        }
+      ]
     }
   ]
 }

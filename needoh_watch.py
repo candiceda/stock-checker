@@ -35,7 +35,9 @@ UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/130.0 Safari/537.36")
 
 # After this many failed checks in a row for one shop, send one heads-up.
-FAIL_ALERT_AFTER = 12  # ~1 hour at 5-minute checks
+FAIL_ALERT_HOURS = 3  # only warn about a shop after it has failed non-stop for this long
+FAIL_ALERT_COOLDOWN_HOURS = 24  # and at most once a day per shop
+PAGE_SHOP_EVERY_MINUTES = 10  # shops checked page-by-page are checked less often, to stay polite
 FULL_SCAN_EVERY = 30 * 60  # seconds between whole-shop searches for new NeeDoh
 RUN_BUDGET = 9 * 60  # stop starting new work after this, so results always get saved
 PARALLEL_SHOPS = 10  # shops checked at the same time
@@ -55,8 +57,17 @@ def http_get(url, accept="application/json,text/html;q=0.9,*/*;q=0.8", timeout=2
         "Accept": accept,
         "Accept-Language": "en-GB,en;q=0.9",
     })
-    with urllib.request.urlopen(req, timeout=timeout) as r:
-        return r.read().decode("utf-8", errors="replace")
+    for attempt in (1, 2):
+        try:
+            with urllib.request.urlopen(req, timeout=timeout) as r:
+                return r.read().decode("utf-8", errors="replace")
+        except urllib.error.HTTPError as e:
+            if attempt == 2 or e.code not in (429, 500, 502, 503, 504):
+                raise
+        except (urllib.error.URLError, TimeoutError, ConnectionError):
+            if attempt == 2:
+                raise
+        time.sleep(3)  # brief hiccup: wait and try once more
 
 
 def matches(text, keywords):
@@ -265,9 +276,14 @@ TAG_RE = re.compile(r"<[^>]+>")
 
 def _discover(store, keywords):
     """Read the shop's own NeeDoh search/brand page and pick out product links."""
-    found = []
-    for d in store.get("discover", []):
-        page = http_get(d["url"], accept="text/html,*/*;q=0.8")
+    found, errors = [], []
+    pages = store.get("discover", [])
+    for d in pages:
+        try:
+            page = http_get(d["url"], accept="text/html,*/*;q=0.8")
+        except Exception as e:  # noqa: BLE001 - one bad search page shouldn't stop the others
+            errors.append(e)
+            continue
         for href, inner in HREF_RE.findall(page):
             url = urllib.parse.urljoin(d["url"], html_lib.unescape(href)).split("?")[0]
             if not re.search(d["link_pattern"], url, re.I):
@@ -276,6 +292,8 @@ def _discover(store, keywords):
             if matches(url.replace("-", " "), keywords) or matches(url, keywords) or matches(text, keywords):
                 found.append(url)
         time.sleep(1)
+    if pages and len(errors) == len(pages):
+        raise errors[0]
     return found
 
 
@@ -403,6 +421,17 @@ def main():
     DEADLINE[0] = time.time() + RUN_BUDGET
     stores = [st for st in config["stores"] if st.get("enabled", True) is not False]
 
+    last_checked = state.setdefault("last_checked", {})
+
+    def every_of(store):
+        return store.get("every_minutes",
+                         PAGE_SHOP_EVERY_MINUTES if store["type"] == "product_pages" else 0)
+
+    def due(store):
+        return time.time() - last_checked.get(store["name"], 0) >= every_of(store) * 60 - 30
+
+    stores = [st for st in stores if due(st)]
+
     def run_one(store):
         try:
             return CHECKERS[store["type"]](store, store.get("keywords", keywords), ctx), None
@@ -417,23 +446,35 @@ def main():
         if isinstance(err, OutOfTime):
             log(f"{name}: {err}")
             continue
+        if every_of(store):
+            last_checked[name] = time.time()  # also on failure, so a blocking shop isn't hammered
         try:
             if err:
                 raise err
         except Exception as e:  # noqa: BLE001 - keep going with the other shops
-            n = state["failures"].get(name, 0) + 1
-            state["failures"][name] = min(n, FAIL_ALERT_AFTER + 1)  # stop counting = no extra commits
-            log(f"{name}: check failed ({n} in a row): {e}")
-            if n == FAIL_ALERT_AFTER:
+            now = time.time()
+            f = state["failures"].get(name)
+            if not isinstance(f, dict):
+                f = {"since": now, "warned": False}
+                state["failures"][name] = f
+            hours = (now - f["since"]) / 3600
+            log(f"{name}: check failed (failing for {hours:.1f}h): {e}")
+            last_warn = state.setdefault("fail_warned_at", {}).get(name, 0)
+            if (not f["warned"] and hours >= FAIL_ALERT_HOURS
+                    and now - last_warn >= FAIL_ALERT_COOLDOWN_HOURS * 3600):
+                f["warned"] = True
+                state["fail_warned_at"][name] = now
                 notify(f"Can't check {name} right now",
-                       f"{name} has failed {n} checks in a row ({e}). "
-                       "It may be blocking the checker; other shops are still being watched.",
+                       f"{name} hasn't been readable for {FAIL_ALERT_HOURS} hours ({e}). "
+                       "It may be blocking the checker; all other shops are still being watched. "
+                       "You won't be told about this shop again for at least a day.",
                        priority="low", tags="warning")
             continue
 
-        if state["failures"].get(name, 0) >= FAIL_ALERT_AFTER:
+        f = state["failures"].get(name)
+        if isinstance(f, dict) and f.get("warned"):
             notify(f"{name} is being checked again", "Back to normal.", priority="min", tags="white_check_mark")
-        state["failures"][name] = 0
+        state["failures"].pop(name, None)
         avail = sum(1 for r in results.values() if r["available"])
         log(f"{name}: {len(results)} NeeDoh products, {avail} in stock")
 
