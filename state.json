@@ -276,34 +276,39 @@
    "scrunchems-squishy-marshmallow"
   ]
  },
- "fail_warned_at": {},
+ "fail_warned_at": {
+  "Austins": 1793217833.3393562,
+  "Hobbycraft": 1793217833.2333064,
+  "John Lewis": 1793217833.1281118,
+  "Urban Outfitters": 1793217832.9786465
+ },
  "failures": {
   "Austins": {
    "since": 1793206714.6798878,
-   "warned": false
+   "warned": true
   },
   "Hamleys": 2,
   "Hobbycraft": {
    "since": 1793206714.6797936,
-   "warned": false
+   "warned": true
   },
   "John Lewis": {
    "since": 1793206714.6797817,
-   "warned": false
+   "warned": true
   },
   "Urban Outfitters": {
    "since": 1793206714.6795745,
-   "warned": false
+   "warned": true
   },
   "Waterstones": 2
  },
- "full_scan_slot": 996231,
+ "full_scan_slot": 996232,
  "last_checked": {
-  "Austins": 1793217379.2701032,
-  "Hobbycraft": 1793217379.2698975,
-  "John Lewis": 1793217379.2698836,
-  "Toytown": 1793217379.2690709,
-  "Urban Outfitters": 1793217379.2696633
+  "Austins": 1793217833.339354,
+  "Hobbycraft": 1793217833.2333038,
+  "John Lewis": 1793217833.1281083,
+  "Toytown": 1793217832.9780111,
+  "Urban Outfitters": 1793217832.9786444
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
