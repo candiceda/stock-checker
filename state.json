@@ -295,7 +295,7 @@
   "Toy Barnhaus": 0,
   "Toy-Box Hampshire": 0,
   "Toys4you": 0,
-  "Toytown": 6,
+  "Toytown": 7,
   "Urban Outfitters": 13,
   "Waterstones": 2
  },
@@ -2846,7 +2846,7 @@
    "url": "https://www.jadlamracingmodels.com/products/speks-gump-christmas-tree-adult-fidget-stress-relief"
   },
   "Jukupop|jukupop-viral-squishy-bundles": {
-   "available": false,
+   "available": true,
    "price": "£36.99",
    "title": "JUKUPOP Viral Squishy Bundle – Includes NeeDoh & 4 More Sensory Toys",
    "url": "https://jukupop.com/products/jukupop-viral-squishy-bundles"
@@ -2888,7 +2888,7 @@
    "url": "https://jukupop.com/products/needoh-jelly-squish-jellyfish-fidget-sensory-toy"
   },
   "Jukupop|needoh-nice-cube-candy-swirl-fidget-toy": {
-   "available": false,
+   "available": true,
    "price": "£7.99",
    "title": "NeeDoh Nice Cube Candy Swirl Fidget Toy",
    "url": "https://jukupop.com/products/needoh-nice-cube-candy-swirl-fidget-toy"
@@ -2906,7 +2906,7 @@
    "url": "https://jukupop.com/products/needoh-snowball-crunch-fidget-toy-snow-anti-stress-sensory-ball"
   },
   "Jukupop|needoh-teenie-fuzz-ball-multipack-sensory-fidget-toy": {
-   "available": false,
+   "available": true,
    "price": "£9.99",
    "title": "NeeDoh Teenie Fuzz Ball Multipack Sensory Fidget Toy",
    "url": "https://jukupop.com/products/needoh-teenie-fuzz-ball-multipack-sensory-fidget-toy"
