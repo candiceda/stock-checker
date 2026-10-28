@@ -40,15 +40,23 @@
   "Toy-Box Hampshire",
   "Simply Toys",
   "JKDIRECT",
-  "City Beach UK"
+  "City Beach UK",
+  "Learning Space",
+  "Infinity Collectables",
+  "Maple Gifts"
  ],
  "discovered": {
+  "Austins": [],
   "City Beach UK": [
    "https://www.citybeach.com/uk/schylling-needoh-candy-swirl-nice-cube-squishy-fidget-toy/20413070-01.html",
    "https://www.citybeach.com/uk/schylling-needoh-nice-ice-baby-teenie-cube-squishy-fidget-toy/20391081-01.html"
   ],
   "Hamleys": [],
-  "Tink n Stink": [],
+  "Hobbycraft": [],
+  "John Lewis": [],
+  "Tink n Stink": [
+   "https://www.tinknstink.co.uk/lava-squish-n-flow-lava-lamp.html"
+  ],
   "Toytown": [],
   "Urban Outfitters": [],
   "Waterstones": []
@@ -126,6 +134,7 @@
   ],
   "Funkytoystore": [],
   "Giftology": [],
+  "Infinity Collectables": [],
   "JKDIRECT": [
    "needoh-1-drop",
    "needoh-2026-christmas-advent-calendar",
@@ -179,6 +188,19 @@
    "teenie-needoh-cool-cats-fidget-toy-set-pack-of-3-sensory-toy"
   ],
   "Junior Edition": [],
+  "Learning Space": [
+   "snow-ball-crunch-stress-toy"
+  ],
+  "Maple Gifts": [
+   "bigjigs-fuzz-ball-needoh-copy",
+   "bigjigs-needoh-colour-changing-ball",
+   "bigjigs-toys-needoh-candy-swirl-nice-cube",
+   "bigjigs-toys-needoh-colour-changing-cube",
+   "bigjigs-toys-needoh-glitter-and-glow-nice-cube",
+   "bigjigs-toys-needoh-jelly-hops",
+   "bigjigs-toys-niceberg-glitter-and-glow-needoh",
+   "bigjigs-toys-peace-o-cake-needoh"
+  ],
   "My Small World Toy Shop": [
    "lava-squish-flow",
    "speks-tree-gump"
@@ -254,52 +276,35 @@
    "scrunchems-squishy-marshmallow"
   ]
  },
+ "fail_warned_at": {},
  "failures": {
-  "Ali's Sensory Boxes": 0,
-  "Be More Geek": 0,
-  "Beanie Games": 0,
-  "Bigjigs Toys": 0,
-  "Chocoloons": 0,
-  "City Beach UK": 0,
-  "Cloud Nine Boutique": 0,
-  "Fantastic Fidgets UK": 0,
-  "Fidget Fables": 0,
-  "Funhouse Toys": 0,
-  "Funky Fidgets": 0,
-  "Funkytoystore": 0,
-  "Giftology": 0,
+  "Austins": {
+   "since": 1793206714.6798878,
+   "warned": false
+  },
   "Hamleys": 2,
-  "Isaac's Treasures": 0,
-  "JKDIRECT": 0,
-  "Jadlam Toys": 0,
-  "Jukupop": 0,
-  "Junior Edition": 0,
-  "My Small World Toy Shop": 0,
-  "Paper Tiger": 0,
-  "Plush Paradise": 0,
-  "Polhill Garden Centre": 0,
-  "Rainbow Nation": 0,
-  "Roskai": 0,
-  "Science Museum Shop": 0,
-  "Scribbler": 0,
-  "Simply Toys": 0,
-  "So Realistic": 0,
-  "TDMM Family": 0,
-  "Teddy's Fidgets": 0,
-  "Teddy's Trove": 0,
-  "The Dyslexia Shop": 0,
-  "The Fidget Works": 0,
-  "The Kid Collective": 0,
-  "Tink n Stink": 0,
-  "Tinker & Tot": 0,
-  "Toy Barnhaus": 0,
-  "Toy-Box Hampshire": 0,
-  "Toys4you": 0,
-  "Toytown": 0,
-  "Urban Outfitters": 13,
+  "Hobbycraft": {
+   "since": 1793206714.6797936,
+   "warned": false
+  },
+  "John Lewis": {
+   "since": 1793206714.6797817,
+   "warned": false
+  },
+  "Urban Outfitters": {
+   "since": 1793206714.6795745,
+   "warned": false
+  },
   "Waterstones": 2
  },
  "full_scan_slot": 996225,
+ "last_checked": {
+  "Austins": 1793206714.6798873,
+  "Hobbycraft": 1793206714.6797931,
+  "John Lewis": 1793206714.679781,
+  "Toytown": 1793206714.563013,
+  "Urban Outfitters": 1793206714.6795728
+ },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
    "available": false,
@@ -1915,6 +1920,660 @@
    "title": "Stress Ball: Peace O' Cake Toy Individual - Multi - Needoh",
    "url": "https://giftology-uk.com/products/stress-ball-peace-o-cake-toy-individual-multi-needoh"
   },
+  "Infinity Collectables|color-changing-nee-doh": {
+   "available": false,
+   "price": "£3.99",
+   "title": "Color Changing NeeDoh",
+   "url": "https://infinitycollectables.com/products/color-changing-nee-doh"
+  },
+  "Infinity Collectables|color-changing-needoh-1": {
+   "available": false,
+   "price": "£6.00",
+   "title": "Color Changing Needoh",
+   "url": "https://infinitycollectables.com/products/color-changing-needoh-1"
+  },
+  "Infinity Collectables|color-changing-needoh-2": {
+   "available": false,
+   "price": "£6.00",
+   "title": "Color Changing Needoh",
+   "url": "https://infinitycollectables.com/products/color-changing-needoh-2"
+  },
+  "Infinity Collectables|cool-cats-teenie-needoh-multi-pack-rtsympcctnd": {
+   "available": false,
+   "price": "£8.99",
+   "title": "NeeDoh Teenie Cool Cats - Mini Fidget Toy Pack, Sensory Toys, Squishy Cats",
+   "url": "https://infinitycollectables.com/products/cool-cats-teenie-needoh-multi-pack-rtsympcctnd"
+  },
+  "Infinity Collectables|dream-drop-needoh-1": {
+   "available": false,
+   "price": "£7.00",
+   "title": "Dream Drop Needoh",
+   "url": "https://infinitycollectables.com/products/dream-drop-needoh-1"
+  },
+  "Infinity Collectables|fuzz-ball-needoh-x-3-pc-multi-pack": {
+   "available": false,
+   "price": "£14.99",
+   "title": "NeeDoh Fuzz Ball Fuzzy Fidget Stress Sensory Toy 3 Pack",
+   "url": "https://infinitycollectables.com/products/fuzz-ball-needoh-x-3-pc-multi-pack"
+  },
+  "Infinity Collectables|fuzz-ball-wonder-waves-needoh": {
+   "available": false,
+   "price": "£3.99",
+   "title": "Fuzz Ball Wonder Waves Needoh",
+   "url": "https://infinitycollectables.com/products/fuzz-ball-wonder-waves-needoh"
+  },
+  "Infinity Collectables|fuzz-ball-wonder-waves-needoh-3-pk": {
+   "available": false,
+   "price": "£14.99",
+   "title": "NeeDoh Fuzz Ball Wonder Waves Fuzzy Fidget Toy 3 Pack",
+   "url": "https://infinitycollectables.com/products/fuzz-ball-wonder-waves-needoh-3-pk"
+  },
+  "Infinity Collectables|glow-in-the-dark-needoh-assorted-colours": {
+   "available": false,
+   "price": "£3.99",
+   "title": "NeeDoh Glow In The Dark (Assorted Colours)",
+   "url": "https://infinitycollectables.com/products/glow-in-the-dark-needoh-assorted-colours"
+  },
+  "Infinity Collectables|groovy-fruit-needoh": {
+   "available": false,
+   "price": "£7.99",
+   "title": "Groovy Fruit NeeDoh",
+   "url": "https://infinitycollectables.com/products/groovy-fruit-needoh"
+  },
+  "Infinity Collectables|hot-shots-football-needoh": {
+   "available": false,
+   "price": "£3.99",
+   "title": "Hot Shots Football NeeDoh (Sold Individually)",
+   "url": "https://infinitycollectables.com/products/hot-shots-football-needoh"
+  },
+  "Infinity Collectables|hot-shots-teenie-needoh-multi-pack-rtsyhstnd": {
+   "available": false,
+   "price": "£8.99",
+   "title": "NeeDoh Teenie Hot Shots Sports-themed Mini Fidget Toys Squishy Ball",
+   "url": "https://infinitycollectables.com/products/hot-shots-teenie-needoh-multi-pack-rtsyhstnd"
+  },
+  "Infinity Collectables|jelly-squish-needoh": {
+   "available": false,
+   "price": "£7.00",
+   "title": "Jelly Squish Needoh",
+   "url": "https://infinitycollectables.com/products/jelly-squish-needoh"
+  },
+  "Infinity Collectables|jelly-squish-needoh-rtsyjsnd": {
+   "available": false,
+   "price": "£6.99",
+   "title": "NeeDoh Jelly Squish - Stretchy Jellyfish Toy with Glitter Filling, Sensory Toys",
+   "url": "https://infinitycollectables.com/products/jelly-squish-needoh-rtsyjsnd"
+  },
+  "Infinity Collectables|lava-instant-slime": {
+   "available": false,
+   "price": "£5.99",
+   "title": "Lava Instant Slime Needoh",
+   "url": "https://infinitycollectables.com/products/lava-instant-slime"
+  },
+  "Infinity Collectables|lava-squish-n-flow": {
+   "available": false,
+   "price": "£5.99",
+   "title": "Lava Squish N Flow Lava Lamp Needoh Squishy Fidget Toy",
+   "url": "https://infinitycollectables.com/products/lava-squish-n-flow"
+  },
+  "Infinity Collectables|marbleez-needoh": {
+   "available": false,
+   "price": "£3.99",
+   "title": "Marbleez Needoh (Sold Individually)",
+   "url": "https://infinitycollectables.com/products/marbleez-needoh"
+  },
+  "Infinity Collectables|needoh": {
+   "available": false,
+   "price": "£3.99",
+   "title": "Classic NeeDoh",
+   "url": "https://infinitycollectables.com/products/needoh"
+  },
+  "Infinity Collectables|needoh-2026-advent-calendar-with-24-teenie-squishies": {
+   "available": false,
+   "price": "£29.99",
+   "title": "NeeDoh 2026 Advent Calendar",
+   "url": "https://infinitycollectables.com/products/needoh-2026-advent-calendar-with-24-teenie-squishies"
+  },
+  "Infinity Collectables|needoh-atomic-ball-1": {
+   "available": false,
+   "price": "£4.00",
+   "title": "NeeDoh Atomic Ball",
+   "url": "https://infinitycollectables.com/products/needoh-atomic-ball-1"
+  },
+  "Infinity Collectables|needoh-booper": {
+   "available": false,
+   "price": "£6.99",
+   "title": "NeeDoh Booper (Sold individually)",
+   "url": "https://infinitycollectables.com/products/needoh-booper"
+  },
+  "Infinity Collectables|needoh-bunnies-and-chicks": {
+   "available": false,
+   "price": "£14.99",
+   "title": "NeeDoh Bunnies and Chicks Easter Fidget Toy 2 Pack",
+   "url": "https://infinitycollectables.com/products/needoh-bunnies-and-chicks"
+  },
+  "Infinity Collectables|needoh-candy-swirl-nice-cube-fidget-toy": {
+   "available": false,
+   "price": "£6.99",
+   "title": "NeeDoh Candy Swirl Nice Cube Fidget Toy",
+   "url": "https://infinitycollectables.com/products/needoh-candy-swirl-nice-cube-fidget-toy"
+  },
+  "Infinity Collectables|needoh-chicka-deedoos": {
+   "available": false,
+   "price": "£5.99",
+   "title": "NeeDoh Chicka DeeDoos (Sold Individually)",
+   "url": "https://infinitycollectables.com/products/needoh-chicka-deedoos"
+  },
+  "Infinity Collectables|needoh-classic-x-3-pc-multi-pack": {
+   "available": false,
+   "price": "£10.99",
+   "title": "NeeDoh Classic Stress Ball Fidget Toy 3 Pack",
+   "url": "https://infinitycollectables.com/products/needoh-classic-x-3-pc-multi-pack"
+  },
+  "Infinity Collectables|needoh-color-change-cube-squishy-fidget-toy": {
+   "available": false,
+   "price": "£4.99",
+   "title": "NeeDoh Color Change Cube Squishy Fidget Toy",
+   "url": "https://infinitycollectables.com/products/needoh-color-change-cube-squishy-fidget-toy"
+  },
+  "Infinity Collectables|needoh-dig-it-pig-3-pk": {
+   "available": false,
+   "price": "£11.99",
+   "title": "NeeDoh Dig It Pig Fidget Toy 3 Pack",
+   "url": "https://infinitycollectables.com/products/needoh-dig-it-pig-3-pk"
+  },
+  "Infinity Collectables|needoh-dig-it-pig-squishy-fidget-toy": {
+   "available": false,
+   "price": "£3.99",
+   "title": "NeeDoh Dig It Pig Squishy Fidget Toy",
+   "url": "https://infinitycollectables.com/products/needoh-dig-it-pig-squishy-fidget-toy"
+  },
+  "Infinity Collectables|needoh-dippin-dazzler-eggs-retail": {
+   "available": false,
+   "price": "£5.99",
+   "title": "NeeDoh Dippin' Dazzler Eggs- Colour Changing Egg Easter Fidget Toy",
+   "url": "https://infinitycollectables.com/products/needoh-dippin-dazzler-eggs-retail"
+  },
+  "Infinity Collectables|needoh-dohjees-series-2-3-pack-1": {
+   "available": false,
+   "price": "£10.00",
+   "title": "Needoh Dohjees Series 2 - 3 Pack",
+   "url": "https://infinitycollectables.com/products/needoh-dohjees-series-2-3-pack-1"
+  },
+  "Infinity Collectables|needoh-dohjees-series-2-sensory": {
+   "available": false,
+   "price": "£5.00",
+   "title": "Needoh Dohjees Series 2",
+   "url": "https://infinitycollectables.com/products/needoh-dohjees-series-2-sensory"
+  },
+  "Infinity Collectables|needoh-dohjees-series-3": {
+   "available": false,
+   "price": "£5.00",
+   "title": "Needoh Dohjees Series 2",
+   "url": "https://infinitycollectables.com/products/needoh-dohjees-series-3"
+  },
+  "Infinity Collectables|needoh-dohnut-holes-6-pack-squishy-fidget-toys": {
+   "available": false,
+   "price": "£7.99",
+   "title": "NeeDoh Dohnut Holes 6 Pack Squishy Fidget Toys",
+   "url": "https://infinitycollectables.com/products/needoh-dohnut-holes-6-pack-squishy-fidget-toys"
+  },
+  "Infinity Collectables|needoh-dohnut-jelly-squeeze-sold-individually": {
+   "available": false,
+   "price": "£8.99",
+   "title": "NeeDoh Dohnut Jelly Squeeze (Sold Individually)",
+   "url": "https://infinitycollectables.com/products/needoh-dohnut-jelly-squeeze-sold-individually"
+  },
+  "Infinity Collectables|needoh-donuts": {
+   "available": false,
+   "price": "£8.99",
+   "title": "NeeDoh Dohnuts (Sold individually)",
+   "url": "https://infinitycollectables.com/products/needoh-donuts"
+  },
+  "Infinity Collectables|needoh-funky-pup": {
+   "available": false,
+   "price": "£5.00",
+   "title": "Needoh Funky Pup",
+   "url": "https://infinitycollectables.com/products/needoh-funky-pup"
+  },
+  "Infinity Collectables|needoh-fuzz-ball": {
+   "available": false,
+   "price": "£4.99",
+   "title": "Fuzz Ball Needoh",
+   "url": "https://infinitycollectables.com/products/needoh-fuzz-ball"
+  },
+  "Infinity Collectables|needoh-fuzz-ball-1": {
+   "available": false,
+   "price": "£6.00",
+   "title": "NeeDoh Fuzz Ball",
+   "url": "https://infinitycollectables.com/products/needoh-fuzz-ball-1"
+  },
+  "Infinity Collectables|needoh-fuzz-ball-flower-power": {
+   "available": false,
+   "price": "£4.99",
+   "title": "NeeDoh Fuzz Ball Flower Power",
+   "url": "https://infinitycollectables.com/products/needoh-fuzz-ball-flower-power"
+  },
+  "Infinity Collectables|needoh-fuzz-ball-teenie-multipack-4-pack": {
+   "available": false,
+   "price": "£8.99",
+   "title": "NeeDoh Fuzz Ball Teenie Multipack 4 Pack",
+   "url": "https://infinitycollectables.com/products/needoh-fuzz-ball-teenie-multipack-4-pack"
+  },
+  "Infinity Collectables|needoh-fuzz-ball-wild-cats-squishy-fidget-toy": {
+   "available": false,
+   "price": "£4.99",
+   "title": "NeeDoh Fuzz Ball Wild Cats Squishy Fidget Toy",
+   "url": "https://infinitycollectables.com/products/needoh-fuzz-ball-wild-cats-squishy-fidget-toy"
+  },
+  "Infinity Collectables|needoh-fuzz-ball-wonder-waves": {
+   "available": false,
+   "price": "£4.99",
+   "title": "Fuzz Ball Wonder Waves Needoh",
+   "url": "https://infinitycollectables.com/products/needoh-fuzz-ball-wonder-waves"
+  },
+  "Infinity Collectables|needoh-ginger-glowman-1": {
+   "available": false,
+   "price": "£9.00",
+   "title": "NeeDoh Ginger Glowman",
+   "url": "https://infinitycollectables.com/products/needoh-ginger-glowman-1"
+  },
+  "Infinity Collectables|needoh-glow-in-the-dark-1": {
+   "available": false,
+   "price": "£6.00",
+   "title": "Needoh - Glow in the Dark",
+   "url": "https://infinitycollectables.com/products/needoh-glow-in-the-dark-1"
+  },
+  "Infinity Collectables|needoh-glow-in-the-dark-sensory": {
+   "available": false,
+   "price": "£6.00",
+   "title": "Needoh - Glow in the Dark",
+   "url": "https://infinitycollectables.com/products/needoh-glow-in-the-dark-sensory"
+  },
+  "Infinity Collectables|needoh-glow-in-the-dark-teenie-multipack-4-pack": {
+   "available": false,
+   "price": "£8.99",
+   "title": "NeeDoh Glow In The Dark Teenie Multipack 4 Pack",
+   "url": "https://infinitycollectables.com/products/needoh-glow-in-the-dark-teenie-multipack-4-pack"
+  },
+  "Infinity Collectables|needoh-glowy-ghost": {
+   "available": false,
+   "price": "£4.99",
+   "title": "NeeDoh Glowy Ghost Halloween Fidget Toy",
+   "url": "https://infinitycollectables.com/products/needoh-glowy-ghost"
+  },
+  "Infinity Collectables|needoh-good-vibes-only-heart-squishy-fidget-toy": {
+   "available": false,
+   "price": "£5.99",
+   "title": "NeeDoh Good Vibes Only Heart Squishy Fidget Toy",
+   "url": "https://infinitycollectables.com/products/needoh-good-vibes-only-heart-squishy-fidget-toy"
+  },
+  "Infinity Collectables|needoh-gumdrop": {
+   "available": false,
+   "price": "£5.99",
+   "title": "NeeDoh Gumdrop",
+   "url": "https://infinitycollectables.com/products/needoh-gumdrop"
+  },
+  "Infinity Collectables|needoh-gumdrop-3pk": {
+   "available": false,
+   "price": "£23.99",
+   "title": "NeeDoh Gumdrop Squishy Fidget Toy 4 Pack",
+   "url": "https://infinitycollectables.com/products/needoh-gumdrop-3pk"
+  },
+  "Infinity Collectables|needoh-jack-glow-lantern": {
+   "available": false,
+   "price": "£4.99",
+   "title": "NeeDoh Jack-Glow Lantern Halloween Fidget Toy",
+   "url": "https://infinitycollectables.com/products/needoh-jack-glow-lantern"
+  },
+  "Infinity Collectables|needoh-jelly-hops-retail": {
+   "available": false,
+   "price": "£6.99",
+   "title": "NeeDoh Jelly Hops Scented Bunny Squishy Fidget Toys for Kids Fun Sensory Toy",
+   "url": "https://infinitycollectables.com/products/needoh-jelly-hops-retail"
+  },
+  "Infinity Collectables|needoh-knittens-christmas-cat-squishy-fidget-toy": {
+   "available": false,
+   "price": "£7.99",
+   "title": "NeeDoh Knittens Christmas Cat Squishy Fidget Toy",
+   "url": "https://infinitycollectables.com/products/needoh-knittens-christmas-cat-squishy-fidget-toy"
+  },
+  "Infinity Collectables|needoh-marbleez": {
+   "available": false,
+   "price": "£5.00",
+   "title": "NeeDoh Marbleez",
+   "url": "https://infinitycollectables.com/products/needoh-marbleez"
+  },
+  "Infinity Collectables|needoh-mello-mallo": {
+   "available": false,
+   "price": "£4.99",
+   "title": "NeeDoh Mello Mallo Marshmallow Fidget Toy - 1 Colour Chosen at Random",
+   "url": "https://infinitycollectables.com/products/needoh-mello-mallo"
+  },
+  "Infinity Collectables|needoh-nice-cream-cone-squishy-fidget-toy": {
+   "available": false,
+   "price": "£5.99",
+   "title": "NeeDoh Nice Cream Cone Squishy Fidget Toy",
+   "url": "https://infinitycollectables.com/products/needoh-nice-cream-cone-squishy-fidget-toy"
+  },
+  "Infinity Collectables|needoh-nice-cube": {
+   "available": false,
+   "price": "£6.99",
+   "title": "Nice Cube Needoh (Sold individually)",
+   "url": "https://infinitycollectables.com/products/needoh-nice-cube"
+  },
+  "Infinity Collectables|needoh-nice-cube-glitter-glow-fidget-toy": {
+   "available": false,
+   "price": "£6.99",
+   "title": "NeeDoh Nice Cube Glitter & Glow Fidget Toy",
+   "url": "https://infinitycollectables.com/products/needoh-nice-cube-glitter-glow-fidget-toy"
+  },
+  "Infinity Collectables|needoh-nice-cube-glow-in-the-dark": {
+   "available": false,
+   "price": "£6.99",
+   "title": "Nice Cube Glow Needoh",
+   "url": "https://infinitycollectables.com/products/needoh-nice-cube-glow-in-the-dark"
+  },
+  "Infinity Collectables|needoh-nice-ice-baby-small-squishy-cube-1": {
+   "available": false,
+   "price": "£3.00",
+   "title": "NEEDOH Nice Ice Baby - Small Squishy Cube",
+   "url": "https://infinitycollectables.com/products/needoh-nice-ice-baby-small-squishy-cube-1"
+  },
+  "Infinity Collectables|needoh-nice-sicle-ice-lolly-squishy-fidget-toy": {
+   "available": false,
+   "price": "£6.99",
+   "title": "NeeDoh Nice-sicle Ice Lolly Squishy Fidget Toy",
+   "url": "https://infinitycollectables.com/products/needoh-nice-sicle-ice-lolly-squishy-fidget-toy"
+  },
+  "Infinity Collectables|needoh-niceberg": {
+   "available": false,
+   "price": "£12.99",
+   "title": "Niceberg Needoh",
+   "url": "https://infinitycollectables.com/products/needoh-niceberg"
+  },
+  "Infinity Collectables|needoh-panic-pete": {
+   "available": false,
+   "price": "£7.99",
+   "title": "Panic Pete Needoh",
+   "url": "https://infinitycollectables.com/products/needoh-panic-pete"
+  },
+  "Infinity Collectables|needoh-peace-o-cake-squishy-fidget-toy": {
+   "available": false,
+   "price": "£5.99",
+   "title": "NeeDoh Peace O' Cake Squishy Fidget Toy",
+   "url": "https://infinitycollectables.com/products/needoh-peace-o-cake-squishy-fidget-toy"
+  },
+  "Infinity Collectables|needoh-polar-glow-penguin-1": {
+   "available": false,
+   "price": "£8.00",
+   "title": "NeeDoh Polar Glow Penguin",
+   "url": "https://infinitycollectables.com/products/needoh-polar-glow-penguin-1"
+  },
+  "Infinity Collectables|needoh-rainboh-teenie": {
+   "available": false,
+   "price": "£7.99",
+   "title": "Rainboh Teenie Needoh",
+   "url": "https://infinitycollectables.com/products/needoh-rainboh-teenie"
+  },
+  "Infinity Collectables|needoh-snow-ball-crunch-1": {
+   "available": false,
+   "price": "£5.00",
+   "title": "Needoh Snow Ball Crunch",
+   "url": "https://infinitycollectables.com/products/needoh-snow-ball-crunch-1"
+  },
+  "Infinity Collectables|needoh-sploot-splat-1": {
+   "available": false,
+   "price": "£6.00",
+   "title": "NEEDOH Sploot Splat",
+   "url": "https://infinitycollectables.com/products/needoh-sploot-splat-1"
+  },
+  "Infinity Collectables|needoh-sploot-splat-sensory": {
+   "available": false,
+   "price": "£6.00",
+   "title": "NEEDOH Sploot Splat",
+   "url": "https://infinitycollectables.com/products/needoh-sploot-splat-sensory"
+  },
+  "Infinity Collectables|needoh-squeeze-hearts-1": {
+   "available": false,
+   "price": "£6.00",
+   "title": "NeeDoh Squeeze Hearts",
+   "url": "https://infinitycollectables.com/products/needoh-squeeze-hearts-1"
+  },
+  "Infinity Collectables|needoh-squeeze-hearts-sensory": {
+   "available": false,
+   "price": "£6.00",
+   "title": "NeeDoh Squeeze Hearts",
+   "url": "https://infinitycollectables.com/products/needoh-squeeze-hearts-sensory"
+  },
+  "Infinity Collectables|needoh-squeezza-pizza-slice-squishy-fidget-toy": {
+   "available": false,
+   "price": "£4.99",
+   "title": "NeeDoh Squeezza Pizza Slice Squishy Fidget Toy",
+   "url": "https://infinitycollectables.com/products/needoh-squeezza-pizza-slice-squishy-fidget-toy"
+  },
+  "Infinity Collectables|needoh-squish-n-flow-snow-globe": {
+   "available": false,
+   "price": "£7.99",
+   "title": "NeeDoh Christmas Snow Globe Fidget Toy For Kids",
+   "url": "https://infinitycollectables.com/products/needoh-squish-n-flow-snow-globe"
+  },
+  "Infinity Collectables|needoh-squisher-the-reindoh-christmas-fidget-toy": {
+   "available": false,
+   "price": "£7.99",
+   "title": "NeeDoh Squisher the Reindoh Christmas Fidget Toy",
+   "url": "https://infinitycollectables.com/products/needoh-squisher-the-reindoh-christmas-fidget-toy"
+  },
+  "Infinity Collectables|needoh-squishmas-cool-cane": {
+   "available": false,
+   "price": "£9.99",
+   "title": "NeeDoh Cool Cane - 5pc Mini Christmas Fidget Toys",
+   "url": "https://infinitycollectables.com/products/needoh-squishmas-cool-cane"
+  },
+  "Infinity Collectables|needoh-sugar-skull-cats": {
+   "available": false,
+   "price": "£4.99",
+   "title": "Sugar Skull Cats Needoh",
+   "url": "https://infinitycollectables.com/products/needoh-sugar-skull-cats"
+  },
+  "Infinity Collectables|needoh-teenie-funky-pup-3-pack-1": {
+   "available": false,
+   "price": "£6.00",
+   "title": "NeeDoh Teenie Funky Pup (3 Pack)",
+   "url": "https://infinitycollectables.com/products/needoh-teenie-funky-pup-3-pack-1"
+  },
+  "Infinity Collectables|needoh-teenie-funky-pup-3-pack-sensory": {
+   "available": false,
+   "price": "£6.00",
+   "title": "NeeDoh Teenie Funky Pup (3 Pack)",
+   "url": "https://infinitycollectables.com/products/needoh-teenie-funky-pup-3-pack-sensory"
+  },
+  "Infinity Collectables|needoh-teenie-fuzz-ball-mini-fuzzy-squishy": {
+   "available": false,
+   "price": "£6.99",
+   "title": "NeeDoh Teenie Fuzz Ball Mini Fuzzy Squishy",
+   "url": "https://infinitycollectables.com/products/needoh-teenie-fuzz-ball-mini-fuzzy-squishy"
+  },
+  "Infinity Collectables|needoh-teenie-jack-glow-lanterns": {
+   "available": false,
+   "price": "£5.99",
+   "title": "NeeDoh Teenie Jack-Glow Lanterns Fidget Toy 3 Pack",
+   "url": "https://infinitycollectables.com/products/needoh-teenie-jack-glow-lanterns"
+  },
+  "Infinity Collectables|needoh-teenie-singles-1": {
+   "available": false,
+   "price": "£2.25",
+   "title": "NeeDoh Teenie Singles",
+   "url": "https://infinitycollectables.com/products/needoh-teenie-singles-1"
+  },
+  "Infinity Collectables|needoh-teenie-singles-assortment": {
+   "available": false,
+   "price": "£7.99",
+   "title": "NeeDoh Teenie Singles Assortment 4 Pack",
+   "url": "https://infinitycollectables.com/products/needoh-teenie-singles-assortment"
+  },
+  "Infinity Collectables|needoh-teenie-singles-sensory": {
+   "available": false,
+   "price": "£2.25",
+   "title": "NeeDoh Teenie Singles",
+   "url": "https://infinitycollectables.com/products/needoh-teenie-singles-sensory"
+  },
+  "Infinity Collectables|needoh-teenie-sparkle-hearts-retail": {
+   "available": false,
+   "price": "£7.99",
+   "title": "NeeDoh Teenie Sparkle Hearts Small Sparkly Valentines Squishy Fidget Toys 3 Pack",
+   "url": "https://infinitycollectables.com/products/needoh-teenie-sparkle-hearts-retail"
+  },
+  "Infinity Collectables|needoh-teenie-swirl-multipack-4-pack": {
+   "available": false,
+   "price": "£8.99",
+   "title": "NeeDoh Teenie Swirl Multipack 4 Pack",
+   "url": "https://infinitycollectables.com/products/needoh-teenie-swirl-multipack-4-pack"
+  },
+  "Infinity Collectables|needoh-tuff-nugget-super-solid-squishy-fidget-toy": {
+   "available": false,
+   "price": "£6.99",
+   "title": "NeeDoh Tuff Nugget Super Solid Squishy Fidget Toy",
+   "url": "https://infinitycollectables.com/products/needoh-tuff-nugget-super-solid-squishy-fidget-toy"
+  },
+  "Infinity Collectables|nice-cube-glow-needoh-3pk": {
+   "available": false,
+   "price": "£20.99",
+   "title": "NeeDoh Nice Cube Glow Squishy Fidget Toy 3 Pack",
+   "url": "https://infinitycollectables.com/products/nice-cube-glow-needoh-3pk"
+  },
+  "Infinity Collectables|nice-cube-needoh-1": {
+   "available": false,
+   "price": "£7.00",
+   "title": "Nice Cube Needoh",
+   "url": "https://infinitycollectables.com/products/nice-cube-needoh-1"
+  },
+  "Infinity Collectables|nice-cube-swirl-needoh-1": {
+   "available": false,
+   "price": "£6.00",
+   "title": "Nice Cube Swirl Needoh",
+   "url": "https://infinitycollectables.com/products/nice-cube-swirl-needoh-1"
+  },
+  "Infinity Collectables|nice-ice-baby-teenie-needoh-multi-pack": {
+   "available": false,
+   "price": "£9.00",
+   "title": "Nice Ice Baby Teenie Needoh Multi-Pack",
+   "url": "https://infinitycollectables.com/products/nice-ice-baby-teenie-needoh-multi-pack"
+  },
+  "Infinity Collectables|nice-ice-baby-teenie-needoh-multi-pack-rtsymptncbnd": {
+   "available": false,
+   "price": "£8.99",
+   "title": "NeeDoh Nice Ice Baby Teenie Multipack - Fidget Cube Toys, Kids Sensory Ice Cubes",
+   "url": "https://infinitycollectables.com/products/nice-ice-baby-teenie-needoh-multi-pack-rtsymptncbnd"
+  },
+  "Infinity Collectables|niceberg-glitter-glow-needoh-rtsyggsncbnd": {
+   "available": false,
+   "price": "£13.99",
+   "title": "NeeDoh Nice Berg Glitter & Glow Squishy Toy Cube, Big Glow in the Dark Fidget",
+   "url": "https://infinitycollectables.com/products/niceberg-glitter-glow-needoh-rtsyggsncbnd"
+  },
+  "Infinity Collectables|niceberg-needoh-1": {
+   "available": false,
+   "price": "£13.00",
+   "title": "Niceberg Needoh",
+   "url": "https://infinitycollectables.com/products/niceberg-needoh-1"
+  },
+  "Infinity Collectables|niceberg-swirl-needoh-rtsyswsncbnd": {
+   "available": false,
+   "price": "£13.99",
+   "title": "NeeDoh Nice Berg Swirl - Giant Marbled Fidget Cube, Squishy Toy Cubes for Kids",
+   "url": "https://infinitycollectables.com/products/niceberg-swirl-needoh-rtsyswsncbnd"
+  },
+  "Infinity Collectables|panic-pete-needoh-1": {
+   "available": false,
+   "price": "£7.00",
+   "title": "Panic Pete NeeDoh",
+   "url": "https://infinitycollectables.com/products/panic-pete-needoh-1"
+  },
+  "Infinity Collectables|ramen-noodlies": {
+   "available": false,
+   "price": "£7.99",
+   "title": "Ramen Noodlies Needoh",
+   "url": "https://infinitycollectables.com/products/ramen-noodlies"
+  },
+  "Infinity Collectables|schylling-needoh-squishmas-advent-calendar-1": {
+   "available": false,
+   "price": "£28.00",
+   "title": "Schylling NeeDoh Squishmas Advent Calendar",
+   "url": "https://infinitycollectables.com/products/schylling-needoh-squishmas-advent-calendar-1"
+  },
+  "Infinity Collectables|shaggy-needoh-squishy-fidget-toy": {
+   "available": false,
+   "price": "£3.49",
+   "title": "Shaggy NeeDoh Squishy Fidget Toy",
+   "url": "https://infinitycollectables.com/products/shaggy-needoh-squishy-fidget-toy"
+  },
+  "Infinity Collectables|squish-n-flow-snow-globe-needoh": {
+   "available": false,
+   "price": "£8.00",
+   "title": "Squish N Flow Snow Globe Needoh",
+   "url": "https://infinitycollectables.com/products/squish-n-flow-snow-globe-needoh"
+  },
+  "Infinity Collectables|super-needoh-1": {
+   "available": false,
+   "price": "£12.00",
+   "title": "Super Needoh",
+   "url": "https://infinitycollectables.com/products/super-needoh-1"
+  },
+  "Infinity Collectables|super-needoh-fuzz-ball-giant-fuzzy-squishy": {
+   "available": false,
+   "price": "£14.99",
+   "title": "Super NeeDoh Fuzz Ball Giant Fuzzy Squishy",
+   "url": "https://infinitycollectables.com/products/super-needoh-fuzz-ball-giant-fuzzy-squishy"
+  },
+  "Infinity Collectables|super-needoh-ripples-giant-squishy-fidget-ball": {
+   "available": false,
+   "price": "£13.99",
+   "title": "Super NeeDoh Ripples Giant Squishy Fidget Ball",
+   "url": "https://infinitycollectables.com/products/super-needoh-ripples-giant-squishy-fidget-ball"
+  },
+  "Infinity Collectables|super-needoh-sensory": {
+   "available": false,
+   "price": "£12.00",
+   "title": "Super Needoh",
+   "url": "https://infinitycollectables.com/products/super-needoh-sensory"
+  },
+  "Infinity Collectables|teenie-nee-doh": {
+   "available": false,
+   "price": "£2.99",
+   "title": "Teenie NeeDoh (Pack of 3)",
+   "url": "https://infinitycollectables.com/products/teenie-nee-doh"
+  },
+  "Infinity Collectables|teenie-needoh-cool-cats": {
+   "available": false,
+   "price": "£5.99",
+   "title": "Teenie Needoh Cool Cats",
+   "url": "https://infinitycollectables.com/products/teenie-needoh-cool-cats"
+  },
+  "Infinity Collectables|teenie-needoh-cool-cats-3-pack-1": {
+   "available": false,
+   "price": "£6.00",
+   "title": "Teenie Needoh Cool Cats - 3 Pack",
+   "url": "https://infinitycollectables.com/products/teenie-needoh-cool-cats-3-pack-1"
+  },
+  "Infinity Collectables|teenie-needoh-funky-pups": {
+   "available": false,
+   "price": "£5.99",
+   "title": "Teenie Needoh Funky Pups",
+   "url": "https://infinitycollectables.com/products/teenie-needoh-funky-pups"
+  },
+  "Infinity Collectables|world-s-smallest-needoh": {
+   "available": false,
+   "price": "£9.99",
+   "title": "World's Smallest - Needoh",
+   "url": "https://infinitycollectables.com/products/world-s-smallest-needoh"
+  },
+  "Infinity Collectables|world-s-smallest-needoh-february": {
+   "available": false,
+   "price": "£9.99",
+   "title": "World's Smallest - Needoh",
+   "url": "https://infinitycollectables.com/products/world-s-smallest-needoh-february"
+  },
   "Isaac's Treasures|1026": {
    "available": false,
    "price": "£6.99",
@@ -2922,6 +3581,198 @@
    "price": "£9.99",
    "title": "Teenie NeeDoh Cool Cats Kittens Fidget Toy Set - Sensory Toy",
    "url": "https://jukupop.com/products/teenie-needoh-cool-cats-fidget-toy-set-pack-of-3-sensory-toy"
+  },
+  "Learning Space|colour-changing-needoh-stress-ball": {
+   "available": false,
+   "price": "£4.99",
+   "title": "Colour Changing Needoh Stress Ball",
+   "url": "https://learningspace.co.uk/products/colour-changing-needoh-stress-ball"
+  },
+  "Learning Space|dream-drop-needoh-squishy-toy": {
+   "available": false,
+   "price": "£7.99",
+   "title": "NEEDOH Dream Drop - Squishy Toy",
+   "url": "https://learningspace.co.uk/products/dream-drop-needoh-squishy-toy"
+  },
+  "Learning Space|fuzz-ball-flower-power-needoh": {
+   "available": false,
+   "price": "£4.99",
+   "title": "Fuzz Ball Flower Power Needoh",
+   "url": "https://learningspace.co.uk/products/fuzz-ball-flower-power-needoh"
+  },
+  "Learning Space|fuzz-ball-wonder-waves-needoh-squishy-fidget": {
+   "available": false,
+   "price": "£4.99",
+   "title": "Fuzz Ball Wonder Waves Needoh Squishy Fidget",
+   "url": "https://learningspace.co.uk/products/fuzz-ball-wonder-waves-needoh-squishy-fidget"
+  },
+  "Learning Space|glow-in-the-dark-needoh-1": {
+   "available": false,
+   "price": "£4.99",
+   "title": "Glow in the Dark NeeDoh – The Ultimate Squishy Stress Ball!",
+   "url": "https://learningspace.co.uk/products/glow-in-the-dark-needoh-1"
+  },
+  "Learning Space|gumdrop-needoh": {
+   "available": false,
+   "price": "£5.99",
+   "title": "Gumdrop Needoh Squishy Fidget Toy",
+   "url": "https://learningspace.co.uk/products/gumdrop-needoh"
+  },
+  "Learning Space|marbleez-needoh": {
+   "available": false,
+   "price": "£3.99",
+   "title": "Marbleez Needoh (Sold Individually)",
+   "url": "https://learningspace.co.uk/products/marbleez-needoh"
+  },
+  "Learning Space|needoh": {
+   "available": false,
+   "price": "£3.99",
+   "title": "NeeDoh Classic Funky Fidget Toy",
+   "url": "https://learningspace.co.uk/products/needoh"
+  },
+  "Learning Space|needoh-booper": {
+   "available": false,
+   "price": "£6.99",
+   "title": "Needoh Booper",
+   "url": "https://learningspace.co.uk/products/needoh-booper"
+  },
+  "Learning Space|needoh-chicka-deedos-fidget-squish-toy": {
+   "available": false,
+   "price": "£5.99",
+   "title": "Needoh Chicka Deedos Fidget Squish Toy",
+   "url": "https://learningspace.co.uk/products/needoh-chicka-deedos-fidget-squish-toy"
+  },
+  "Learning Space|needoh-dippin-dazzler-eggs": {
+   "available": false,
+   "price": "£5.99",
+   "title": "Needoh Dippin Dazzler Eggs",
+   "url": "https://learningspace.co.uk/products/needoh-dippin-dazzler-eggs"
+  },
+  "Learning Space|needoh-donut": {
+   "available": false,
+   "price": "£8.99",
+   "title": "Needoh Donut",
+   "url": "https://learningspace.co.uk/products/needoh-donut"
+  },
+  "Learning Space|needoh-golden-egg-hunt-fidget-set": {
+   "available": false,
+   "price": "£14.99",
+   "title": "Needoh Golden Egg Hunt Fidget Set",
+   "url": "https://learningspace.co.uk/products/needoh-golden-egg-hunt-fidget-set"
+  },
+  "Learning Space|needoh-jelly-donuts-stress-fidget-toy": {
+   "available": false,
+   "price": "£7.99",
+   "title": "Needoh Jelly Donuts Stress Fidget Toy",
+   "url": "https://learningspace.co.uk/products/needoh-jelly-donuts-stress-fidget-toy"
+  },
+  "Learning Space|needoh-mello-mallo-colour-changing-squishy-fidget-toy": {
+   "available": false,
+   "price": "£4.99",
+   "title": "NeeDoh Mello Mallo – Colour-Changing Squishy Fidget Toy",
+   "url": "https://learningspace.co.uk/products/needoh-mello-mallo-colour-changing-squishy-fidget-toy"
+  },
+  "Learning Space|needoh-nice-cube-swirl-fidget-toy": {
+   "available": false,
+   "price": "£6.99",
+   "title": "NeeDoh Nice Cube Swirl Fidget Toy",
+   "url": "https://learningspace.co.uk/products/needoh-nice-cube-swirl-fidget-toy"
+  },
+  "Learning Space|needoh-niceberg-jumbo-ice-cube-fidget-toy": {
+   "available": false,
+   "price": "£12.99",
+   "title": "NeeDoh Niceberg – Jumbo Ice Cube Fidget Toy",
+   "url": "https://learningspace.co.uk/products/needoh-niceberg-jumbo-ice-cube-fidget-toy"
+  },
+  "Learning Space|needoh-sploot-splat-squeeze-stretch-smush": {
+   "available": false,
+   "price": "£5.99",
+   "title": "NeeDoh Sploot Splat – Squeeze, Stretch & Smush!",
+   "url": "https://learningspace.co.uk/products/needoh-sploot-splat-squeeze-stretch-smush"
+  },
+  "Learning Space|needoh-squeeze-heart-fidget-squish-toy": {
+   "available": false,
+   "price": "£5.99",
+   "title": "Needoh Squeeze Heart Fidget Squish Toy",
+   "url": "https://learningspace.co.uk/products/needoh-squeeze-heart-fidget-squish-toy"
+  },
+  "Learning Space|needoh-teenie-singles-assortment-4-pack": {
+   "available": false,
+   "price": "£2.99",
+   "title": "NeeDoh Teenie Single Squishy Fidget Ball",
+   "url": "https://learningspace.co.uk/products/needoh-teenie-singles-assortment-4-pack"
+  },
+  "Learning Space|nice-cube-needoh": {
+   "available": false,
+   "price": "£7.99",
+   "title": "Nice Cube Needoh",
+   "url": "https://learningspace.co.uk/products/nice-cube-needoh"
+  },
+  "Learning Space|niceberg-swirl-needoh": {
+   "available": false,
+   "price": "£13.99",
+   "title": "Niceberg Swirl Needoh",
+   "url": "https://learningspace.co.uk/products/niceberg-swirl-needoh"
+  },
+  "Learning Space|snow-ball-crunch-stress-toy": {
+   "available": false,
+   "price": "£4.99",
+   "title": "NeeDoh Snow Ball Crunch Stress Toy",
+   "url": "https://learningspace.co.uk/products/snow-ball-crunch-stress-toy"
+  },
+  "Learning Space|teenie-singles-nice-ice-baby-needoh": {
+   "available": false,
+   "price": "£2.49",
+   "title": "Teenie Nice Ice Baby NeeDoh – Mini Squishy Fidget Cube",
+   "url": "https://learningspace.co.uk/products/teenie-singles-nice-ice-baby-needoh"
+  },
+  "Maple Gifts|bigjigs-fuzz-ball-needoh-copy": {
+   "available": false,
+   "price": "£8.00",
+   "title": "Bigjigs Fuzz Ball Needoh",
+   "url": "https://maplegifts.co.uk/products/bigjigs-fuzz-ball-needoh-copy"
+  },
+  "Maple Gifts|bigjigs-needoh-colour-changing-ball": {
+   "available": false,
+   "price": "£5.00",
+   "title": "Bigjigs Needoh Colour Changing Ball",
+   "url": "https://maplegifts.co.uk/products/bigjigs-needoh-colour-changing-ball"
+  },
+  "Maple Gifts|bigjigs-toys-needoh-candy-swirl-nice-cube": {
+   "available": false,
+   "price": "£11.00",
+   "title": "Bigjigs Toys Needoh Candy Swirl Nice Cube",
+   "url": "https://maplegifts.co.uk/products/bigjigs-toys-needoh-candy-swirl-nice-cube"
+  },
+  "Maple Gifts|bigjigs-toys-needoh-colour-changing-cube": {
+   "available": false,
+   "price": "£9.00",
+   "title": "Bigjigs Toys Needoh Colour Changing Cube",
+   "url": "https://maplegifts.co.uk/products/bigjigs-toys-needoh-colour-changing-cube"
+  },
+  "Maple Gifts|bigjigs-toys-needoh-glitter-and-glow-nice-cube": {
+   "available": false,
+   "price": "£10.00",
+   "title": "Bigjigs Toys Needoh Glitter and Glow Nice Cube",
+   "url": "https://maplegifts.co.uk/products/bigjigs-toys-needoh-glitter-and-glow-nice-cube"
+  },
+  "Maple Gifts|bigjigs-toys-needoh-jelly-hops": {
+   "available": false,
+   "price": "£11.00",
+   "title": "Bigjigs Toys Needoh Jelly Hops",
+   "url": "https://maplegifts.co.uk/products/bigjigs-toys-needoh-jelly-hops"
+  },
+  "Maple Gifts|bigjigs-toys-niceberg-glitter-and-glow-needoh": {
+   "available": false,
+   "price": "£21.00",
+   "title": "Bigjigs Toys Niceberg Glitter and Glow Needoh",
+   "url": "https://maplegifts.co.uk/products/bigjigs-toys-niceberg-glitter-and-glow-needoh"
+  },
+  "Maple Gifts|bigjigs-toys-peace-o-cake-needoh": {
+   "available": false,
+   "price": "£10.00",
+   "title": "Bigjigs Toys Peace O Cake Needoh",
+   "url": "https://maplegifts.co.uk/products/bigjigs-toys-peace-o-cake-needoh"
   },
   "My Small World Toy Shop|fuzz-ball-flower-power-needoh": {
    "available": false,
@@ -4434,6 +5285,12 @@
    "price": "",
    "title": "NeeDoh Glowy Ghost – Glow in the Dark Halloween Fidget Toy | Sensory Squishy for Kids",
    "url": "https://www.tinknstink.co.uk/glowy-ghost-needoh.html"
+  },
+  "Tink n Stink|https://www.tinknstink.co.uk/lava-squish-n-flow-lava-lamp.html": {
+   "available": false,
+   "price": "",
+   "title": "Lava Squish N Flow Glow in the Dark Fidget Toy for Kids",
+   "url": "https://www.tinknstink.co.uk/lava-squish-n-flow-lava-lamp.html"
   },
   "Tink n Stink|https://www.tinknstink.co.uk/mello-mallo-needoh.html": {
    "available": false,
