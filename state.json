@@ -302,11 +302,11 @@
  },
  "full_scan_slot": 996270,
  "last_checked": {
-  "Austins": 1793286084.3649569,
-  "Hobbycraft": 1793286084.3647754,
-  "John Lewis": 1793286084.364764,
-  "Toytown": 1793286084.3640153,
-  "Urban Outfitters": 1793286084.3645833
+  "Austins": 1793286561.1348581,
+  "Hobbycraft": 1793286561.1346471,
+  "John Lewis": 1793286561.1346302,
+  "Toytown": 1793286561.1336744,
+  "Urban Outfitters": 1793286561.1343668
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -1122,13 +1122,13 @@
   },
   "Cloud Nine Boutique|needoh-mystery-box-3-different-needoh": {
    "available": false,
-   "price": "£68.00",
+   "price": "£69.00",
    "title": "NeeDoh Mystery Box – 3 Different NeeDoh",
    "url": "https://cloudnineboutique.net/products/needoh-mystery-box-3-different-needoh"
   },
   "Cloud Nine Boutique|needoh-mystery-box-5-different-needoh": {
    "available": false,
-   "price": "£102.00",
+   "price": "£103.00",
    "title": "NeeDoh Mystery Box – 5 Different NeeDoh",
    "url": "https://cloudnineboutique.net/products/needoh-mystery-box-5-different-needoh"
   },
@@ -1254,7 +1254,7 @@
   },
   "Cloud Nine Boutique|needoh-super-fuzzball-velvet-squeeze-stress-ball": {
    "available": false,
-   "price": "£34.00",
+   "price": "£35.00",
    "title": "NeeDoh Super FuzzBall Velvet Squeeze Stress Ball (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-super-fuzzball-velvet-squeeze-stress-ball"
   },
@@ -3050,7 +3050,7 @@
   },
   "JKDIRECT|needoh-color-change-4-pack": {
    "available": false,
-   "price": "£34.00",
+   "price": "£35.00",
    "title": "NeeDoh Color Change - 4 Pack",
    "url": "https://jkdirectstore.com/products/needoh-color-change-4-pack"
   },
@@ -3170,13 +3170,13 @@
   },
   "JKDIRECT|needoh-nice-sicle": {
    "available": false,
-   "price": "£34.00",
+   "price": "£35.00",
    "title": "NeeDoh Nice-Sicle - Random Colour",
    "url": "https://jkdirectstore.com/products/needoh-nice-sicle"
   },
   "JKDIRECT|needoh-snowball-crunch-bundle-w-sticker-pack": {
    "available": false,
-   "price": "£34.00",
+   "price": "£35.00",
    "title": "Needoh Snowball Crunch Bundle w/ Sticker Pack",
    "url": "https://jkdirectstore.com/products/needoh-snowball-crunch-bundle-w-sticker-pack"
   },
