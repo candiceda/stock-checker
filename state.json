@@ -287,10 +287,6 @@
    "since": 1793206714.6798878,
    "warned": true
   },
-  "City Beach UK": {
-   "since": 1793251694.4955099,
-   "warned": false
-  },
   "Hamleys": 2,
   "Hobbycraft": {
    "since": 1793206714.6797936,
@@ -308,11 +304,11 @@
  },
  "full_scan_slot": 996252,
  "last_checked": {
-  "Austins": 1793254158.912778,
-  "Hobbycraft": 1793254158.9125416,
-  "John Lewis": 1793254158.9125228,
-  "Toytown": 1793254158.9116747,
-  "Urban Outfitters": 1793254158.9121923
+  "Austins": 1793254594.0549507,
+  "Hobbycraft": 1793254594.0547981,
+  "John Lewis": 1793254594.054787,
+  "Toytown": 1793254594.0541162,
+  "Urban Outfitters": 1793254594.0545902
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
