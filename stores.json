@@ -13,7 +13,8 @@
       "url": "https://www.bigjigstoys.co.uk",
       "collections": [
         "nee-doh"
-      ]
+      ],
+      "fast": true
     },
     {
       "name": "Jadlam Toys",
@@ -29,7 +30,8 @@
       "url": "https://www.junioredition.com",
       "collections": [
         "needoh"
-      ]
+      ],
+      "fast": true
     },
     {
       "name": "The Kid Collective",
@@ -50,12 +52,17 @@
     {
       "name": "Jukupop",
       "type": "shopify",
-      "url": "https://jukupop.com"
+      "url": "https://jukupop.com",
+      "collections": [
+        "tonights-drop-needoh"
+      ],
+      "fast": true
     },
     {
       "name": "Funky Fidgets",
       "type": "shopify",
-      "url": "https://funkyfidgetsshop.co.uk"
+      "url": "https://funkyfidgetsshop.co.uk",
+      "fast": true
     },
     {
       "name": "Isaac's Treasures",
@@ -179,7 +186,8 @@
       "url": "https://fidgetfables.com",
       "collections": [
         "needoh"
-      ]
+      ],
+      "fast": true
     },
     {
       "name": "Ali's Sensory Boxes",

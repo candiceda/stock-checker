@@ -117,6 +117,8 @@ def _shopify_item(store, base, p, from_js=False):
     buyable = [v for v in variants if v.get("available") and v.get("id")]
     if buyable:
         item["checkout"] = f"{base}/cart/{buyable[0]['id']}:1"
+    # which colours/options are buyable, so a restock of another colour is also spotted
+    item["options"] = {str(v["id"]): str(v.get("title") or "") for v in buyable}
     return item
 
 
@@ -170,7 +172,8 @@ def check_shopify(store, keywords, ctx):
                 found[f"{name}|{p['handle']}"] = _shopify_item(store, base, p)
                 in_collection.add(p["handle"])
 
-    full_scan = ctx["full_scan"] or name not in extras
+    fast = ctx.get("fast", False)
+    full_scan = not fast and (ctx["full_scan"] or name not in extras)
     if full_scan:
         outside = []
         for p in _scan_shopify(f"{base}/products.json", store.get("full_scan_pages", 40)):
@@ -188,7 +191,7 @@ def check_shopify(store, keywords, ctx):
                 if p["handle"] not in known:
                     extras.setdefault(name, []).append(p["handle"])
                     known.add(p["handle"])
-        for handle in extras.get(name, []):
+        for handle in ([] if fast else extras.get(name, [])):
             if f"{name}|{handle}" in found:
                 continue
             try:
@@ -420,8 +423,10 @@ def main():
     first_run = not state["baselined"]
 
     # search every shop's whole catalogue roughly every 30 minutes
+    fast = "--fast" in sys.argv  # quick extra look at the busiest shops between full rounds
     slot = int(time.time() // FULL_SCAN_EVERY)
-    ctx = {"state": state, "full_scan": state.get("full_scan_slot") != slot}
+    ctx = {"state": state, "fast": fast,
+           "full_scan": not fast and state.get("full_scan_slot") != slot}
     if ctx["full_scan"]:
         log("Full search of every shop this run")
         state["full_scan_slot"] = slot
@@ -429,6 +434,8 @@ def main():
     in_stock_now, new_shops = [], []
     DEADLINE[0] = time.time() + RUN_BUDGET
     stores = [st for st in config["stores"] if st.get("enabled", True) is not False]
+    if fast:
+        stores = [st for st in stores if st.get("fast") and st["type"] == "shopify"]
 
     last_checked = state.setdefault("last_checked", {})
 
@@ -504,10 +511,24 @@ def main():
                     label = "NEW & IN STOCK" if before is None else "BACK IN STOCK"
                     checkout = item.get("checkout")
                     tap = "Tap to go straight to checkout." if checkout else "Tap to open the shop."
+                    opts = ", ".join(x for x in item.get("options", {}).values() if x and x != "Default Title")
                     notify(f"{label}: {item['title']}"[:120],
-                           f"{item['title']}{price}\nat {name}\n{tap}",
+                           f"{item['title']}{price}\n{('In stock: ' + opts + chr(10)) if opts else ''}"
+                           f"at {name}\n{tap}",
                            click=checkout or item["url"], product_url=item["url"],
                            priority="urgent", tags="rotating_light,tada")
+                elif item["available"] and "options" in before and "options" in item:
+                    new_opts = {k: v for k, v in item["options"].items() if k not in before["options"]}
+                    if new_opts:
+                        vid, label = next(iter(new_opts.items()))
+                        names = ", ".join(x for x in new_opts.values() if x and x != "Default Title")
+                        base = item["url"].split("/products/")[0]
+                        checkout = f"{base}/cart/{vid}:1"
+                        notify(f"MORE IN STOCK: {item['title']}"[:120],
+                               f"{item['title']}{price}\n{('Now also: ' + names + chr(10)) if names else ''}"
+                               f"at {name}\nTap to go straight to checkout.",
+                               click=checkout, product_url=item["url"],
+                               priority="urgent", tags="rotating_light,tada")
                 elif before is None:
                     notify(f"New listing: {item['title']}"[:120],
                            f"{name} has just added {item['title']}{price}. It's not buyable yet, "
