@@ -302,11 +302,11 @@
  },
  "full_scan_slot": 996273,
  "last_checked": {
-  "Austins": 1793291365.8424768,
-  "Hobbycraft": 1793291365.8422587,
-  "John Lewis": 1793291365.8422322,
-  "Toytown": 1793291365.8410275,
-  "Urban Outfitters": 1793291365.8418307
+  "Austins": 1793291838.634082,
+  "Hobbycraft": 1793291838.6338317,
+  "John Lewis": 1793291838.633813,
+  "Toytown": 1793291838.6326628,
+  "Urban Outfitters": 1793291838.6335235
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -3515,8 +3515,7 @@
    "url": "https://www.jadlamracingmodels.com/products/speks-gump-christmas-tree-adult-fidget-stress-relief"
   },
   "Jukupop|jukupop-viral-squishy-bundles": {
-   "available": true,
-   "checkout": "https://jukupop.com/cart/57545973530948:1",
+   "available": false,
    "price": "£36.99",
    "title": "JUKUPOP Viral Squishy Bundles – Includes NeeDoh & 4 More Sensory Toys",
    "url": "https://jukupop.com/products/jukupop-viral-squishy-bundles"
