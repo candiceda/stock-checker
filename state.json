@@ -3965,15 +3965,21 @@
    "url": "https://www.jadlamracingmodels.com/products/speks-gump-christmas-tree-adult-fidget-stress-relief"
   },
   "Jukupop|jukupop-viral-squishy-bundles": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://jukupop.com/cart/57545973530948:1",
+   "options": {
+    "57545973530948": "Viral Squishy Bundle"
+   },
    "price": "£36.99",
    "title": "JUKUPOP Viral Squishy Bundles – Includes NeeDoh & 4 More Sensory Toys",
    "url": "https://jukupop.com/products/jukupop-viral-squishy-bundles"
   },
   "Jukupop|needoh-2026-advent-calendar-24-mini-fidget-sensory-toys-stress-relief-mindful-play": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://jukupop.com/cart/57184477217092:1",
+   "options": {
+    "57184477217092": "Default Title"
+   },
    "price": "£39.99",
    "title": "NeeDoh 2026 Advent Calendar – 24 Mini Fidget & Sensory Toys, Stress Relief & Mindful Play",
    "url": "https://jukupop.com/products/needoh-2026-advent-calendar-24-mini-fidget-sensory-toys-stress-relief-mindful-play"
@@ -4035,8 +4041,11 @@
    "url": "https://jukupop.com/products/needoh-snowball-crunch-fidget-toy-snow-anti-stress-sensory-ball"
   },
   "Jukupop|needoh-teenie-fuzz-ball-multipack-sensory-fidget-toy": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://jukupop.com/cart/56734343299396:1",
+   "options": {
+    "56734343299396": "Default Title"
+   },
    "price": "£9.99",
    "title": "NeeDoh Teenie Fuzz Ball Multipack Sensory Fidget Toy",
    "url": "https://jukupop.com/products/needoh-teenie-fuzz-ball-multipack-sensory-fidget-toy"
