@@ -1,7 +1,8 @@
 name: Check NeeDoh stock
 
 # How it keeps running:
-# each run checks the shops every ~2 minutes for about 45 minutes, then
+# each run checks all shops every ~2 minutes (the busiest every ~15 seconds)
+# for about 45 minutes, then
 # starts the next run itself. The schedule below is only a backup that
 # restarts it if the chain ever stops.
 
@@ -48,16 +49,24 @@ jobs:
         run: |
           git config user.name "needoh-bot"
           git config user.email "needoh-bot@users.noreply.github.com"
-          end=$((SECONDS + 45*60))
-          while [ $SECONDS -lt $end ]; do
-            git pull --quiet --rebase || true          # pick up any shop-list changes
-            python needoh_watch.py || echo "check had an error, trying again next round"
+          save() {
             git add state.json
             if ! git diff --cached --quiet; then
               git commit --quiet -m "Update stock state"
               git push --quiet || (git pull --quiet --rebase && git push --quiet) || true
             fi
-            sleep 60
+          }
+          end=$((SECONDS + 45*60))
+          while [ $SECONDS -lt $end ]; do
+            git pull --quiet --rebase || true          # pick up any shop-list changes
+            python needoh_watch.py || echo "check had an error, trying again next round"
+            save
+            # between full rounds, look at the busiest shops (marked "fast") every 15 seconds
+            for i in 1 2 3 4 5; do
+              sleep 15
+              python needoh_watch.py --fast || true
+              save
+            done
           done
 
       - name: Start the next run
