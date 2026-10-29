@@ -308,11 +308,11 @@
  },
  "full_scan_slot": 996252,
  "last_checked": {
-  "Austins": 1793253705.786821,
-  "Hobbycraft": 1793253705.7866611,
-  "John Lewis": 1793253705.7866516,
-  "Toytown": 1793253705.7859275,
-  "Urban Outfitters": 1793253705.7864738
+  "Austins": 1793254158.912778,
+  "Hobbycraft": 1793254158.9125416,
+  "John Lewis": 1793254158.9125228,
+  "Toytown": 1793254158.9116747,
+  "Urban Outfitters": 1793254158.9121923
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -1542,19 +1542,19 @@
   },
   "Fidget Fables|needoh-nice-berg": {
    "available": false,
-   "price": "£20.00",
+   "price": "£19.00",
    "title": "NeeDoh Nice Berg",
    "url": "https://fidgetfables.com/products/needoh-nice-berg"
   },
   "Fidget Fables|needoh-nice-berg-glitter-glow": {
    "available": false,
-   "price": "£20.00",
+   "price": "£19.00",
    "title": "Needoh Nice Berg Glitter & Glow",
    "url": "https://fidgetfables.com/products/needoh-nice-berg-glitter-glow"
   },
   "Fidget Fables|needoh-nice-berg-swirl": {
    "available": false,
-   "price": "£20.00",
+   "price": "£19.00",
    "title": "Needoh Nice Berg Swirl",
    "url": "https://fidgetfables.com/products/needoh-nice-berg-swirl"
   },
@@ -4379,7 +4379,7 @@
   },
   "Scribbler|needoh-advent-calendar-2026": {
    "available": false,
-   "price": "£40.75",
+   "price": "£40.72",
    "title": "NeeDoh Advent Calendar 2026",
    "url": "https://www.scribbler.com/products/needoh-advent-calendar-2026"
   },
@@ -5459,7 +5459,7 @@
   },
   "Tinker & Tot|needoh-teenie-sparkle-hearts": {
    "available": false,
-   "price": "£10.00",
+   "price": "£9.00",
    "title": "Teenie Sparkle Hearts NeeDoh - Pack of 3",
    "url": "https://tinkerandtot.co.uk/products/needoh-teenie-sparkle-hearts"
   },
