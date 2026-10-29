@@ -302,11 +302,11 @@
  },
  "full_scan_slot": 996260,
  "last_checked": {
-  "Austins": 1793268116.9074008,
-  "Hobbycraft": 1793268116.907216,
-  "John Lewis": 1793268116.9072049,
-  "Toytown": 1793268116.9064097,
-  "Urban Outfitters": 1793268116.9070113
+  "Austins": 1793268592.1490376,
+  "Hobbycraft": 1793268592.1488166,
+  "John Lewis": 1793268592.1488047,
+  "Toytown": 1793268592.148064,
+  "Urban Outfitters": 1793268592.1486263
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -3044,7 +3044,7 @@
   },
   "JKDIRECT|needoh-cloud-pleaser": {
    "available": false,
-   "price": "£38.00",
+   "price": "£39.00",
    "title": "NeeDoh Cloud Pleaser",
    "url": "https://jkdirectstore.com/products/needoh-cloud-pleaser"
   },
