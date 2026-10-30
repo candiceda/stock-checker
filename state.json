@@ -146,7 +146,10 @@
    "needoh-dream-drop",
    "needoh-funky-pup",
    "needoh-fuzzball-flower-power",
+   "needoh-groovy-fruit",
+   "needoh-groovy-the-glowman-rare-discontinued",
    "needoh-gum-drop",
+   "needoh-hot-shots-football-rare-discontinued",
    "needoh-jack-glow-lantern-glow-in-the-dark-w-sticker-sheet-random-colour",
    "needoh-jelly-hops-yellow",
    "needoh-mellow-mallow",
@@ -156,18 +159,15 @@
    "needoh-nice-ice-baby",
    "needoh-nice-sicle",
    "needoh-snowball-crunch-bundle-w-sticker-pack",
+   "needoh-squisher-the-reindoh-bundle-w-sticker-pack-blue",
+   "needoh-squisher-the-reindoh-bundle-w-sticker-pack-pink",
    "needoh-sugar-skull-cats",
    "needoh-super-fuzzball",
    "needoh-swirl-4-pack",
    "needoh-swirl-pink-white-black-purple",
-   "needoh-teenie-fuzz-ball",
-   "needoh-groovy-the-glowman-rare-discontinued",
-   "needoh-hot-shots-football-rare-discontinued",
-   "needoh-groovy-fruit",
    "needoh-teenie-3-pack-green-purple-orange",
-   "needoh-squisher-the-reindoh-bundle-w-sticker-pack-pink",
-   "needoh-squisher-the-reindoh-bundle-w-sticker-pack-blue",
-   "needoh-teenie-cool-kittens-4-pack"
+   "needoh-teenie-cool-kittens-4-pack",
+   "needoh-teenie-fuzz-ball"
   ],
   "Jadlam Toys": [
    "halloween-squish-toy-bundle-w-jack-glow-needoh-lantern",
@@ -293,13 +293,13 @@
   },
   "Waterstones": 2
  },
- "full_scan_slot": 996307,
+ "full_scan_slot": 996308,
  "last_checked": {
-  "Austins": 1793354110.9492147,
-  "Hobbycraft": 1793354110.9490764,
-  "John Lewis": 1793354110.9490695,
-  "Toytown": 1793354110.9485283,
-  "Urban Outfitters": 1793354110.948944
+  "Austins": 1793354625.7599492,
+  "Hobbycraft": 1793354625.7597942,
+  "John Lewis": 1793354625.7597845,
+  "Toytown": 1793354625.7589657,
+  "Urban Outfitters": 1793354625.759582
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
