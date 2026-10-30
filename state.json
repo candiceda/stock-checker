@@ -49,7 +49,11 @@
   "Austins": [],
   "City Beach UK": [
    "https://www.citybeach.com/uk/schylling-needoh-candy-swirl-nice-cube-squishy-fidget-toy/20413070-01.html",
-   "https://www.citybeach.com/uk/schylling-needoh-nice-ice-baby-teenie-cube-squishy-fidget-toy/20391081-01.html"
+   "https://www.citybeach.com/uk/schylling-needoh-nice-ice-baby-teenie-cube-squishy-fidget-toy/20391081-01.html",
+   "https://www.citybeach.com/uk/schylling-needoh-gumdrop-squishy-fidget-toy/20381204-01.html",
+   "https://www.citybeach.com/uk/schylling-needoh-nice-cube-squishy-fidget-toy/20362272-01.html",
+   "https://www.citybeach.com/uk/schylling-needoh-dream-drop-squishy-fidget-toy/20388206-01.html",
+   "https://www.citybeach.com/uk/schylling-needoh-nice-ice-baby-cube-squishy-fidget-toy/20390054-01.html"
   ],
   "Hamleys": [],
   "Hobbycraft": [],
@@ -1025,11 +1029,23 @@
    "title": "NeeDoh Fuzz Ball Teenie 4 Pack Squishy Fidget Toy",
    "url": "https://www.citybeach.com/uk/schylling-needoh-fuzz-ball-teenie-4-pack-squishy-fidget-toy/2040897001016-01.html"
   },
+  "City Beach UK|https://www.citybeach.com/uk/schylling-needoh-gumdrop-squishy-fidget-toy/20381204-01.html": {
+   "available": true,
+   "price": "£13.99",
+   "title": "NeeDoh Gumdrop Squishy Fidget Toy",
+   "url": "https://www.citybeach.com/uk/schylling-needoh-gumdrop-squishy-fidget-toy/20381204-01.html"
+  },
   "City Beach UK|https://www.citybeach.com/uk/schylling-needoh-nice-cube-swirl-squishy-fidget-toy/20399425-01.html": {
    "available": false,
    "price": "£13.99",
    "title": "NeeDoh Nice Cube Swirl Squishy Fidget Toy",
    "url": "https://www.citybeach.com/uk/schylling-needoh-nice-cube-swirl-squishy-fidget-toy/20399425-01.html"
+  },
+  "City Beach UK|https://www.citybeach.com/uk/schylling-needoh-nice-ice-baby-cube-squishy-fidget-toy/20390054-01.html": {
+   "available": true,
+   "price": "£9.99",
+   "title": "NeeDoh Nice Ice Baby Cube Squishy Fidget Toy",
+   "url": "https://www.citybeach.com/uk/schylling-needoh-nice-ice-baby-cube-squishy-fidget-toy/20390054-01.html"
   },
   "City Beach UK|https://www.citybeach.com/uk/schylling-needoh-nice-ice-baby-teenie-cube-squishy-fidget-toy/20391081-01.html": {
    "available": false,
