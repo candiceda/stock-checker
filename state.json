@@ -81,7 +81,8 @@
    "needoh-jelly-hops-damaged-box-x-rtsyjhnd26",
    "needoh-polar-glow-penguin",
    "super-needoh-fuzz-ball-damaged-box-x-rtsysfzbnd",
-   "teenie-needoh-fuzz-ball-damaged-box-x-rtsyfzbtnd"
+   "teenie-needoh-fuzz-ball-damaged-box-x-rtsyfzbtnd",
+   "needoh-advent-calendar-sysqmac26"
   ],
   "Chocoloons": [
    "scrunchems-marshmallow-squishy"
@@ -618,6 +619,13 @@
    "price": "£3.49",
    "title": "NeeDoh Classic Groovy Glob Original Sensory Toy Stress Ball",
    "url": "https://www.bigjigstoys.co.uk/products/needoh"
+  },
+  "Bigjigs Toys|needoh-advent-calendar-sysqmac26": {
+   "available": false,
+   "options": {},
+   "price": "£29.99",
+   "title": "NeeDoh Advent Calendar Mini Christmas Squishy Fidget Toy 24 Pack",
+   "url": "https://www.bigjigstoys.co.uk/products/needoh-advent-calendar-sysqmac26"
   },
   "Bigjigs Toys|needoh-candy-swirl-nice-cube-sycsncbnd": {
    "available": false,
