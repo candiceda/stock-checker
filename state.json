@@ -279,6 +279,10 @@
    "since": 1793206714.6797936,
    "warned": true
   },
+  "Isaac's Treasures": {
+   "since": 1793337104.5471187,
+   "warned": false
+  },
   "John Lewis": {
    "since": 1793206714.6797817,
    "warned": true
@@ -291,11 +295,11 @@
  },
  "full_scan_slot": 996298,
  "last_checked": {
-  "Austins": 1793336634.278532,
-  "Hobbycraft": 1793336634.2783217,
-  "John Lewis": 1793336634.2783086,
-  "Toytown": 1793336634.2774034,
-  "Urban Outfitters": 1793336634.2780838
+  "Austins": 1793337104.548283,
+  "Hobbycraft": 1793337104.5480776,
+  "John Lewis": 1793337104.5480635,
+  "Toytown": 1793337104.5471425,
+  "Urban Outfitters": 1793337104.5478072
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
