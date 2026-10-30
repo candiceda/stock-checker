@@ -167,7 +167,8 @@
    "needoh-teenie-3-pack-green-purple-orange",
    "needoh-teenie-cool-kittens-4-pack",
    "needoh-teenie-fuzz-ball",
-   "untitled-30-oct-at-15-03"
+   "untitled-30-oct-at-15-03",
+   "product"
   ],
   "Jadlam Toys": [
    "halloween-squish-toy-bundle-w-jack-glow-needoh-lantern",
@@ -3648,6 +3649,13 @@
    "price": "£25.00",
    "title": "NeeDoh Teenie Fuzz Ball (3 Pack)",
    "url": "https://jkdirectstore.com/products/needoh-teenie-fuzz-ball"
+  },
+  "JKDIRECT|product": {
+   "available": false,
+   "options": {},
+   "price": "£0.00",
+   "title": "NeeDoh Booper",
+   "url": "https://jkdirectstore.com/products/product"
   },
   "JKDIRECT|untitled-30-oct-at-15-03": {
    "available": false,
