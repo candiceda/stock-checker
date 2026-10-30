@@ -276,10 +276,6 @@
    "since": 1793206714.6797936,
    "warned": true
   },
-  "Isaac's Treasures": {
-   "since": 1793346570.0373676,
-   "warned": false
-  },
   "John Lewis": {
    "since": 1793206714.6797817,
    "warned": true
@@ -6479,7 +6475,7 @@
   "Toys4you|scrunchems-squishy-marshmallow": {
    "available": false,
    "options": {},
-   "price": "£9.00",
+   "price": "£10.00",
    "title": "Scrunchems Squishy Marshmallow",
    "url": "https://www.toys4you.co.uk/products/scrunchems-squishy-marshmallow"
   },
