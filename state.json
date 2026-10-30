@@ -294,11 +294,11 @@
  },
  "full_scan_slot": 996315,
  "last_checked": {
-  "Austins": 1793367701.766097,
-  "Hobbycraft": 1793367701.7659135,
-  "John Lewis": 1793367701.76589,
-  "Toytown": 1793367701.7648358,
-  "Urban Outfitters": 1793367701.765519
+  "Austins": 1793368208.9275336,
+  "Hobbycraft": 1793368208.9272974,
+  "John Lewis": 1793368208.927266,
+  "Toytown": 1793368208.729276,
+  "Urban Outfitters": 1793368208.7300513
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -1029,7 +1029,7 @@
    "url": "https://www.citybeach.com/uk/schylling-needoh-nice-cube-swirl-squishy-fidget-toy/20399425-01.html"
   },
   "City Beach UK|https://www.citybeach.com/uk/schylling-needoh-nice-ice-baby-teenie-cube-squishy-fidget-toy/20391081-01.html": {
-   "available": false,
+   "available": true,
    "price": "£6.99",
    "title": "NeeDoh Nice Ice Baby Teenie Cube Squishy Fidget Toy",
    "url": "https://www.citybeach.com/uk/schylling-needoh-nice-ice-baby-teenie-cube-squishy-fidget-toy/20391081-01.html"
