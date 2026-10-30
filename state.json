@@ -160,7 +160,14 @@
    "needoh-super-fuzzball",
    "needoh-swirl-4-pack",
    "needoh-swirl-pink-white-black-purple",
-   "needoh-teenie-fuzz-ball"
+   "needoh-teenie-fuzz-ball",
+   "needoh-groovy-the-glowman-rare-discontinued",
+   "needoh-hot-shots-football-rare-discontinued",
+   "needoh-groovy-fruit",
+   "needoh-teenie-3-pack-green-purple-orange",
+   "needoh-squisher-the-reindoh-bundle-w-sticker-pack-pink",
+   "needoh-squisher-the-reindoh-bundle-w-sticker-pack-blue",
+   "needoh-teenie-cool-kittens-4-pack"
   ],
   "Jadlam Toys": [
    "halloween-squish-toy-bundle-w-jack-glow-needoh-lantern",
@@ -3470,8 +3477,16 @@
    "title": "NeeDoh Fuzzball Teenie Velvet Squeeze Soft-Cloud Squishy Stress Ball 4 Pack",
    "url": "https://jkdirectstore.com/products/needoh-fuzzball-teenie-velvet-squeeze-soft-cloud-squishy-stress-ball-4-pack"
   },
+  "JKDIRECT|needoh-groovy-fruit": {
+   "available": false,
+   "options": {},
+   "price": "£25.00",
+   "title": "NeeDoh Groovy Fruit",
+   "url": "https://jkdirectstore.com/products/needoh-groovy-fruit"
+  },
   "JKDIRECT|needoh-groovy-the-glowman-rare-discontinued": {
    "available": false,
+   "options": {},
    "price": "£96.00",
    "title": "NeeDoh Groovy The Glowman - RARE DISCONTINUED!",
    "url": "https://jkdirectstore.com/products/needoh-groovy-the-glowman-rare-discontinued"
@@ -3485,7 +3500,8 @@
   },
   "JKDIRECT|needoh-hot-shots-football-rare-discontinued": {
    "available": false,
-   "price": "£205.00",
+   "options": {},
+   "price": "£206.00",
    "title": "NeeDoh Hot Shots Football - RARE DISCONTINUED",
    "url": "https://jkdirectstore.com/products/needoh-hot-shots-football-rare-discontinued"
   },
@@ -3570,6 +3586,20 @@
    "title": "Needoh Snowball Crunch Bundle w/ Sticker Pack",
    "url": "https://jkdirectstore.com/products/needoh-snowball-crunch-bundle-w-sticker-pack"
   },
+  "JKDIRECT|needoh-squisher-the-reindoh-bundle-w-sticker-pack-blue": {
+   "available": false,
+   "options": {},
+   "price": "£39.00",
+   "title": "NeeDoh Squisher the Reindoh w/ Sticker Pack",
+   "url": "https://jkdirectstore.com/products/needoh-squisher-the-reindoh-bundle-w-sticker-pack-blue"
+  },
+  "JKDIRECT|needoh-squisher-the-reindoh-bundle-w-sticker-pack-pink": {
+   "available": false,
+   "options": {},
+   "price": "£0.00",
+   "title": "Needoh Squisher the Reindoh Bundle w/ Sticker Pack - Pink",
+   "url": "https://jkdirectstore.com/products/needoh-squisher-the-reindoh-bundle-w-sticker-pack-pink"
+  },
   "JKDIRECT|needoh-sugar-skull-cats": {
    "available": false,
    "options": {},
@@ -3597,6 +3627,20 @@
    "price": "£22.00",
    "title": "NeeDoh Swirl Cube - Random Colours",
    "url": "https://jkdirectstore.com/products/needoh-swirl-pink-white-black-purple"
+  },
+  "JKDIRECT|needoh-teenie-3-pack-green-purple-orange": {
+   "available": false,
+   "options": {},
+   "price": "£0.00",
+   "title": "NeeDoh Teenie 3 Pack - Green / Purple / Orange",
+   "url": "https://jkdirectstore.com/products/needoh-teenie-3-pack-green-purple-orange"
+  },
+  "JKDIRECT|needoh-teenie-cool-kittens-4-pack": {
+   "available": false,
+   "options": {},
+   "price": "£14.00",
+   "title": "NeeDoh Teenie Cool Kittens 4 Pack",
+   "url": "https://jkdirectstore.com/products/needoh-teenie-cool-kittens-4-pack"
   },
   "JKDIRECT|needoh-teenie-fuzz-ball": {
    "available": false,
