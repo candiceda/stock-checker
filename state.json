@@ -141,6 +141,7 @@
   "Giftology": [],
   "Infinity Collectables": [],
   "JKDIRECT": [
+   "needoh",
    "needoh-1-drop",
    "needoh-2026-christmas-advent-calendar",
    "needoh-candy-swirl-bundle",
@@ -155,6 +156,7 @@
    "needoh-groovy-the-glowman-rare-discontinued",
    "needoh-gum-drop",
    "needoh-hot-shots-football-rare-discontinued",
+   "needoh-hot-shots-teenie-4-pack",
    "needoh-jack-glow-lantern-glow-in-the-dark-w-sticker-sheet-random-colour",
    "needoh-mellow-mallow",
    "needoh-nice-berg",
@@ -174,9 +176,7 @@
    "needoh-teenie-fuzz-ball",
    "product",
    "untitled-30-oct-at-15-03",
-   "untitled-30-oct-at-20-33",
-   "needoh",
-   "needoh-hot-shots-teenie-4-pack"
+   "untitled-30-oct-at-20-33"
   ],
   "Jadlam Toys": [
    "halloween-squish-toy-bundle-w-jack-glow-needoh-lantern",
@@ -302,7 +302,7 @@
   },
   "Waterstones": 2
  },
- "full_scan_slot": 996330,
+ "full_scan_slot": 996331,
  "last_checked": {
   "Austins": 1793395812.571223,
   "Hobbycraft": 1793395812.5709543,
