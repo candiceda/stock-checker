@@ -4057,8 +4057,11 @@
    "url": "https://jukupop.com/products/needoh-jelly-squish-jellyfish-fidget-sensory-toy"
   },
   "Jukupop|needoh-nice-cube-candy-swirl-fidget-toy": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://jukupop.com/cart/57411892773188:1",
+   "options": {
+    "57411892773188": "Default Title"
+   },
    "price": "£7.99",
    "title": "NeeDoh Nice Cube Candy Swirl Fidget Toy",
    "url": "https://jukupop.com/products/needoh-nice-cube-candy-swirl-fidget-toy"
