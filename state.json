@@ -168,7 +168,8 @@
    "needoh-teenie-cool-kittens-4-pack",
    "needoh-teenie-fuzz-ball",
    "product",
-   "untitled-30-oct-at-15-03"
+   "untitled-30-oct-at-15-03",
+   "needoh-color-change"
   ],
   "Jadlam Toys": [
    "halloween-squish-toy-bundle-w-jack-glow-needoh-lantern",
@@ -296,11 +297,11 @@
  },
  "full_scan_slot": 996321,
  "last_checked": {
-  "Austins": 1793377751.2716289,
-  "Hobbycraft": 1793377751.271418,
-  "John Lewis": 1793377751.2714028,
-  "Toytown": 1793377751.2704725,
-  "Urban Outfitters": 1793377751.2711499
+  "Austins": 1793378288.8891807,
+  "Hobbycraft": 1793378288.8889616,
+  "John Lewis": 1793378288.888934,
+  "Toytown": 1793378288.7354138,
+  "Urban Outfitters": 1793378288.7361271
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -3430,6 +3431,13 @@
    "price": "£39.00",
    "title": "NeeDoh Cloud Pleaser",
    "url": "https://jkdirectstore.com/products/needoh-cloud-pleaser"
+  },
+  "JKDIRECT|needoh-color-change": {
+   "available": false,
+   "options": {},
+   "price": "£0.00",
+   "title": "NeeDoh Color Change",
+   "url": "https://jkdirectstore.com/products/needoh-color-change"
   },
   "JKDIRECT|needoh-color-change-4-pack": {
    "available": false,
