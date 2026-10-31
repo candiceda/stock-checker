@@ -312,13 +312,13 @@
   },
   "Waterstones": 2
  },
- "full_scan_slot": 996363,
+ "full_scan_slot": 996364,
  "last_checked": {
-  "Austins": 1793454939.3942616,
-  "Hobbycraft": 1793454939.394099,
-  "John Lewis": 1793454939.394086,
-  "Toytown": 1793454939.3929672,
-  "Urban Outfitters": 1793454939.393872
+  "Austins": 1793455447.7599013,
+  "Hobbycraft": 1793455447.7596288,
+  "John Lewis": 1793455447.7596083,
+  "Toytown": 1793455447.7582934,
+  "Urban Outfitters": 1793455447.7592454
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -1049,7 +1049,7 @@
    "url": "https://www.citybeach.com/uk/schylling-needoh-fuzz-ball-teenie-4-pack-squishy-fidget-toy/2040897001016-01.html"
   },
   "City Beach UK|https://www.citybeach.com/uk/schylling-needoh-gumdrop-squishy-fidget-toy/20381204-01.html": {
-   "available": true,
+   "available": false,
    "price": "£13.99",
    "title": "NeeDoh Gumdrop Squishy Fidget Toy",
    "url": "https://www.citybeach.com/uk/schylling-needoh-gumdrop-squishy-fidget-toy/20381204-01.html"
