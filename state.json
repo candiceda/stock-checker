@@ -152,6 +152,7 @@
    "needoh-dream-drop",
    "needoh-funky-pup",
    "needoh-fuzzball-flower-power",
+   "needoh-gobs-of-globs-18-teenie-groovy-globs",
    "needoh-groovy-fruit",
    "needoh-groovy-the-glowman-rare-discontinued",
    "needoh-gum-drop",
@@ -163,7 +164,9 @@
    "needoh-nice-cube-blue",
    "needoh-nice-cube-glitter-glow",
    "needoh-nice-ice-baby",
+   "needoh-nice-ice-baby-4-pack",
    "needoh-nice-sicle",
+   "needoh-polar-glow-penguin",
    "needoh-snowball-crunch-bundle-w-sticker-pack",
    "needoh-squisher-the-reindoh-bundle-w-sticker-pack-blue",
    "needoh-squisher-the-reindoh-bundle-w-sticker-pack-pink",
@@ -177,14 +180,12 @@
    "needoh-teenie-cool-kittens-4-pack",
    "needoh-teenie-fuzz-ball",
    "needoh-teenie-fuzzball-4-pack",
+   "needoh-teenie-glow-in-the-dark",
    "needoh-teenie-twirl-the-groovy-glob",
    "product",
    "untitled-30-oct-at-15-03",
    "untitled-30-oct-at-20-33",
-   "world-s-smallest-needoh",
-   "needoh-polar-glow-penguin",
-   "needoh-teenie-glow-in-the-dark",
-   "needoh-gobs-of-globs-18-teenie-groovy-globs"
+   "world-s-smallest-needoh"
   ],
   "Jadlam Toys": [
    "halloween-squish-toy-bundle-w-jack-glow-needoh-lantern",
@@ -310,7 +311,7 @@
   },
   "Waterstones": 2
  },
- "full_scan_slot": 996355,
+ "full_scan_slot": 996356,
  "last_checked": {
   "Austins": 1793440894.787142,
   "Hobbycraft": 1793440894.7868702,
@@ -3640,6 +3641,13 @@
    "price": "£14.00",
    "title": "NeeDoh Nice Ice Baby",
    "url": "https://jkdirectstore.com/products/needoh-nice-ice-baby"
+  },
+  "JKDIRECT|needoh-nice-ice-baby-4-pack": {
+   "available": false,
+   "options": {},
+   "price": "£32.00",
+   "title": "NeeDoh Nice Ice Baby 4 Pack",
+   "url": "https://jkdirectstore.com/products/needoh-nice-ice-baby-4-pack"
   },
   "JKDIRECT|needoh-nice-sicle": {
    "available": false,
