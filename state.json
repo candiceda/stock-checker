@@ -182,7 +182,8 @@
    "untitled-30-oct-at-15-03",
    "untitled-30-oct-at-20-33",
    "world-s-smallest-needoh",
-   "needoh-polar-glow-penguin"
+   "needoh-polar-glow-penguin",
+   "needoh-teenie-glow-in-the-dark"
   ],
   "Jadlam Toys": [
    "halloween-squish-toy-bundle-w-jack-glow-needoh-lantern",
@@ -310,11 +311,11 @@
  },
  "full_scan_slot": 996355,
  "last_checked": {
-  "Austins": 1793439950.7748077,
-  "Hobbycraft": 1793439950.7745135,
-  "John Lewis": 1793439950.7744777,
-  "Toytown": 1793439950.675853,
-  "Urban Outfitters": 1793439950.6764174
+  "Austins": 1793440424.2198975,
+  "Hobbycraft": 1793440424.2196891,
+  "John Lewis": 1793440424.2196476,
+  "Toytown": 1793440424.1912708,
+  "Urban Outfitters": 1793440424.19215
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -3736,6 +3737,13 @@
    "price": "£0.00",
    "title": "NeeDoh Teenie Fuzzball 4 Pack",
    "url": "https://jkdirectstore.com/products/needoh-teenie-fuzzball-4-pack"
+  },
+  "JKDIRECT|needoh-teenie-glow-in-the-dark": {
+   "available": false,
+   "options": {},
+   "price": "£0.00",
+   "title": "NeeDoh Teenie Glow In The Dark",
+   "url": "https://jkdirectstore.com/products/needoh-teenie-glow-in-the-dark"
   },
   "JKDIRECT|needoh-teenie-twirl-the-groovy-glob": {
    "available": false,
