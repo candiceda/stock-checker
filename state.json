@@ -181,7 +181,8 @@
    "product",
    "untitled-30-oct-at-15-03",
    "untitled-30-oct-at-20-33",
-   "world-s-smallest-needoh"
+   "world-s-smallest-needoh",
+   "needoh-polar-glow-penguin"
   ],
   "Jadlam Toys": [
    "halloween-squish-toy-bundle-w-jack-glow-needoh-lantern",
@@ -309,11 +310,11 @@
  },
  "full_scan_slot": 996355,
  "last_checked": {
-  "Austins": 1793439470.069082,
-  "Hobbycraft": 1793439470.068925,
-  "John Lewis": 1793439470.0689132,
-  "Toytown": 1793439470.0680804,
-  "Urban Outfitters": 1793439470.0687253
+  "Austins": 1793439950.7748077,
+  "Hobbycraft": 1793439950.7745135,
+  "John Lewis": 1793439950.7744777,
+  "Toytown": 1793439950.675853,
+  "Urban Outfitters": 1793439950.6764174
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -3637,6 +3638,13 @@
    "price": "£35.00",
    "title": "NeeDoh Nice-Sicle - Random Colour",
    "url": "https://jkdirectstore.com/products/needoh-nice-sicle"
+  },
+  "JKDIRECT|needoh-polar-glow-penguin": {
+   "available": false,
+   "options": {},
+   "price": "£0.00",
+   "title": "NeeDoh Polar Glow Penguin",
+   "url": "https://jkdirectstore.com/products/needoh-polar-glow-penguin"
   },
   "JKDIRECT|needoh-snowball-crunch-bundle-w-sticker-pack": {
    "available": false,
