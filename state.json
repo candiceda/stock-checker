@@ -169,17 +169,19 @@
    "needoh-squisher-the-reindoh-bundle-w-sticker-pack-pink",
    "needoh-sugar-skull-cats",
    "needoh-super-fuzzball",
+   "needoh-super-ripples-green",
    "needoh-swirl-4-pack",
    "needoh-swirl-pink-white-black-purple",
    "needoh-teenie-3-pack-green-purple-orange",
+   "needoh-teenie-cool-cube",
    "needoh-teenie-cool-kittens-4-pack",
    "needoh-teenie-fuzz-ball",
    "needoh-teenie-fuzzball-4-pack",
+   "needoh-teenie-twirl-the-groovy-glob",
    "product",
    "untitled-30-oct-at-15-03",
    "untitled-30-oct-at-20-33",
-   "world-s-smallest-needoh",
-   "needoh-teenie-cool-cube"
+   "world-s-smallest-needoh"
   ],
   "Jadlam Toys": [
    "halloween-squish-toy-bundle-w-jack-glow-needoh-lantern",
@@ -305,7 +307,7 @@
   },
   "Waterstones": 2
  },
- "full_scan_slot": 996354,
+ "full_scan_slot": 996355,
  "last_checked": {
   "Austins": 1793438935.7829714,
   "Hobbycraft": 1793438935.7827363,
@@ -3671,6 +3673,13 @@
    "title": "NeeDoh Super Fuzzball",
    "url": "https://jkdirectstore.com/products/needoh-super-fuzzball"
   },
+  "JKDIRECT|needoh-super-ripples-green": {
+   "available": false,
+   "options": {},
+   "price": "£0.00",
+   "title": "NeeDoh Super Ripples Green",
+   "url": "https://jkdirectstore.com/products/needoh-super-ripples-green"
+  },
   "JKDIRECT|needoh-swirl-4-pack": {
    "available": false,
    "options": {},
@@ -3719,6 +3728,13 @@
    "price": "£0.00",
    "title": "NeeDoh Teenie Fuzzball 4 Pack",
    "url": "https://jkdirectstore.com/products/needoh-teenie-fuzzball-4-pack"
+  },
+  "JKDIRECT|needoh-teenie-twirl-the-groovy-glob": {
+   "available": false,
+   "options": {},
+   "price": "£0.00",
+   "title": "NeeDoh Teenie Twirl The Groovy Glob",
+   "url": "https://jkdirectstore.com/products/needoh-teenie-twirl-the-groovy-glob"
   },
   "JKDIRECT|product": {
    "available": false,
