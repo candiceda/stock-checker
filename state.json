@@ -185,7 +185,8 @@
    "product",
    "untitled-30-oct-at-15-03",
    "untitled-30-oct-at-20-33",
-   "world-s-smallest-needoh"
+   "world-s-smallest-needoh",
+   "needoh-teenie-cool-cats-3-pack"
   ],
   "Jadlam Toys": [
    "halloween-squish-toy-bundle-w-jack-glow-needoh-lantern",
@@ -313,11 +314,11 @@
  },
  "full_scan_slot": 996356,
  "last_checked": {
-  "Austins": 1793440894.787142,
-  "Hobbycraft": 1793440894.7868702,
-  "John Lewis": 1793440894.7868466,
-  "Toytown": 1793440894.7855966,
-  "Urban Outfitters": 1793440894.7864933
+  "Austins": 1793441433.030584,
+  "Hobbycraft": 1793441433.0303195,
+  "John Lewis": 1793441433.0302937,
+  "Toytown": 1793441433.002545,
+  "Urban Outfitters": 1793441433.0030696
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -3725,6 +3726,13 @@
    "price": "£0.00",
    "title": "NeeDoh Teenie 3 Pack - Green / Purple / Orange",
    "url": "https://jkdirectstore.com/products/needoh-teenie-3-pack-green-purple-orange"
+  },
+  "JKDIRECT|needoh-teenie-cool-cats-3-pack": {
+   "available": false,
+   "options": {},
+   "price": "£0.00",
+   "title": "NeeDoh Teenie Cool Cats 3 Pack",
+   "url": "https://jkdirectstore.com/products/needoh-teenie-cool-cats-3-pack"
   },
   "JKDIRECT|needoh-teenie-cool-cube": {
    "available": false,
