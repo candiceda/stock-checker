@@ -306,13 +306,17 @@
    "since": 1793206714.6797817,
    "warned": true
   },
+  "Science Museum Shop": {
+   "since": 1793464355.9729607,
+   "warned": false
+  },
   "Urban Outfitters": {
    "since": 1793206714.6795745,
    "warned": true
   },
   "Waterstones": 2
  },
- "full_scan_slot": 996368,
+ "full_scan_slot": 996369,
  "last_checked": {
   "Austins": 1793464173.5659723,
   "Hobbycraft": 1793464173.5656946,
