@@ -304,10 +304,6 @@
    "since": 1793206714.6798878,
    "warned": true
   },
-  "Beanie Games": {
-   "since": 1793570612.2987356,
-   "warned": false
-  },
   "Hamleys": 2,
   "Hobbycraft": {
    "since": 1793206714.6797936,
@@ -317,8 +313,8 @@
    "since": 1793206714.6797817,
    "warned": true
   },
-  "My Small World Toy Shop": {
-   "since": 1793570612.2981763,
+  "Roskai": {
+   "since": 1793570833.0078726,
    "warned": false
   },
   "Urban Outfitters": {
@@ -329,11 +325,11 @@
  },
  "full_scan_slot": 996428,
  "last_checked": {
-  "Austins": 1793570420.8228483,
-  "Hobbycraft": 1793570420.822538,
-  "John Lewis": 1793570420.8225157,
-  "Toytown": 1793570420.821302,
-  "Urban Outfitters": 1793570420.8221877
+  "Austins": 1793570833.009417,
+  "Hobbycraft": 1793570833.0091429,
+  "John Lewis": 1793570833.0091186,
+  "Toytown": 1793570833.0078216,
+  "Urban Outfitters": 1793570833.0086854
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
