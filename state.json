@@ -312,13 +312,17 @@
    "since": 1793206714.6797817,
    "warned": true
   },
+  "Science Museum Shop": {
+   "since": 1793529229.9642906,
+   "warned": false
+  },
   "Urban Outfitters": {
    "since": 1793206714.6795745,
    "warned": true
   },
   "Waterstones": 2
  },
- "full_scan_slot": 996404,
+ "full_scan_slot": 996405,
  "last_checked": {
   "Austins": 1793529032.9795704,
   "Hobbycraft": 1793529032.9793289,
@@ -3716,7 +3720,7 @@
    "available": false,
    "options": {},
    "price": "£0.00",
-   "title": "NeeDoh Super Ripples Green",
+   "title": "NeeDoh Super Ripples",
    "url": "https://jkdirectstore.com/products/needoh-super-ripples-green"
   },
   "JKDIRECT|needoh-swirl-4-pack": {
