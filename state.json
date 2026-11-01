@@ -312,10 +312,6 @@
    "since": 1793206714.6797817,
    "warned": true
   },
-  "Science Museum Shop": {
-   "since": 1793529229.9642906,
-   "warned": false
-  },
   "Urban Outfitters": {
    "since": 1793206714.6795745,
    "warned": true
@@ -324,11 +320,11 @@
  },
  "full_scan_slot": 996405,
  "last_checked": {
-  "Austins": 1793529032.9795704,
-  "Hobbycraft": 1793529032.9793289,
-  "John Lewis": 1793529032.979311,
-  "Toytown": 1793529032.978125,
-  "Urban Outfitters": 1793529032.9789891
+  "Austins": 1793529453.0831418,
+  "Hobbycraft": 1793529453.0828774,
+  "John Lewis": 1793529453.0828662,
+  "Toytown": 1793529453.0821817,
+  "Urban Outfitters": 1793529453.0826695
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
