@@ -189,7 +189,8 @@
    "untitled-30-oct-at-20-33",
    "world-s-smallest-needoh",
    "needoh-wow-flake-us-exclusive",
-   "needoh-galactic-glow-dream-drops-us-exclusive"
+   "needoh-galactic-glow-dream-drops-us-exclusive",
+   "needoh-gummy-bear"
   ],
   "Jadlam Toys": [
    "halloween-squish-toy-bundle-w-jack-glow-needoh-lantern",
@@ -322,11 +323,11 @@
  },
  "full_scan_slot": 996406,
  "last_checked": {
-  "Austins": 1793531286.0595315,
-  "Hobbycraft": 1793531286.0593936,
-  "John Lewis": 1793531286.0593843,
-  "Toytown": 1793531286.0585763,
-  "Urban Outfitters": 1793531286.0591247
+  "Austins": 1793531775.6492453,
+  "Hobbycraft": 1793531775.649031,
+  "John Lewis": 1793531775.6490035,
+  "Toytown": 1793531775.5264037,
+  "Urban Outfitters": 1793531775.5270302
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -3576,6 +3577,13 @@
    "price": "£28.00",
    "title": "NeeDoh Gumdrop",
    "url": "https://jkdirectstore.com/products/needoh-gum-drop"
+  },
+  "JKDIRECT|needoh-gummy-bear": {
+   "available": false,
+   "options": {},
+   "price": "£0.00",
+   "title": "NeeDoh Gummy Bear",
+   "url": "https://jkdirectstore.com/products/needoh-gummy-bear"
   },
   "JKDIRECT|needoh-hot-shots-football-rare-discontinued": {
    "available": false,
