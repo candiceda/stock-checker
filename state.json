@@ -297,6 +297,10 @@
    "since": 1793206714.6798878,
    "warned": true
   },
+  "Beanie Games": {
+   "since": 1793500353.8990793,
+   "warned": false
+  },
   "Cloud Nine Boutique": {
    "since": 1793493401.07985,
    "warned": false
@@ -310,13 +314,17 @@
    "since": 1793206714.6797817,
    "warned": true
   },
+  "Maple Gifts": {
+   "since": 1793500353.899475,
+   "warned": false
+  },
   "Urban Outfitters": {
    "since": 1793206714.6795745,
    "warned": true
   },
   "Waterstones": 2
  },
- "full_scan_slot": 996388,
+ "full_scan_slot": 996389,
  "last_checked": {
   "Austins": 1793500050.6454868,
   "Hobbycraft": 1793500050.6453278,
