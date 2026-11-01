@@ -161,6 +161,7 @@
    "needoh-hot-shots-football-rare-discontinued",
    "needoh-hot-shots-teenie-4-pack",
    "needoh-jack-glow-lantern-glow-in-the-dark-w-sticker-sheet-random-colour",
+   "needoh-knittens",
    "needoh-mellow-mallow",
    "needoh-nice-berg",
    "needoh-nice-cream-cone",
@@ -322,7 +323,7 @@
   },
   "Waterstones": 2
  },
- "full_scan_slot": 996420,
+ "full_scan_slot": 996421,
  "last_checked": {
   "Austins": 1793557887.4009619,
   "Hobbycraft": 1793557887.40083,
@@ -3619,6 +3620,13 @@
    "price": "£41.00",
    "title": "NeeDoh Jelly Squish - PINK",
    "url": "https://jkdirectstore.com/products/needoh-jelly-squish-pink"
+  },
+  "JKDIRECT|needoh-knittens": {
+   "available": false,
+   "options": {},
+   "price": "£0.00",
+   "title": "NeeDoh Knittens",
+   "url": "https://jkdirectstore.com/products/needoh-knittens"
   },
   "JKDIRECT|needoh-knittens-random-colour": {
    "available": false,
