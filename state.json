@@ -297,10 +297,6 @@
    "since": 1793206714.6798878,
    "warned": true
   },
-  "Beanie Games": {
-   "since": 1793500353.8990793,
-   "warned": false
-  },
   "Cloud Nine Boutique": {
    "since": 1793493401.07985,
    "warned": false
@@ -314,10 +310,6 @@
    "since": 1793206714.6797817,
    "warned": true
   },
-  "Maple Gifts": {
-   "since": 1793500353.899475,
-   "warned": false
-  },
   "Urban Outfitters": {
    "since": 1793206714.6795745,
    "warned": true
@@ -326,11 +318,11 @@
  },
  "full_scan_slot": 996389,
  "last_checked": {
-  "Austins": 1793500050.6454868,
-  "Hobbycraft": 1793500050.6453278,
-  "John Lewis": 1793500050.6453168,
-  "Toytown": 1793500050.6445227,
-  "Urban Outfitters": 1793500050.6451294
+  "Austins": 1793500576.3514934,
+  "Hobbycraft": 1793500576.3512197,
+  "John Lewis": 1793500576.3511984,
+  "Toytown": 1793500576.3499753,
+  "Urban Outfitters": 1793500576.3508463
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
