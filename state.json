@@ -304,6 +304,10 @@
    "since": 1793206714.6798878,
    "warned": true
   },
+  "Beanie Games": {
+   "since": 1793570612.2987356,
+   "warned": false
+  },
   "Hamleys": 2,
   "Hobbycraft": {
    "since": 1793206714.6797936,
@@ -313,13 +317,17 @@
    "since": 1793206714.6797817,
    "warned": true
   },
+  "My Small World Toy Shop": {
+   "since": 1793570612.2981763,
+   "warned": false
+  },
   "Urban Outfitters": {
    "since": 1793206714.6795745,
    "warned": true
   },
   "Waterstones": 2
  },
- "full_scan_slot": 996427,
+ "full_scan_slot": 996428,
  "last_checked": {
   "Austins": 1793570420.8228483,
   "Hobbycraft": 1793570420.822538,
