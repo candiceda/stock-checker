@@ -144,6 +144,7 @@
    "needoh",
    "needoh-1-drop",
    "needoh-2026-christmas-advent-calendar",
+   "needoh-5-item-blue-bundle-colour-change-marble-cube-more",
    "needoh-candy-swirl-bundle",
    "needoh-cloud-pleaser",
    "needoh-color-change",
@@ -169,7 +170,9 @@
    "needoh-nice-cube-glitter-glow",
    "needoh-nice-ice-baby",
    "needoh-nice-ice-baby-4-pack",
+   "needoh-nice-ice-baby-pink-bundle-4-items",
    "needoh-nice-sicle",
+   "needoh-pink-glitter-and-glow-6-item-bundle",
    "needoh-polar-glow-penguin",
    "needoh-snowball-crunch-bundle-w-sticker-pack",
    "needoh-sploot-splat-blue",
@@ -192,10 +195,7 @@
    "product",
    "untitled-30-oct-at-15-03",
    "untitled-30-oct-at-20-33",
-   "world-s-smallest-needoh",
-   "needoh-5-item-blue-bundle-colour-change-marble-cube-more",
-   "needoh-nice-ice-baby-pink-bundle-4-items",
-   "needoh-pink-glitter-and-glow-6-item-bundle"
+   "world-s-smallest-needoh"
   ],
   "Jadlam Toys": [
    "halloween-squish-toy-bundle-w-jack-glow-needoh-lantern",
@@ -324,7 +324,7 @@
   },
   "Waterstones": 2
  },
- "full_scan_slot": 996459,
+ "full_scan_slot": 996460,
  "last_checked": {
   "Austins": 1793627874.325091,
   "Hobbycraft": 1793627874.324852,
