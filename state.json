@@ -309,10 +309,6 @@
    "since": 1793206714.6798878,
    "warned": true
   },
-  "Be More Geek": {
-   "since": 1793648473.7628324,
-   "warned": false
-  },
   "Hamleys": 2,
   "Hobbycraft": {
    "since": 1793206714.6797936,
@@ -322,10 +318,6 @@
    "since": 1793206714.6797817,
    "warned": true
   },
-  "Polhill Garden Centre": {
-   "since": 1793648473.7629,
-   "warned": false
-  },
   "Urban Outfitters": {
    "since": 1793206714.6795745,
    "warned": true
@@ -334,11 +326,11 @@
  },
  "full_scan_slot": 996471,
  "last_checked": {
-  "Austins": 1793648199.9404085,
-  "Hobbycraft": 1793648199.9402611,
-  "John Lewis": 1793648199.9402516,
-  "Toytown": 1793648199.9394596,
-  "Urban Outfitters": 1793648199.9400506
+  "Austins": 1793648695.224933,
+  "Hobbycraft": 1793648695.2247121,
+  "John Lewis": 1793648695.2246976,
+  "Toytown": 1793648695.2236977,
+  "Urban Outfitters": 1793648695.2244234
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
