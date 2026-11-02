@@ -304,6 +304,18 @@
    "since": 1793206714.6798878,
    "warned": true
   },
+  "Bigjigs Toys": {
+   "since": 1793586843.395384,
+   "warned": false
+  },
+  "Cloud Nine Boutique": {
+   "since": 1793586843.3958833,
+   "warned": false
+  },
+  "Fantastic Fidgets UK": {
+   "since": 1793586843.3963244,
+   "warned": false
+  },
   "Hamleys": 2,
   "Hobbycraft": {
    "since": 1793206714.6797936,
@@ -312,6 +324,18 @@
   "John Lewis": {
    "since": 1793206714.6797817,
    "warned": true
+  },
+  "My Small World Toy Shop": {
+   "since": 1793586843.3961782,
+   "warned": false
+  },
+  "Roskai": {
+   "since": 1793586843.395846,
+   "warned": false
+  },
+  "The Dyslexia Shop": {
+   "since": 1793586843.3956645,
+   "warned": false
   },
   "Urban Outfitters": {
    "since": 1793206714.6795745,
