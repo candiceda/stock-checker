@@ -321,11 +321,11 @@
  },
  "full_scan_slot": 996448,
  "last_checked": {
-  "Austins": 1793606448.2938318,
-  "Hobbycraft": 1793606448.2935715,
-  "John Lewis": 1793606448.293548,
-  "Toytown": 1793606448.2923386,
-  "Urban Outfitters": 1793606448.293201
+  "Austins": 1793606984.8870735,
+  "Hobbycraft": 1793606984.8868709,
+  "John Lewis": 1793606984.8868535,
+  "Toytown": 1793606984.8858848,
+  "Urban Outfitters": 1793606984.8865688
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -3640,7 +3640,7 @@
   "JKDIRECT|needoh-nice-berg": {
    "available": false,
    "options": {},
-   "price": "£41.00",
+   "price": "£42.00",
    "title": "NeeDoh Nice Berg Blue",
    "url": "https://jkdirectstore.com/products/needoh-nice-berg"
   },
@@ -3730,7 +3730,7 @@
   "JKDIRECT|needoh-sugar-skull-cats": {
    "available": false,
    "options": {},
-   "price": "£41.00",
+   "price": "£42.00",
    "title": "NeeDoh Sugar Skull Cats",
    "url": "https://jkdirectstore.com/products/needoh-sugar-skull-cats"
   },
@@ -3828,14 +3828,14 @@
   "JKDIRECT|product": {
    "available": false,
    "options": {},
-   "price": "£41.00",
+   "price": "£42.00",
    "title": "NeeDoh Booper - RARE Discontinued.",
    "url": "https://jkdirectstore.com/products/product"
   },
   "JKDIRECT|untitled-30-oct-at-15-03": {
    "available": false,
    "options": {},
-   "price": "£41.00",
+   "price": "£42.00",
    "title": "NeeDoh Jelly Squish",
    "url": "https://jkdirectstore.com/products/untitled-30-oct-at-15-03"
   },
