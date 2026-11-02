@@ -321,11 +321,11 @@
  },
  "full_scan_slot": 996449,
  "last_checked": {
-  "Austins": 1793608477.6085181,
-  "Hobbycraft": 1793608477.6082685,
-  "John Lewis": 1793608477.6082494,
-  "Toytown": 1793608477.6070182,
-  "Urban Outfitters": 1793608477.6079173
+  "Austins": 1793608970.4603467,
+  "Hobbycraft": 1793608970.4601188,
+  "John Lewis": 1793608970.4600952,
+  "Toytown": 1793608970.458877,
+  "Urban Outfitters": 1793608970.4597545
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -3723,7 +3723,7 @@
   "JKDIRECT|needoh-squisher-the-reindoh-bundle-w-sticker-pack-pink": {
    "available": false,
    "options": {},
-   "price": "£0.00",
+   "price": "£42.00",
    "title": "Needoh Squisher the Reindoh Bundle w/ Sticker Pack - Pink",
    "url": "https://jkdirectstore.com/products/needoh-squisher-the-reindoh-bundle-w-sticker-pack-pink"
   },
