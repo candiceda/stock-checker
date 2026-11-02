@@ -324,11 +324,11 @@
  },
  "full_scan_slot": 996459,
  "last_checked": {
-  "Austins": 1793626891.7293606,
-  "Hobbycraft": 1793626891.7290463,
-  "John Lewis": 1793626891.7290175,
-  "Toytown": 1793626891.727577,
-  "Urban Outfitters": 1793626891.7285414
+  "Austins": 1793627383.8653338,
+  "Hobbycraft": 1793627383.8649912,
+  "John Lewis": 1793627383.8649497,
+  "Toytown": 1793627383.8637013,
+  "Urban Outfitters": 1793627383.864585
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -1047,7 +1047,7 @@
    "url": "https://www.citybeach.com/uk/schylling-needoh-candy-swirl-nice-cube-squishy-fidget-toy/20413070-01.html"
   },
   "City Beach UK|https://www.citybeach.com/uk/schylling-needoh-dream-drop-squishy-fidget-toy/20388206-01.html": {
-   "available": true,
+   "available": false,
    "price": "£13.99",
    "title": "NeeDoh Dream Drop Squishy Fidget Toy",
    "url": "https://www.citybeach.com/uk/schylling-needoh-dream-drop-squishy-fidget-toy/20388206-01.html"
@@ -1059,7 +1059,7 @@
    "url": "https://www.citybeach.com/uk/schylling-needoh-fuzz-ball-teenie-4-pack-squishy-fidget-toy/2040897001016-01.html"
   },
   "City Beach UK|https://www.citybeach.com/uk/schylling-needoh-gumdrop-squishy-fidget-toy/20381204-01.html": {
-   "available": true,
+   "available": false,
    "price": "£13.99",
    "title": "NeeDoh Gumdrop Squishy Fidget Toy",
    "url": "https://www.citybeach.com/uk/schylling-needoh-gumdrop-squishy-fidget-toy/20381204-01.html"
