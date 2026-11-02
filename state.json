@@ -309,6 +309,10 @@
    "since": 1793206714.6798878,
    "warned": true
   },
+  "Funkytoystore": {
+   "since": 1793650297.1860495,
+   "warned": false
+  },
   "Hamleys": 2,
   "Hobbycraft": {
    "since": 1793206714.6797936,
@@ -317,6 +321,10 @@
   "John Lewis": {
    "since": 1793206714.6797817,
    "warned": true
+  },
+  "Roskai": {
+   "since": 1793650297.1857061,
+   "warned": false
   },
   "Urban Outfitters": {
    "since": 1793206714.6795745,
