@@ -314,6 +314,10 @@
    "since": 1793206714.6797936,
    "warned": true
   },
+  "Jadlam Toys": {
+   "since": 1793651676.320845,
+   "warned": false
+  },
   "John Lewis": {
    "since": 1793206714.6797817,
    "warned": true
@@ -324,13 +328,13 @@
   },
   "Waterstones": 2
  },
- "full_scan_slot": 996472,
+ "full_scan_slot": 996473,
  "last_checked": {
-  "Austins": 1793651171.741441,
-  "Hobbycraft": 1793651171.7411733,
-  "John Lewis": 1793651171.741154,
-  "Toytown": 1793651171.7399805,
-  "Urban Outfitters": 1793651171.7408288
+  "Austins": 1793651676.3222983,
+  "Hobbycraft": 1793651676.322079,
+  "John Lewis": 1793651676.3220685,
+  "Toytown": 1793651676.3212206,
+  "Urban Outfitters": 1793651676.3218412
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
