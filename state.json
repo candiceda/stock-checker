@@ -192,7 +192,8 @@
    "product",
    "untitled-30-oct-at-15-03",
    "untitled-30-oct-at-20-33",
-   "world-s-smallest-needoh"
+   "world-s-smallest-needoh",
+   "needoh-5-item-blue-bundle-colour-change-marble-cube-more"
   ],
   "Jadlam Toys": [
    "halloween-squish-toy-bundle-w-jack-glow-needoh-lantern",
@@ -314,10 +315,6 @@
   "John Lewis": {
    "since": 1793206714.6797817,
    "warned": true
-  },
-  "Science Museum Shop": {
-   "since": 1793626399.5267992,
-   "warned": false
   },
   "Urban Outfitters": {
    "since": 1793206714.6795745,
@@ -3475,6 +3472,13 @@
    "price": "£76.00",
    "title": "NeeDoh 2026 Christmas Advent Calendar Sealed",
    "url": "https://jkdirectstore.com/products/needoh-2026-christmas-advent-calendar"
+  },
+  "JKDIRECT|needoh-5-item-blue-bundle-colour-change-marble-cube-more": {
+   "available": false,
+   "options": {},
+   "price": "£42.00",
+   "title": "NeeDoh 5 Item Blue Bundle - Colour Change, Marble Cube + More!",
+   "url": "https://jkdirectstore.com/products/needoh-5-item-blue-bundle-colour-change-marble-cube-more"
   },
   "JKDIRECT|needoh-candy-swirl-bundle": {
    "available": false,
