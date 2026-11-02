@@ -235,7 +235,9 @@
    "speks-tree-gump-24-units-with-display-christmas-the-memory-gel-stress-ball-sensory-fidget"
   ],
   "Science Museum Shop": [],
-  "Scribbler": [],
+  "Scribbler": [
+   "needoh-candy-swirl-nice-cube"
+  ],
   "Simply Toys": [],
   "So Realistic": [],
   "TDMM Family": [
@@ -5222,6 +5224,16 @@
    "price": "£40.71",
    "title": "NeeDoh Advent Calendar 2026",
    "url": "https://www.scribbler.com/products/needoh-advent-calendar-2026"
+  },
+  "Scribbler|needoh-candy-swirl-nice-cube": {
+   "available": true,
+   "checkout": "https://www.scribbler.com/cart/64768965345657:1",
+   "options": {
+    "64768965345657": "Default Title"
+   },
+   "price": "£9.57",
+   "title": "NeeDoh Candy Swirl Nice Cube",
+   "url": "https://www.scribbler.com/products/needoh-candy-swirl-nice-cube"
   },
   "Simply Toys|new-tree-gump-christmas-order-by-1st-april-2026-the-memory-gel-stress-ball": {
    "available": false,
