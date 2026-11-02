@@ -304,6 +304,14 @@
    "since": 1793206714.6798878,
    "warned": true
   },
+  "Bigjigs Toys": {
+   "since": 1793586763.898832,
+   "warned": false
+  },
+  "Fidget Fables": {
+   "since": 1793586763.898976,
+   "warned": false
+  },
   "Hamleys": 2,
   "Hobbycraft": {
    "since": 1793206714.6797936,
@@ -312,6 +320,10 @@
   "John Lewis": {
    "since": 1793206714.6797817,
    "warned": true
+  },
+  "Jukupop": {
+   "since": 1793586763.8989267,
+   "warned": false
   },
   "Urban Outfitters": {
    "since": 1793206714.6795745,
