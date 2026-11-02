@@ -318,13 +318,17 @@
    "since": 1793206714.6797817,
    "warned": true
   },
+  "The Kid Collective": {
+   "since": 1793644333.93825,
+   "warned": false
+  },
   "Urban Outfitters": {
    "since": 1793206714.6795745,
    "warned": true
   },
   "Waterstones": 2
  },
- "full_scan_slot": 996468,
+ "full_scan_slot": 996469,
  "last_checked": {
   "Austins": 1793644165.8277037,
   "Hobbycraft": 1793644165.8274071,
