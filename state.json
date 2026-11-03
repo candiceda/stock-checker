@@ -329,13 +329,13 @@
   },
   "Waterstones": 2
  },
- "full_scan_slot": 996510,
+ "full_scan_slot": 996511,
  "last_checked": {
-  "Austins": 1793719450.279887,
-  "Hobbycraft": 1793719450.2796476,
-  "John Lewis": 1793719450.279632,
-  "Toytown": 1793719450.2784164,
-  "Urban Outfitters": 1793719450.2792823
+  "Austins": 1793719965.478148,
+  "Hobbycraft": 1793719965.4779613,
+  "John Lewis": 1793719965.4779463,
+  "Toytown": 1793719965.4767568,
+  "Urban Outfitters": 1793719965.4776351
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -3765,7 +3765,7 @@
   "JKDIRECT|needoh-super-fuzzball": {
    "available": false,
    "options": {},
-   "price": "£48.00",
+   "price": "£55.00",
    "title": "NeeDoh Super Fuzzball",
    "url": "https://jkdirectstore.com/products/needoh-super-fuzzball"
   },
