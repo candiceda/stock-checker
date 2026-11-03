@@ -323,13 +323,17 @@
    "since": 1793206714.6797817,
    "warned": true
   },
+  "Plush Paradise": {
+   "since": 1793716330.4461122,
+   "warned": false
+  },
   "Urban Outfitters": {
    "since": 1793206714.6795745,
    "warned": true
   },
   "Waterstones": 2
  },
- "full_scan_slot": 996508,
+ "full_scan_slot": 996509,
  "last_checked": {
   "Austins": 1793716006.8153112,
   "Hobbycraft": 1793716006.8151205,
