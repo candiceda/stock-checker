@@ -331,11 +331,11 @@
  },
  "full_scan_slot": 996520,
  "last_checked": {
-  "Austins": 1793736125.4251323,
-  "Hobbycraft": 1793736125.4248776,
-  "John Lewis": 1793736125.424855,
-  "Toytown": 1793736125.4235094,
-  "Urban Outfitters": 1793736125.424459
+  "Austins": 1793736560.0576487,
+  "Hobbycraft": 1793736560.0574176,
+  "John Lewis": 1793736560.0573947,
+  "Toytown": 1793736560.0560694,
+  "Urban Outfitters": 1793736560.056981
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -5264,7 +5264,7 @@
   "Scribbler|needoh-candy-swirl-nice-cube": {
    "available": false,
    "options": {},
-   "price": "£9.57",
+   "price": "£9.56",
    "title": "NeeDoh Candy Swirl Nice Cube",
    "url": "https://www.scribbler.com/products/needoh-candy-swirl-nice-cube"
   },
@@ -5390,7 +5390,7 @@
   "So Realistic|needoh-jelly-squish-viral-sugar-squish-stress-toy-in-stock-now": {
    "available": false,
    "options": {},
-   "price": "£14.00",
+   "price": "£13.00",
    "title": "NeeDoh Jelly Squish Viral Sugar Squish Stress Toy - IN STOCK NOW",
    "url": "https://sorealistic.co.uk/products/needoh-jelly-squish-viral-sugar-squish-stress-toy-in-stock-now"
   },
