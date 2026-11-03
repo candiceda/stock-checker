@@ -309,10 +309,6 @@
    "since": 1793206714.6798878,
    "warned": true
   },
-  "City Beach UK": {
-   "since": 1793676149.454467,
-   "warned": false
-  },
   "Hamleys": 2,
   "Hobbycraft": {
    "since": 1793206714.6797936,
@@ -330,11 +326,11 @@
  },
  "full_scan_slot": 996488,
  "last_checked": {
-  "Austins": 1793678379.9992886,
-  "Hobbycraft": 1793678379.9990516,
-  "John Lewis": 1793678379.9990373,
-  "Toytown": 1793678379.9979463,
-  "Urban Outfitters": 1793678379.9987295
+  "Austins": 1793679299.487124,
+  "Hobbycraft": 1793679299.4868643,
+  "John Lewis": 1793679299.4868388,
+  "Toytown": 1793679299.485806,
+  "Urban Outfitters": 1793679299.4864745
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -3482,7 +3478,7 @@
   "JKDIRECT|needoh-5-item-blue-bundle-colour-change-marble-cube-more": {
    "available": false,
    "options": {},
-   "price": "£41.00",
+   "price": "£42.00",
    "title": "NeeDoh 5 Item Blue Bundle - Colour Change, Marble Cube + More!",
    "url": "https://jkdirectstore.com/products/needoh-5-item-blue-bundle-colour-change-marble-cube-more"
   },
@@ -3653,7 +3649,7 @@
   "JKDIRECT|needoh-nice-berg": {
    "available": false,
    "options": {},
-   "price": "£41.00",
+   "price": "£42.00",
    "title": "NeeDoh Nice Berg Blue",
    "url": "https://jkdirectstore.com/products/needoh-nice-berg"
   },
@@ -3715,7 +3711,7 @@
   "JKDIRECT|needoh-pink-glitter-and-glow-6-item-bundle": {
    "available": false,
    "options": {},
-   "price": "£41.00",
+   "price": "£42.00",
    "title": "NeeDoh Pink Glitter And Glow - 6 Item Bundle",
    "url": "https://jkdirectstore.com/products/needoh-pink-glitter-and-glow-6-item-bundle"
   },
@@ -3750,14 +3746,14 @@
   "JKDIRECT|needoh-squisher-the-reindoh-bundle-w-sticker-pack-pink": {
    "available": false,
    "options": {},
-   "price": "£41.00",
+   "price": "£42.00",
    "title": "Needoh Squisher the Reindoh Bundle w/ Sticker Pack - Pink",
    "url": "https://jkdirectstore.com/products/needoh-squisher-the-reindoh-bundle-w-sticker-pack-pink"
   },
   "JKDIRECT|needoh-sugar-skull-cats": {
    "available": false,
    "options": {},
-   "price": "£41.00",
+   "price": "£42.00",
    "title": "NeeDoh Sugar Skull Cats",
    "url": "https://jkdirectstore.com/products/needoh-sugar-skull-cats"
   },
@@ -3855,14 +3851,14 @@
   "JKDIRECT|product": {
    "available": false,
    "options": {},
-   "price": "£41.00",
+   "price": "£42.00",
    "title": "NeeDoh Booper - RARE Discontinued.",
    "url": "https://jkdirectstore.com/products/product"
   },
   "JKDIRECT|untitled-30-oct-at-15-03": {
    "available": false,
    "options": {},
-   "price": "£41.00",
+   "price": "£42.00",
    "title": "NeeDoh Jelly Squish",
    "url": "https://jkdirectstore.com/products/untitled-30-oct-at-15-03"
   },
@@ -5256,7 +5252,7 @@
   "Scribbler|needoh-candy-swirl-nice-cube": {
    "available": false,
    "options": {},
-   "price": "£9.55",
+   "price": "£9.56",
    "title": "NeeDoh Candy Swirl Nice Cube",
    "url": "https://www.scribbler.com/products/needoh-candy-swirl-nice-cube"
   },
