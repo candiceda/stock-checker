@@ -319,6 +319,10 @@
    "since": 1793685883.7042434,
    "warned": true
   },
+  "Jadlam Toys": {
+   "since": 1793721785.0311022,
+   "warned": false
+  },
   "John Lewis": {
    "since": 1793206714.6797817,
    "warned": true
@@ -329,7 +333,7 @@
   },
   "Waterstones": 2
  },
- "full_scan_slot": 996511,
+ "full_scan_slot": 996512,
  "last_checked": {
   "Austins": 1793721476.5864618,
   "Hobbycraft": 1793721476.5862303,
