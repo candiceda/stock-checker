@@ -323,13 +323,17 @@
    "since": 1793206714.6797817,
    "warned": true
   },
+  "Toy-Box Hampshire": {
+   "since": 1793702104.5032916,
+   "warned": false
+  },
   "Urban Outfitters": {
    "since": 1793206714.6795745,
    "warned": true
   },
   "Waterstones": 2
  },
- "full_scan_slot": 996500,
+ "full_scan_slot": 996501,
  "last_checked": {
   "Austins": 1793701929.5895867,
   "Hobbycraft": 1793701929.5894477,
