@@ -323,10 +323,6 @@
    "since": 1793206714.6797817,
    "warned": true
   },
-  "Plush Paradise": {
-   "since": 1793716330.4461122,
-   "warned": false
-  },
   "Urban Outfitters": {
    "since": 1793206714.6795745,
    "warned": true
@@ -335,11 +331,11 @@
  },
  "full_scan_slot": 996509,
  "last_checked": {
-  "Austins": 1793716006.8153112,
-  "Hobbycraft": 1793716006.8151205,
-  "John Lewis": 1793716006.8151104,
-  "Toytown": 1793716006.8143992,
-  "Urban Outfitters": 1793716006.8149118
+  "Austins": 1793716558.3826802,
+  "Hobbycraft": 1793716558.3823605,
+  "John Lewis": 1793716558.3823192,
+  "Toytown": 1793716558.3809898,
+  "Urban Outfitters": 1793716558.3818645
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
