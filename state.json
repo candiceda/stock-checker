@@ -301,6 +301,7 @@
   "Austins": 1793217833.3393562,
   "Cloud Nine Boutique": 1793504295.8748732,
   "Hobbycraft": 1793217833.2333064,
+  "Isaac's Treasures": 1793696752.1281576,
   "John Lewis": 1793217833.1281118,
   "Urban Outfitters": 1793217832.9786465
  },
@@ -316,7 +317,7 @@
   },
   "Isaac's Treasures": {
    "since": 1793685883.7042434,
-   "warned": false
+   "warned": true
   },
   "John Lewis": {
    "since": 1793206714.6797817,
