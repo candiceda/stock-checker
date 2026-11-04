@@ -163,7 +163,14 @@
    "needoh-teenie-glow-in-the-dark",
    "needoh-teenie-swirl",
    "needoh-sugar-skull-cats",
-   "untitled-30-oct-at-15-03"
+   "untitled-30-oct-at-15-03",
+   "needoh-funky-pup",
+   "needoh-nice-cream-cone",
+   "untitled-30-oct-at-20-33",
+   "needoh-teenie-fuzzball-4-pack",
+   "needoh-teenie-cool-cats-3-pack",
+   "needoh-teenie-groovy-glob",
+   "needoh-teenie-cool-cube"
   ],
   "Jadlam Toys": [
    "halloween-squish-toy-bundle-w-jack-glow-needoh-lantern",
@@ -297,11 +304,11 @@
  },
  "full_scan_slot": 996566,
  "last_checked": {
-  "Austins": 1793819297.010056,
-  "Hobbycraft": 1793819297.0098903,
-  "John Lewis": 1793819297.0098648,
-  "Toytown": 1793819296.8649642,
-  "Urban Outfitters": 1793819296.8654907
+  "Austins": 1793819786.842987,
+  "Hobbycraft": 1793819786.8427649,
+  "John Lewis": 1793819786.842745,
+  "Toytown": 1793819786.813658,
+  "Urban Outfitters": 1793819786.8141558
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -3801,14 +3808,14 @@
   "JKDIRECT|needoh-teenie-cool-cats-3-pack": {
    "available": false,
    "options": {},
-   "price": "£0.00",
+   "price": "£39.00",
    "title": "NeeDoh Teenie Cool Cats 3 Pack",
    "url": "https://jkdirectstore.com/products/needoh-teenie-cool-cats-3-pack"
   },
   "JKDIRECT|needoh-teenie-cool-cube": {
    "available": false,
    "options": {},
-   "price": "£0.00",
+   "price": "£17.00",
    "title": "NeeDoh Teenie Cool Cube",
    "url": "https://jkdirectstore.com/products/needoh-teenie-cool-cube"
   },
@@ -3829,7 +3836,7 @@
   "JKDIRECT|needoh-teenie-fuzzball-4-pack": {
    "available": false,
    "options": {},
-   "price": "£0.00",
+   "price": "£32.00",
    "title": "NeeDoh Teenie Fuzzball 4 Pack",
    "url": "https://jkdirectstore.com/products/needoh-teenie-fuzzball-4-pack"
   },
@@ -3839,6 +3846,13 @@
    "price": "£14.00",
    "title": "NeeDoh Teenie Glow In The Dark",
    "url": "https://jkdirectstore.com/products/needoh-teenie-glow-in-the-dark"
+  },
+  "JKDIRECT|needoh-teenie-groovy-glob": {
+   "available": false,
+   "options": {},
+   "price": "£14.00",
+   "title": "NeeDoh Teenie Groovy Glob",
+   "url": "https://jkdirectstore.com/products/needoh-teenie-groovy-glob"
   },
   "JKDIRECT|needoh-teenie-swirl": {
    "available": false,
@@ -3878,7 +3892,7 @@
   "JKDIRECT|untitled-30-oct-at-20-33": {
    "available": false,
    "options": {},
-   "price": "£0.00",
+   "price": "£28.00",
    "title": "NeeDoh Mini Groovy Jewel Blue",
    "url": "https://jkdirectstore.com/products/untitled-30-oct-at-20-33"
   },
