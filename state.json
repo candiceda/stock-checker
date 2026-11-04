@@ -323,10 +323,6 @@
    "since": 1793206714.6797817,
    "warned": true
   },
-  "Roskai": {
-   "since": 1793757962.575234,
-   "warned": false
-  },
   "Urban Outfitters": {
    "since": 1793206714.6795745,
    "warned": true
@@ -335,11 +331,11 @@
  },
  "full_scan_slot": 996532,
  "last_checked": {
-  "Austins": 1793757647.547797,
-  "Hobbycraft": 1793757647.5475643,
-  "John Lewis": 1793757647.547533,
-  "Toytown": 1793757647.546197,
-  "Urban Outfitters": 1793757647.5470924
+  "Austins": 1793758185.9840095,
+  "Hobbycraft": 1793758185.9837413,
+  "John Lewis": 1793758185.9837234,
+  "Toytown": 1793758185.982531,
+  "Urban Outfitters": 1793758185.9833698
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -3583,7 +3579,7 @@
   "JKDIRECT|needoh-groovy-the-glowman-rare-discontinued": {
    "available": false,
    "options": {},
-   "price": "£96.00",
+   "price": "£97.00",
    "title": "NeeDoh Groovy The Glowman - RARE DISCONTINUED!",
    "url": "https://jkdirectstore.com/products/needoh-groovy-the-glowman-rare-discontinued"
   },
@@ -5268,7 +5264,7 @@
   "Scribbler|needoh-candy-swirl-nice-cube": {
    "available": false,
    "options": {},
-   "price": "£9.58",
+   "price": "£9.60",
    "title": "NeeDoh Candy Swirl Nice Cube",
    "url": "https://www.scribbler.com/products/needoh-candy-swirl-nice-cube"
   },
