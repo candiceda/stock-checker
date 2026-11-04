@@ -327,11 +327,11 @@
  },
  "full_scan_slot": 996548,
  "last_checked": {
-  "Austins": 1793786501.0847423,
-  "Hobbycraft": 1793786501.0845845,
-  "John Lewis": 1793786501.084574,
-  "Toytown": 1793786501.0838578,
-  "Urban Outfitters": 1793786501.084356
+  "Austins": 1793786930.6019802,
+  "Hobbycraft": 1793786930.6017888,
+  "John Lewis": 1793786930.6017766,
+  "Toytown": 1793786930.6009336,
+  "Urban Outfitters": 1793786930.6015537
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -3520,7 +3520,7 @@
   "JKDIRECT|needoh-cool-cats": {
    "available": false,
    "options": {},
-   "price": "£33.00",
+   "price": "£34.00",
    "title": "NeeDoh Cool Cats",
    "url": "https://jkdirectstore.com/products/needoh-cool-cats"
   },
@@ -3554,7 +3554,7 @@
   "JKDIRECT|needoh-galactic-glow-dream-drops-us-exclusive": {
    "available": false,
    "options": {},
-   "price": "£55.00",
+   "price": "£56.00",
    "title": "NeeDoh Galactic Glow Dream Drops - US Exclusive",
    "url": "https://jkdirectstore.com/products/needoh-galactic-glow-dream-drops-us-exclusive"
   },
@@ -3596,7 +3596,7 @@
   "JKDIRECT|needoh-hot-shots-football-rare-discontinued": {
    "available": false,
    "options": {},
-   "price": "£172.00",
+   "price": "£173.00",
    "title": "NeeDoh Hot Shots Football - RARE DISCONTINUED",
    "url": "https://jkdirectstore.com/products/needoh-hot-shots-football-rare-discontinued"
   },
@@ -3761,7 +3761,7 @@
   "JKDIRECT|needoh-super-fuzzball": {
    "available": false,
    "options": {},
-   "price": "£55.00",
+   "price": "£56.00",
    "title": "NeeDoh Super Fuzzball",
    "url": "https://jkdirectstore.com/products/needoh-super-fuzzball"
   },
@@ -3782,7 +3782,7 @@
   "JKDIRECT|needoh-swirl-pink-white-black-purple": {
    "available": false,
    "options": {},
-   "price": "£22.00",
+   "price": "£23.00",
    "title": "NeeDoh Swirl Cube - Random Colours",
    "url": "https://jkdirectstore.com/products/needoh-swirl-pink-white-black-purple"
   },
@@ -5316,7 +5316,7 @@
   "So Realistic|1729494699274573882": {
    "available": false,
    "options": {},
-   "price": "£11.00",
+   "price": "£12.00",
    "title": "NeeDoh Glow Nice Cube",
    "url": "https://sorealistic.co.uk/products/1729494699274573882"
   },
@@ -5351,7 +5351,7 @@
   "So Realistic|needoh-colour-change-cube": {
    "available": false,
    "options": {},
-   "price": "£11.00",
+   "price": "£12.00",
    "title": "NeeDoh Colour Change Cube",
    "url": "https://sorealistic.co.uk/products/needoh-colour-change-cube"
   },
