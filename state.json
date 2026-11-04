@@ -318,11 +318,11 @@
  },
  "full_scan_slot": 996568,
  "last_checked": {
-  "Austins": 1793822218.4317937,
-  "Hobbycraft": 1793822218.4316125,
-  "John Lewis": 1793822218.4315956,
-  "Toytown": 1793822218.4307482,
-  "Urban Outfitters": 1793822218.431368
+  "Austins": 1793822742.882081,
+  "Hobbycraft": 1793822742.8819225,
+  "John Lewis": 1793822742.8819137,
+  "Toytown": 1793822742.6256034,
+  "Urban Outfitters": 1793822742.8816793
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -2114,9 +2114,12 @@
    "url": "https://www.funkytoystore.com/products/needoh-baby-boos"
   },
   "Funkytoystore|needoh-candy-swirl-nice-cube": {
-   "available": false,
-   "options": {},
-   "price": "£24.00",
+   "available": true,
+   "checkout": "https://www.funkytoystore.com/cart/58852000530763:1",
+   "options": {
+    "58852000530763": "Default Title"
+   },
+   "price": "£21.00",
    "title": "NeeDoh Candy Swirl Nice Cube",
    "url": "https://www.funkytoystore.com/products/needoh-candy-swirl-nice-cube"
   },
