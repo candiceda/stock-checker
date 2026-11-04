@@ -303,14 +303,42 @@
    "since": 1793206714.6798878,
    "warned": true
   },
+  "Beanie Games": {
+   "since": 1793827976.6700575,
+   "warned": false
+  },
   "Hamleys": 2,
   "Hobbycraft": {
    "since": 1793206714.6797936,
    "warned": true
   },
+  "Infinity Collectables": {
+   "since": 1793827976.6702762,
+   "warned": false
+  },
+  "Jadlam Toys": {
+   "since": 1793827976.6686583,
+   "warned": false
+  },
   "John Lewis": {
    "since": 1793206714.6797817,
    "warned": true
+  },
+  "Maple Gifts": {
+   "since": 1793827976.6702938,
+   "warned": false
+  },
+  "Scribbler": {
+   "since": 1793827976.6700244,
+   "warned": false
+  },
+  "Toy-Box Hampshire": {
+   "since": 1793827976.6700735,
+   "warned": false
+  },
+  "Toys4you": {
+   "since": 1793827976.6697435,
+   "warned": false
   },
   "Urban Outfitters": {
    "since": 1793206714.6795745,
@@ -318,7 +346,7 @@
   },
   "Waterstones": 2
  },
- "full_scan_slot": 996570,
+ "full_scan_slot": 996571,
  "last_checked": {
   "Austins": 1793827698.2962368,
   "Hobbycraft": 1793827698.2960763,
