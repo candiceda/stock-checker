@@ -155,8 +155,7 @@
    "speks-gump-christmas-tree-adult-fidget-stress-relief"
   ],
   "Jukupop": [
-   "scrunchems-marshmallow-squishy",
-   "jukupop-sugar-filled-bundle-includes-needoh-4-more-sensory-toys-copy"
+   "scrunchems-marshmallow-squishy"
   ],
   "Junior Edition": [],
   "Learning Space": [
@@ -264,6 +263,10 @@
    "since": 1793206714.6797936,
    "warned": true
   },
+  "Jadlam Toys": {
+   "since": 1793811819.4911451,
+   "warned": false
+  },
   "John Lewis": {
    "since": 1793206714.6797817,
    "warned": true
@@ -274,13 +277,13 @@
   },
   "Waterstones": 2
  },
- "full_scan_slot": 996561,
+ "full_scan_slot": 996562,
  "last_checked": {
-  "Austins": 1793811315.3809764,
-  "Hobbycraft": 1793811315.3808348,
-  "John Lewis": 1793811315.3808236,
-  "Toytown": 1793811315.3801763,
-  "Urban Outfitters": 1793811315.3806784
+  "Austins": 1793811819.49236,
+  "Hobbycraft": 1793811819.4922025,
+  "John Lewis": 1793811819.49217,
+  "Toytown": 1793811819.491421,
+  "Urban Outfitters": 1793811819.4919887
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
