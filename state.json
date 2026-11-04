@@ -158,7 +158,12 @@
    "needoh",
    "needoh-nice-cube-glitter-glow",
    "needoh-galactic-glow-dream-drops-us-exclusive",
-   "needoh-gum-drop"
+   "needoh-gum-drop",
+   "needoh-teenie-twirl-the-groovy-glob",
+   "needoh-teenie-glow-in-the-dark",
+   "needoh-teenie-swirl",
+   "needoh-sugar-skull-cats",
+   "untitled-30-oct-at-15-03"
   ],
   "Jadlam Toys": [
    "halloween-squish-toy-bundle-w-jack-glow-needoh-lantern",
@@ -3423,7 +3428,7 @@
   "JKDIRECT|needoh": {
    "available": false,
    "options": {},
-   "price": "£0.00",
+   "price": "£49.00",
    "title": "NeeDoh Nice Berg Swirl",
    "url": "https://jkdirectstore.com/products/needoh"
   },
@@ -3831,14 +3836,21 @@
   "JKDIRECT|needoh-teenie-glow-in-the-dark": {
    "available": false,
    "options": {},
-   "price": "£0.00",
+   "price": "£14.00",
    "title": "NeeDoh Teenie Glow In The Dark",
    "url": "https://jkdirectstore.com/products/needoh-teenie-glow-in-the-dark"
+  },
+  "JKDIRECT|needoh-teenie-swirl": {
+   "available": false,
+   "options": {},
+   "price": "£17.00",
+   "title": "NeeDoh Teenie Swirl",
+   "url": "https://jkdirectstore.com/products/needoh-teenie-swirl"
   },
   "JKDIRECT|needoh-teenie-twirl-the-groovy-glob": {
    "available": false,
    "options": {},
-   "price": "£0.00",
+   "price": "£17.00",
    "title": "NeeDoh Teenie Twirl The Groovy Glob",
    "url": "https://jkdirectstore.com/products/needoh-teenie-twirl-the-groovy-glob"
   },
