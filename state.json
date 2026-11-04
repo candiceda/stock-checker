@@ -299,154 +299,18 @@
   "Urban Outfitters": 1793217832.9786465
  },
  "failures": {
-  "Ali's Sensory Boxes": {
-   "since": 1793828218.6485968,
-   "warned": false
-  },
   "Austins": {
    "since": 1793206714.6798878,
    "warned": true
-  },
-  "Be More Geek": {
-   "since": 1793828218.6487195,
-   "warned": false
-  },
-  "Beanie Games": {
-   "since": 1793827976.6700575,
-   "warned": false
-  },
-  "Chocoloons": {
-   "since": 1793828218.6486838,
-   "warned": false
-  },
-  "Cloud Nine Boutique": {
-   "since": 1793828218.6484873,
-   "warned": false
-  },
-  "Fantastic Fidgets UK": {
-   "since": 1793828218.648711,
-   "warned": false
-  },
-  "Funhouse Toys": {
-   "since": 1793828218.6487021,
-   "warned": false
-  },
-  "Funkytoystore": {
-   "since": 1793828218.6486137,
-   "warned": false
-  },
-  "Giftology": {
-   "since": 1793828218.648461,
-   "warned": false
   },
   "Hamleys": 2,
   "Hobbycraft": {
    "since": 1793206714.6797936,
    "warned": true
   },
-  "Infinity Collectables": {
-   "since": 1793827976.6702762,
-   "warned": false
-  },
-  "JKDIRECT": {
-   "since": 1793828218.648896,
-   "warned": false
-  },
-  "Jadlam Toys": {
-   "since": 1793827976.6686583,
-   "warned": false
-  },
   "John Lewis": {
    "since": 1793206714.6797817,
    "warned": true
-  },
-  "Learning Space": {
-   "since": 1793828218.6489642,
-   "warned": false
-  },
-  "Maple Gifts": {
-   "since": 1793827976.6702938,
-   "warned": false
-  },
-  "My Small World Toy Shop": {
-   "since": 1793828218.6486285,
-   "warned": false
-  },
-  "Paper Tiger": {
-   "since": 1793828218.6488361,
-   "warned": false
-  },
-  "Plush Paradise": {
-   "since": 1793828218.6488185,
-   "warned": false
-  },
-  "Polhill Garden Centre": {
-   "since": 1793828218.6487944,
-   "warned": false
-  },
-  "Rainbow Nation": {
-   "since": 1793828218.6485217,
-   "warned": false
-  },
-  "Roskai": {
-   "since": 1793828218.6483982,
-   "warned": false
-  },
-  "Science Museum Shop": {
-   "since": 1793828218.6488535,
-   "warned": false
-  },
-  "Scribbler": {
-   "since": 1793827976.6700244,
-   "warned": false
-  },
-  "Simply Toys": {
-   "since": 1793828218.648879,
-   "warned": false
-  },
-  "So Realistic": {
-   "since": 1793828218.6485045,
-   "warned": false
-  },
-  "TDMM Family": {
-   "since": 1793828218.648693,
-   "warned": false
-  },
-  "Teddy's Fidgets": {
-   "since": 1793828218.6485417,
-   "warned": false
-  },
-  "Teddy's Trove": {
-   "since": 1793828218.6485622,
-   "warned": false
-  },
-  "The Dyslexia Shop": {
-   "since": 1793828218.6481593,
-   "warned": false
-  },
-  "The Fidget Works": {
-   "since": 1793828218.648827,
-   "warned": false
-  },
-  "The Kid Collective": {
-   "since": 1793828218.6481357,
-   "warned": false
-  },
-  "Tinker & Tot": {
-   "since": 1793828218.648652,
-   "warned": false
-  },
-  "Toy Barnhaus": {
-   "since": 1793828218.648809,
-   "warned": false
-  },
-  "Toy-Box Hampshire": {
-   "since": 1793827976.6700735,
-   "warned": false
-  },
-  "Toys4you": {
-   "since": 1793827976.6697435,
-   "warned": false
   },
   "Urban Outfitters": {
    "since": 1793206714.6795745,
@@ -456,11 +320,11 @@
  },
  "full_scan_slot": 996571,
  "last_checked": {
-  "Austins": 1793828218.6489909,
-  "Hobbycraft": 1793828218.6489542,
-  "John Lewis": 1793828218.648943,
-  "Toytown": 1793828218.6483424,
-  "Urban Outfitters": 1793828218.6487708
+  "Austins": 1793828744.128054,
+  "Hobbycraft": 1793828744.1278243,
+  "John Lewis": 1793828744.127799,
+  "Toytown": 1793828744.1264706,
+  "Urban Outfitters": 1793828744.1273558
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
