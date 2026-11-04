@@ -141,61 +141,7 @@
   "Giftology": [],
   "Infinity Collectables": [],
   "JKDIRECT": [
-   "needoh",
-   "needoh-1-drop",
-   "needoh-2026-christmas-advent-calendar",
-   "needoh-5-item-blue-bundle-colour-change-marble-cube-more",
-   "needoh-candy-swirl-bundle",
-   "needoh-cloud-pleaser",
-   "needoh-color-change",
-   "needoh-color-change-4-pack",
-   "needoh-cool-cats",
-   "needoh-dream-drop",
-   "needoh-funky-pup",
-   "needoh-fuzzball-flower-power",
-   "needoh-galactic-glow-dream-drops-us-exclusive",
-   "needoh-gobs-of-globs-18-teenie-groovy-globs",
-   "needoh-groovy-fruit",
-   "needoh-groovy-the-glowman-rare-discontinued",
-   "needoh-gum-drop",
-   "needoh-gummy-bear",
-   "needoh-hot-shots-football-rare-discontinued",
-   "needoh-hot-shots-teenie-4-pack",
-   "needoh-jack-glow-lantern-glow-in-the-dark-w-sticker-sheet-random-colour",
-   "needoh-knittens",
-   "needoh-mellow-mallow",
-   "needoh-nice-berg",
-   "needoh-nice-cream-cone",
-   "needoh-nice-cube-blue",
-   "needoh-nice-cube-glitter-glow",
-   "needoh-nice-ice-baby",
-   "needoh-nice-ice-baby-4-pack",
-   "needoh-nice-ice-baby-pink-bundle-4-items",
-   "needoh-nice-sicle",
-   "needoh-pink-glitter-and-glow-6-item-bundle",
-   "needoh-polar-glow-penguin",
-   "needoh-snowball-crunch-bundle-w-sticker-pack",
-   "needoh-sploot-splat-blue",
-   "needoh-squisher-the-reindoh-bundle-w-sticker-pack-blue",
-   "needoh-squisher-the-reindoh-bundle-w-sticker-pack-pink",
-   "needoh-sugar-skull-cats",
-   "needoh-super-fuzzball",
-   "needoh-super-ripples-green",
-   "needoh-swirl-4-pack",
-   "needoh-swirl-pink-white-black-purple",
-   "needoh-teenie-3-pack-green-purple-orange",
-   "needoh-teenie-cool-cats-3-pack",
-   "needoh-teenie-cool-cube",
-   "needoh-teenie-cool-kittens-4-pack",
-   "needoh-teenie-fuzz-ball",
-   "needoh-teenie-fuzzball-4-pack",
-   "needoh-teenie-glow-in-the-dark",
-   "needoh-teenie-twirl-the-groovy-glob",
-   "needoh-wow-flake-us-exclusive",
-   "product",
-   "untitled-30-oct-at-15-03",
-   "untitled-30-oct-at-20-33",
-   "world-s-smallest-needoh"
+   "needoh-1-drop"
   ],
   "Jadlam Toys": [
    "halloween-squish-toy-bundle-w-jack-glow-needoh-lantern",
@@ -267,7 +213,9 @@
   ],
   "The Kid Collective": [],
   "Tinker & Tot": [],
-  "Toy Barnhaus": [],
+  "Toy Barnhaus": [
+   "worlds-smallest-needoh-groovy-glob-needoh"
+  ],
   "Toy-Box Hampshire": [
    "copy-new-doh-gumdrop",
    "nee-doh-dream-drop",
@@ -325,13 +273,13 @@
   },
   "Waterstones": 2
  },
- "full_scan_slot": 996548,
+ "full_scan_slot": 996561,
  "last_checked": {
-  "Austins": 1793787851.2954607,
-  "Hobbycraft": 1793787851.2952938,
-  "John Lewis": 1793787851.2952838,
-  "Toytown": 1793787851.294558,
-  "Urban Outfitters": 1793787851.2950754
+  "Austins": 1793810315.2379265,
+  "Hobbycraft": 1793810315.2376738,
+  "John Lewis": 1793810315.2376513,
+  "Toytown": 1793810315.2111485,
+  "Urban Outfitters": 1793810315.2117667
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -1241,7 +1189,7 @@
   "Cloud Nine Boutique|needoh-good-vibes-only-heart-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£23.00",
+   "price": "£22.00",
    "title": "NeeDoh Good Vibes Only Heart Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-good-vibes-only-heart-fidget-toy"
   },
@@ -1353,7 +1301,7 @@
   "Cloud Nine Boutique|needoh-nice-ice-baby-groovy-squishy-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£12.00",
+   "price": "£11.00",
    "title": "Teenie NeeDoh Nice Ice Baby(Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-nice-ice-baby-groovy-squishy-fidget-toy"
   },
@@ -4236,11 +4184,18 @@
    "title": "Speks Gump - Christmas Tree - Adult Fidget Stress-Relief",
    "url": "https://www.jadlamracingmodels.com/products/speks-gump-christmas-tree-adult-fidget-stress-relief"
   },
+  "Jukupop|jukupop-stocking-filler-bundle-includes-needoh-4-more-sensory-toys": {
+   "available": false,
+   "options": {},
+   "price": "£39.99",
+   "title": "JUKUPOP Stocking Filler Bundle – Includes NeeDoh & 4 More Sensory Toys",
+   "url": "https://jukupop.com/products/jukupop-stocking-filler-bundle-includes-needoh-4-more-sensory-toys"
+  },
   "Jukupop|jukupop-viral-squishy-bundles": {
    "available": false,
    "options": {},
-   "price": "£35.99",
-   "title": "JUKUPOP Viral Squishy Bundles – Includes NeeDoh & 4 More Sensory Toys",
+   "price": "£36.99",
+   "title": "JUKUPOP Viral Squishy Bundle – Includes NeeDoh & 4 More Sensory Toys",
    "url": "https://jukupop.com/products/jukupop-viral-squishy-bundles"
   },
   "Jukupop|needoh-2026-advent-calendar-24-mini-fidget-sensory-toys-stress-relief-mindful-play": {
@@ -4926,7 +4881,7 @@
    "available": false,
    "options": {},
    "price": "£8.00",
-   "title": "NeeDoh Nice Cream Cone *New - Due Aug*",
+   "title": "NeeDoh Nice Cream Cone",
    "url": "https://rainbownationclothing.com/products/needoh-nice-cream-cone"
   },
   "Rainbow Nation|needoh-nice-cube": {
@@ -5260,7 +5215,7 @@
   "Scribbler|needoh-candy-swirl-nice-cube": {
    "available": false,
    "options": {},
-   "price": "£9.62",
+   "price": "£9.60",
    "title": "NeeDoh Candy Swirl Nice Cube",
    "url": "https://www.scribbler.com/products/needoh-candy-swirl-nice-cube"
   },
@@ -5316,7 +5271,7 @@
   "So Realistic|1729494699274573882": {
    "available": false,
    "options": {},
-   "price": "£12.00",
+   "price": "£11.00",
    "title": "NeeDoh Glow Nice Cube",
    "url": "https://sorealistic.co.uk/products/1729494699274573882"
   },
@@ -5351,7 +5306,7 @@
   "So Realistic|needoh-colour-change-cube": {
    "available": false,
    "options": {},
-   "price": "£12.00",
+   "price": "£11.00",
    "title": "NeeDoh Colour Change Cube",
    "url": "https://sorealistic.co.uk/products/needoh-colour-change-cube"
   },
@@ -5498,7 +5453,7 @@
   "So Realistic|official-authentic-needoh-advent-calendar-2026": {
    "available": false,
    "options": {},
-   "price": "£56.00",
+   "price": "£55.00",
    "title": "Official Authentic NEEDOH Advent Calendar 2026",
    "url": "https://sorealistic.co.uk/products/official-authentic-needoh-advent-calendar-2026"
   },
@@ -6580,6 +6535,13 @@
    "price": "£4.00",
    "title": "Teenie Nice Ice Baby NeeDoh",
    "url": "https://tinkerandtot.co.uk/products/teenie-nice-ice-baby-needoh-1"
+  },
+  "Toy Barnhaus|worlds-smallest-needoh-groovy-glob-needoh": {
+   "available": false,
+   "options": {},
+   "price": "£9.99",
+   "title": "Worlds Smallest NeeDoh - Groovy Glob NeeDoh (Random Colour Single Pack) - 2 Per Customer",
+   "url": "https://www.toybarnhaus.co.uk/products/worlds-smallest-needoh-groovy-glob-needoh"
   },
   "Toy-Box Hampshire|copy-new-doh-gumdrop": {
    "available": false,
