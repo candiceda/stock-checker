@@ -181,7 +181,11 @@
    "needoh-nice-cube-blue",
    "needoh-nice-sicle",
    "needoh-sploot-splat-blue",
-   "needoh-mellow-mallow"
+   "needoh-mellow-mallow",
+   "needoh-knittens",
+   "needoh-polar-glow-penguin",
+   "needoh-squisher-the-reindoh-bundle-w-sticker-pack-blue",
+   "needoh-clip-it-blue"
   ],
   "Jadlam Toys": [
    "halloween-squish-toy-bundle-w-jack-glow-needoh-lantern",
@@ -3492,6 +3496,13 @@
    "title": "NeeDoh Candy Swirl Bundle - 6 Items Included",
    "url": "https://jkdirectstore.com/products/needoh-candy-swirl-bundle-6-items-included"
   },
+  "JKDIRECT|needoh-clip-it-blue": {
+   "available": false,
+   "options": {},
+   "price": "£55.00",
+   "title": "NeeDoh Clip It - Blue",
+   "url": "https://jkdirectstore.com/products/needoh-clip-it-blue"
+  },
   "JKDIRECT|needoh-cloud-pleaser": {
    "available": false,
    "options": {},
@@ -3763,7 +3774,7 @@
   "JKDIRECT|needoh-squisher-the-reindoh-bundle-w-sticker-pack-blue": {
    "available": false,
    "options": {},
-   "price": "£39.00",
+   "price": "£42.00",
    "title": "NeeDoh Squisher the Reindoh w/ Sticker Pack",
    "url": "https://jkdirectstore.com/products/needoh-squisher-the-reindoh-bundle-w-sticker-pack-blue"
   },
