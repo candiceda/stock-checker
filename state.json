@@ -316,11 +316,11 @@
  },
  "full_scan_slot": 996572,
  "last_checked": {
-  "Austins": 1793829735.6129386,
-  "Hobbycraft": 1793829735.6127338,
-  "John Lewis": 1793829735.6127205,
-  "Toytown": 1793829735.6118255,
-  "Urban Outfitters": 1793829735.612458
+  "Austins": 1793830249.129498,
+  "Hobbycraft": 1793830249.129322,
+  "John Lewis": 1793830249.1293118,
+  "Toytown": 1793830249.1284904,
+  "Urban Outfitters": 1793830249.1291103
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -5326,7 +5326,7 @@
   "Scribbler|needoh-candy-swirl-nice-cube": {
    "available": false,
    "options": {},
-   "price": "£9.61",
+   "price": "£9.60",
    "title": "NeeDoh Candy Swirl Nice Cube",
    "url": "https://www.scribbler.com/products/needoh-candy-swirl-nice-cube"
   },
