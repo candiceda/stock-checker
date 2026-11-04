@@ -142,7 +142,9 @@
   "Infinity Collectables": [],
   "JKDIRECT": [
    "needoh-1-drop",
-   "needoh-candy-swirl-bundle"
+   "needoh-candy-swirl-bundle",
+   "needoh-cool-cats",
+   "needoh-nice-berg"
   ],
   "Jadlam Toys": [
    "halloween-squish-toy-bundle-w-jack-glow-needoh-lantern",
@@ -274,7 +276,7 @@
   },
   "Waterstones": 2
  },
- "full_scan_slot": 996565,
+ "full_scan_slot": 996566,
  "last_checked": {
   "Austins": 1793818785.8623757,
   "Hobbycraft": 1793818785.8621876,
@@ -3415,7 +3417,7 @@
    "available": false,
    "options": {},
    "price": "£2.00",
-   "title": "NeeDoh £1 DROP! - NEXT DROP WEDNESDAY 4TH - 7PM UK TIME!!",
+   "title": "NeeDoh £1 DROP!",
    "url": "https://jkdirectstore.com/products/needoh-1-drop"
   },
   "JKDIRECT|needoh-2026-christmas-advent-calendar": {
@@ -3469,7 +3471,7 @@
   "JKDIRECT|needoh-cool-cats": {
    "available": false,
    "options": {},
-   "price": "£34.00",
+   "price": "£33.00",
    "title": "NeeDoh Cool Cats",
    "url": "https://jkdirectstore.com/products/needoh-cool-cats"
   },
