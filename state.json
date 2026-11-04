@@ -157,6 +157,7 @@
    "needoh-green-bundle-4-items-included",
    "needoh-gum-drop",
    "needoh-gummy-bear",
+   "needoh-hot-shots-football-rare-discontinued",
    "needoh-hot-shots-teenie-4-pack",
    "needoh-knittens",
    "needoh-mellow-mallow",
@@ -177,6 +178,7 @@
    "needoh-teenie-cool-cats-3-pack",
    "needoh-teenie-cool-cube",
    "needoh-teenie-fuzzball-4-pack",
+   "needoh-teenie-fuzzball-barnyard-damaged-box",
    "needoh-teenie-glow-in-the-dark",
    "needoh-teenie-groovy-glob",
    "needoh-teenie-swirl",
@@ -184,9 +186,7 @@
    "needoh-wow-flake-us-exclusive",
    "untitled-30-oct-at-15-03",
    "untitled-30-oct-at-20-33",
-   "world-s-smallest-needoh",
-   "needoh-hot-shots-football-rare-discontinued",
-   "needoh-teenie-fuzzball-barnyard-damaged-box"
+   "world-s-smallest-needoh"
   ],
   "Jadlam Toys": [
    "halloween-squish-toy-bundle-w-jack-glow-needoh-lantern",
@@ -318,7 +318,7 @@
   },
   "Waterstones": 2
  },
- "full_scan_slot": 996568,
+ "full_scan_slot": 996569,
  "last_checked": {
   "Austins": 1793824215.3638678,
   "Hobbycraft": 1793824215.3636496,
