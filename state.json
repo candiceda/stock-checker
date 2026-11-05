@@ -316,11 +316,11 @@
  },
  "full_scan_slot": 996578,
  "last_checked": {
-  "Austins": 1793840472.5988688,
-  "Hobbycraft": 1793840472.5986228,
-  "John Lewis": 1793840472.5985954,
-  "Toytown": 1793840472.597228,
-  "Urban Outfitters": 1793840472.5981176
+  "Austins": 1793840981.8246377,
+  "Hobbycraft": 1793840981.8244321,
+  "John Lewis": 1793840981.8244245,
+  "Toytown": 1793840981.8238053,
+  "Urban Outfitters": 1793840981.8242676
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -1230,7 +1230,7 @@
   "Cloud Nine Boutique|needoh-good-vibes-only-heart-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£22.00",
+   "price": "£23.00",
    "title": "NeeDoh Good Vibes Only Heart Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-good-vibes-only-heart-fidget-toy"
   },
@@ -3571,7 +3571,7 @@
   "JKDIRECT|needoh-galactic-glow-dream-drops-us-exclusive": {
    "available": false,
    "options": {},
-   "price": "£55.00",
+   "price": "£56.00",
    "title": "NeeDoh Galactic Glow Dream Drops - US Exclusive",
    "url": "https://jkdirectstore.com/products/needoh-galactic-glow-dream-drops-us-exclusive"
   },
@@ -3792,7 +3792,7 @@
   "JKDIRECT|needoh-super-fuzzball": {
    "available": false,
    "options": {},
-   "price": "£55.00",
+   "price": "£56.00",
    "title": "NeeDoh Super Fuzzball",
    "url": "https://jkdirectstore.com/products/needoh-super-fuzzball"
   },
@@ -5326,7 +5326,7 @@
   "Scribbler|needoh-candy-swirl-nice-cube": {
    "available": false,
    "options": {},
-   "price": "£9.61",
+   "price": "£9.62",
    "title": "NeeDoh Candy Swirl Nice Cube",
    "url": "https://www.scribbler.com/products/needoh-candy-swirl-nice-cube"
   },
@@ -5564,7 +5564,7 @@
   "So Realistic|official-authentic-needoh-advent-calendar-2026": {
    "available": false,
    "options": {},
-   "price": "£55.00",
+   "price": "£56.00",
    "title": "Official Authentic NEEDOH Advent Calendar 2026",
    "url": "https://sorealistic.co.uk/products/official-authentic-needoh-advent-calendar-2026"
   },
