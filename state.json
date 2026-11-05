@@ -318,11 +318,11 @@
  },
  "full_scan_slot": 996614,
  "last_checked": {
-  "Austins": 1793905319.3159568,
-  "Hobbycraft": 1793905319.3158073,
-  "John Lewis": 1793905319.3157976,
-  "Toytown": 1793905319.3151069,
-  "Urban Outfitters": 1793905319.3156202
+  "Austins": 1793905835.0520887,
+  "Hobbycraft": 1793905835.0519445,
+  "John Lewis": 1793905835.0519357,
+  "Toytown": 1793905835.0511506,
+  "Urban Outfitters": 1793905835.0517654
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -1316,7 +1316,7 @@
   "Cloud Nine Boutique|needoh-mystery-box-5-different-needoh": {
    "available": false,
    "options": {},
-   "price": "£104.00",
+   "price": "£103.00",
    "title": "NeeDoh Mystery Box – 5 Different NeeDoh",
    "url": "https://cloudnineboutique.net/products/needoh-mystery-box-5-different-needoh"
   },
@@ -5335,7 +5335,7 @@
   "Scribbler|needoh-candy-swirl-nice-cube": {
    "available": false,
    "options": {},
-   "price": "£9.61",
+   "price": "£9.60",
    "title": "NeeDoh Candy Swirl Nice Cube",
    "url": "https://www.scribbler.com/products/needoh-candy-swirl-nice-cube"
   },
@@ -5573,7 +5573,7 @@
   "So Realistic|official-authentic-needoh-advent-calendar-2026": {
    "available": false,
    "options": {},
-   "price": "£56.00",
+   "price": "£55.00",
    "title": "Official Authentic NEEDOH Advent Calendar 2026",
    "url": "https://sorealistic.co.uk/products/official-authentic-needoh-advent-calendar-2026"
   },
