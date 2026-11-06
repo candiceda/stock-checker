@@ -227,6 +227,7 @@
   ],
   "Science Museum Shop": [],
   "Scribbler": [
+   "needoh-advent-calendar-2026",
    "needoh-candy-swirl-nice-cube"
   ],
   "Simply Toys": [],
@@ -311,7 +312,7 @@
   },
   "Waterstones": 2
  },
- "full_scan_slot": 996652,
+ "full_scan_slot": 996653,
  "last_checked": {
   "Austins": 1793975501.740518,
   "Hobbycraft": 1793975501.7403014,
@@ -5323,7 +5324,8 @@
   },
   "Scribbler|needoh-advent-calendar-2026": {
    "available": false,
-   "price": "£40.71",
+   "options": {},
+   "price": "£40.87",
    "title": "NeeDoh Advent Calendar 2026",
    "url": "https://www.scribbler.com/products/needoh-advent-calendar-2026"
   },
