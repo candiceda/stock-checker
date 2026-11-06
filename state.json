@@ -313,11 +313,11 @@
  },
  "full_scan_slot": 996650,
  "last_checked": {
-  "Austins": 1793970025.5793374,
-  "Hobbycraft": 1793970025.5791004,
-  "John Lewis": 1793970025.579069,
-  "Toytown": 1793970025.5777466,
-  "Urban Outfitters": 1793970025.5786612
+  "Austins": 1793970533.2660515,
+  "Hobbycraft": 1793970533.265787,
+  "John Lewis": 1793970533.2657547,
+  "Toytown": 1793970533.2644553,
+  "Urban Outfitters": 1793970533.2653854
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -5330,7 +5330,7 @@
   "Scribbler|needoh-candy-swirl-nice-cube": {
    "available": false,
    "options": {},
-   "price": "£9.55",
+   "price": "£9.54",
    "title": "NeeDoh Candy Swirl Nice Cube",
    "url": "https://www.scribbler.com/products/needoh-candy-swirl-nice-cube"
   },
@@ -6842,7 +6842,7 @@
   "Toys4you|scrunchems-squishy-marshmallow": {
    "available": false,
    "options": {},
-   "price": "£10.00",
+   "price": "£9.00",
    "title": "Scrunchems Squishy Marshmallow",
    "url": "https://www.toys4you.co.uk/products/scrunchems-squishy-marshmallow"
   },
