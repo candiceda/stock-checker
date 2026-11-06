@@ -318,11 +318,11 @@
  },
  "full_scan_slot": 996644,
  "last_checked": {
-  "Austins": 1793960228.5097368,
-  "Hobbycraft": 1793960228.5096078,
-  "John Lewis": 1793960228.5096002,
-  "Toytown": 1793960228.509031,
-  "Urban Outfitters": 1793960228.5094523
+  "Austins": 1793960706.7370484,
+  "Hobbycraft": 1793960706.7368772,
+  "John Lewis": 1793960706.73685,
+  "Toytown": 1793960706.5654078,
+  "Urban Outfitters": 1793960706.736629
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -4725,8 +4725,11 @@
    "url": "https://mysmallworld.co.uk/products/needoh-glitter-glow-nice-cube"
   },
   "My Small World Toy Shop|needoh-glowy-ghost": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://mysmallworld.co.uk/cart/55504534176120:1",
+   "options": {
+    "55504534176120": "Default Title"
+   },
    "price": "£6.50",
    "title": "NeeDoh Glowy Ghost",
    "url": "https://mysmallworld.co.uk/products/needoh-glowy-ghost"
