@@ -318,11 +318,11 @@
  },
  "full_scan_slot": 996640,
  "last_checked": {
-  "Austins": 1793952043.9689415,
-  "Hobbycraft": 1793952043.9687734,
-  "John Lewis": 1793952043.9687662,
-  "Toytown": 1793952043.9681718,
-  "Urban Outfitters": 1793952043.9686143
+  "Austins": 1793952561.5837986,
+  "Hobbycraft": 1793952561.583634,
+  "John Lewis": 1793952561.583623,
+  "Toytown": 1793952561.5828178,
+  "Urban Outfitters": 1793952561.583426
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -3477,14 +3477,14 @@
   "JKDIRECT|needoh-5-item-blue-bundle-colour-change-marble-cube-more": {
    "available": false,
    "options": {},
-   "price": "£42.00",
+   "price": "£41.00",
    "title": "NeeDoh 5 Item Blue Bundle - Colour Change, Marble Cube + More!",
    "url": "https://jkdirectstore.com/products/needoh-5-item-blue-bundle-colour-change-marble-cube-more"
   },
   "JKDIRECT|needoh-blue-nice-cube-bundle-6-items-included": {
    "available": false,
    "options": {},
-   "price": "£42.00",
+   "price": "£41.00",
    "title": "NeeDoh Blue Nice Cube Bundle - 6 Items Included",
    "url": "https://jkdirectstore.com/products/needoh-blue-nice-cube-bundle-6-items-included"
   },
@@ -3498,7 +3498,7 @@
   "JKDIRECT|needoh-candy-swirl-bundle-6-items-included": {
    "available": false,
    "options": {},
-   "price": "£42.00",
+   "price": "£41.00",
    "title": "NeeDoh Candy Swirl Bundle - 6 Items Included",
    "url": "https://jkdirectstore.com/products/needoh-candy-swirl-bundle-6-items-included"
   },
@@ -3533,7 +3533,7 @@
   "JKDIRECT|needoh-colour-change-bundle-6-items": {
    "available": false,
    "options": {},
-   "price": "£42.00",
+   "price": "£41.00",
    "title": "NeeDoh Colour Change Bundle! - 6 Items",
    "url": "https://jkdirectstore.com/products/needoh-colour-change-bundle-6-items"
   },
@@ -3629,7 +3629,7 @@
   "JKDIRECT|needoh-hot-shots-football-rare-discontinued": {
    "available": false,
    "options": {},
-   "price": "£172.00",
+   "price": "£171.00",
    "title": "NeeDoh Hot Shots Football - RARE DISCONTINUED",
    "url": "https://jkdirectstore.com/products/needoh-hot-shots-football-rare-discontinued"
   },
@@ -3683,7 +3683,7 @@
   "JKDIRECT|needoh-nice-berg": {
    "available": false,
    "options": {},
-   "price": "£42.00",
+   "price": "£41.00",
    "title": "NeeDoh Nice Berg Blue",
    "url": "https://jkdirectstore.com/products/needoh-nice-berg"
   },
@@ -3759,7 +3759,7 @@
   "JKDIRECT|needoh-purple-nice-cube-bundle-7-items-included": {
    "available": false,
    "options": {},
-   "price": "£42.00",
+   "price": "£41.00",
    "title": "NeeDoh Purple Nice Cube Bundle - 7 Items Included",
    "url": "https://jkdirectstore.com/products/needoh-purple-nice-cube-bundle-7-items-included"
   },
@@ -3780,7 +3780,7 @@
   "JKDIRECT|needoh-squisher-the-reindoh-bundle-w-sticker-pack-blue": {
    "available": false,
    "options": {},
-   "price": "£42.00",
+   "price": "£41.00",
    "title": "NeeDoh Squisher the Reindoh w/ Sticker Pack",
    "url": "https://jkdirectstore.com/products/needoh-squisher-the-reindoh-bundle-w-sticker-pack-blue"
   },
@@ -3794,7 +3794,7 @@
   "JKDIRECT|needoh-sugar-skull-cats": {
    "available": false,
    "options": {},
-   "price": "£42.00",
+   "price": "£41.00",
    "title": "NeeDoh Sugar Skull Cats",
    "url": "https://jkdirectstore.com/products/needoh-sugar-skull-cats"
   },
@@ -3906,7 +3906,7 @@
   "JKDIRECT|needoh-wow-flake-us-exclusive": {
    "available": false,
    "options": {},
-   "price": "£42.00",
+   "price": "£41.00",
    "title": "NeeDoh WOW FLAKE - US Exclusive",
    "url": "https://jkdirectstore.com/products/needoh-wow-flake-us-exclusive"
   },
@@ -3920,7 +3920,7 @@
   "JKDIRECT|untitled-30-oct-at-15-03": {
    "available": false,
    "options": {},
-   "price": "£42.00",
+   "price": "£41.00",
    "title": "NeeDoh Jelly Squish",
    "url": "https://jkdirectstore.com/products/untitled-30-oct-at-15-03"
   },
@@ -5335,7 +5335,7 @@
   "Scribbler|needoh-candy-swirl-nice-cube": {
    "available": false,
    "options": {},
-   "price": "£9.57",
+   "price": "£9.55",
    "title": "NeeDoh Candy Swirl Nice Cube",
    "url": "https://www.scribbler.com/products/needoh-candy-swirl-nice-cube"
   },
