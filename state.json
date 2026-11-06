@@ -310,19 +310,15 @@
    "since": 1793206714.6797817,
    "warned": true
   },
-  "Urban Outfitters": {
-   "since": 1793940477.047307,
-   "warned": true
-  },
   "Waterstones": 2
  },
  "full_scan_slot": 996646,
  "last_checked": {
-  "Austins": 1793963220.9078805,
-  "Hobbycraft": 1793963220.9075978,
-  "John Lewis": 1793963220.907583,
-  "Toytown": 1793963220.9061878,
-  "Urban Outfitters": 1793963220.9072938
+  "Austins": 1793963721.2859268,
+  "Hobbycraft": 1793963721.2856941,
+  "John Lewis": 1793963721.28567,
+  "Toytown": 1793963721.1404765,
+  "Urban Outfitters": 1793963721.1411066
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -6925,7 +6921,7 @@
   },
   "Urban Outfitters|https://www.urbanoutfitters.com/en-gb/shop/needoh-nice-cube": {
    "available": false,
-   "price": "£7",
+   "price": "£8",
    "title": "Needoh Nice Cube",
    "url": "https://www.urbanoutfitters.com/en-gb/shop/needoh-nice-cube"
   },
