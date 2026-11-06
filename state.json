@@ -310,15 +310,19 @@
    "since": 1793206714.6797817,
    "warned": true
   },
+  "Urban Outfitters": {
+   "since": 1793979526.351549,
+   "warned": false
+  },
   "Waterstones": 2
  },
  "full_scan_slot": 996655,
  "last_checked": {
-  "Austins": 1793979008.0874705,
-  "Hobbycraft": 1793979008.0872674,
-  "John Lewis": 1793979008.0872447,
-  "Toytown": 1793979008.0863695,
-  "Urban Outfitters": 1793979008.08702
+  "Austins": 1793979526.3520103,
+  "Hobbycraft": 1793979526.3518069,
+  "John Lewis": 1793979526.3517933,
+  "Toytown": 1793979526.3509014,
+  "Urban Outfitters": 1793979526.3515468
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
