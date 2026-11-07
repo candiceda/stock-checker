@@ -318,7 +318,7 @@
   },
   "Waterstones": 2
  },
- "full_scan_slot": 996700,
+ "full_scan_slot": 996701,
  "last_checked": {
   "Austins": 1794061687.0531993,
   "Hobbycraft": 1794061687.0530171,
@@ -5252,8 +5252,11 @@
    "url": "https://roskai.com/products/rainboh-teenie-needoh"
   },
   "Roskai|scrunchems-marshmallow-squishy": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://roskai.com/cart/50674411405627:1",
+   "options": {
+    "50674411405627": "Default Title"
+   },
    "price": "£4.49",
    "title": "Scrunchems Marshmallow Squishy",
    "url": "https://roskai.com/products/scrunchems-marshmallow-squishy"
