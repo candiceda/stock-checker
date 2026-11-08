@@ -320,11 +320,11 @@
  },
  "full_scan_slot": 996736,
  "last_checked": {
-  "Austins": 1794124886.1844804,
-  "Hobbycraft": 1794124886.1842318,
-  "John Lewis": 1794124886.184205,
-  "Toytown": 1794124886.1828315,
-  "Urban Outfitters": 1794124886.1838121
+  "Austins": 1794125384.9895456,
+  "Hobbycraft": 1794125384.9892845,
+  "John Lewis": 1794125384.9892616,
+  "Toytown": 1794125384.9879332,
+  "Urban Outfitters": 1794125384.9888902
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -4421,35 +4421,35 @@
   "Learning Space|colour-changing-needoh-stress-ball": {
    "available": false,
    "options": {},
-   "price": "£8.00",
+   "price": "£8.01",
    "title": "Colour Changing Needoh Stress Ball",
    "url": "https://learningspace.co.uk/products/colour-changing-needoh-stress-ball"
   },
   "Learning Space|dream-drop-needoh-squishy-toy": {
    "available": false,
    "options": {},
-   "price": "£12.81",
+   "price": "£12.82",
    "title": "NEEDOH Dream Drop - Squishy Toy",
    "url": "https://learningspace.co.uk/products/dream-drop-needoh-squishy-toy"
   },
   "Learning Space|fuzz-ball-flower-power-needoh": {
    "available": false,
    "options": {},
-   "price": "£8.00",
+   "price": "£8.01",
    "title": "Fuzz Ball Flower Power Needoh",
    "url": "https://learningspace.co.uk/products/fuzz-ball-flower-power-needoh"
   },
   "Learning Space|fuzz-ball-wonder-waves-needoh-squishy-fidget": {
    "available": false,
    "options": {},
-   "price": "£8.00",
+   "price": "£8.01",
    "title": "Fuzz Ball Wonder Waves Needoh Squishy Fidget",
    "url": "https://learningspace.co.uk/products/fuzz-ball-wonder-waves-needoh-squishy-fidget"
   },
   "Learning Space|glow-in-the-dark-needoh-1": {
    "available": false,
    "options": {},
-   "price": "£8.00",
+   "price": "£8.01",
    "title": "Glow in the Dark NeeDoh – The Ultimate Squishy Stress Ball!",
    "url": "https://learningspace.co.uk/products/glow-in-the-dark-needoh-1"
   },
@@ -4505,21 +4505,21 @@
   "Learning Space|needoh-golden-egg-hunt-fidget-set": {
    "available": false,
    "options": {},
-   "price": "£24.03",
+   "price": "£24.04",
    "title": "Needoh Golden Egg Hunt Fidget Set",
    "url": "https://learningspace.co.uk/products/needoh-golden-egg-hunt-fidget-set"
   },
   "Learning Space|needoh-jelly-donuts-stress-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£12.81",
+   "price": "£12.82",
    "title": "Needoh Jelly Donuts Stress Fidget Toy",
    "url": "https://learningspace.co.uk/products/needoh-jelly-donuts-stress-fidget-toy"
   },
   "Learning Space|needoh-mello-mallo-colour-changing-squishy-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£8.00",
+   "price": "£8.01",
    "title": "NeeDoh Mello Mallo – Colour-Changing Squishy Fidget Toy",
    "url": "https://learningspace.co.uk/products/needoh-mello-mallo-colour-changing-squishy-fidget-toy"
   },
@@ -4561,7 +4561,7 @@
   "Learning Space|nice-cube-needoh": {
    "available": false,
    "options": {},
-   "price": "£12.81",
+   "price": "£12.82",
    "title": "Nice Cube Needoh",
    "url": "https://learningspace.co.uk/products/nice-cube-needoh"
   },
@@ -4575,7 +4575,7 @@
   "Learning Space|snow-ball-crunch-stress-toy": {
    "available": false,
    "options": {},
-   "price": "£8.00",
+   "price": "£8.01",
    "title": "NeeDoh Snow Ball Crunch Stress Toy",
    "url": "https://learningspace.co.uk/products/snow-ball-crunch-stress-toy"
   },
