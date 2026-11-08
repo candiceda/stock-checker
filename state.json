@@ -323,11 +323,11 @@
  },
  "full_scan_slot": 996746,
  "last_checked": {
-  "Austins": 1794143903.7213914,
-  "Hobbycraft": 1794143903.7211065,
-  "John Lewis": 1794143903.7210836,
-  "Toytown": 1794143903.719809,
-  "Urban Outfitters": 1794143903.7207165
+  "Austins": 1794144434.230808,
+  "Hobbycraft": 1794144434.2305102,
+  "John Lewis": 1794144434.230477,
+  "Toytown": 1794144433.541305,
+  "Urban Outfitters": 1794144433.5420384
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -6669,8 +6669,11 @@
    "url": "https://tinkerandtot.co.uk/products/teenie-nice-ice-baby-needoh-1"
   },
   "Toy Barnhaus|worlds-smallest-needoh-groovy-glob-needoh": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://www.toybarnhaus.co.uk/cart/57403401273670:1",
+   "options": {
+    "57403401273670": "Default Title"
+   },
    "price": "£9.99",
    "title": "Worlds Smallest NeeDoh - Groovy Glob NeeDoh (Random Colour Single Pack) - 2 Per Customer - Orders over 2 Will Be Cancelled",
    "url": "https://www.toybarnhaus.co.uk/products/worlds-smallest-needoh-groovy-glob-needoh"
