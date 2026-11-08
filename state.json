@@ -307,6 +307,10 @@
    "since": 1793206714.6797936,
    "warned": true
   },
+  "JKDIRECT": {
+   "since": 1794170028.796214,
+   "warned": false
+  },
   "John Lewis": {
    "since": 1793206714.6797817,
    "warned": true
@@ -317,7 +321,7 @@
   },
   "Waterstones": 2
  },
- "full_scan_slot": 996760,
+ "full_scan_slot": 996761,
  "last_checked": {
   "Austins": 1794169883.3823674,
   "Hobbycraft": 1794169883.3821979,
