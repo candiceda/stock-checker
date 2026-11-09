@@ -147,6 +147,7 @@
    "needoh-blue-nice-cube-bundle-6-items-included",
    "needoh-candy-swirl-bundle",
    "needoh-candy-swirl-bundle-6-items-included",
+   "needoh-clip-it-blue",
    "needoh-color-change",
    "needoh-colour-change-bundle-6-items",
    "needoh-cool-cats",
@@ -227,8 +228,7 @@
   ],
   "Science Museum Shop": [],
   "Scribbler": [
-   "needoh-advent-calendar-2026",
-   "needoh-candy-swirl-nice-cube"
+   "needoh-advent-calendar-2026"
   ],
   "Simply Toys": [],
   "So Realistic": [],
@@ -316,7 +316,7 @@
   },
   "Waterstones": 2
  },
- "full_scan_slot": 996794,
+ "full_scan_slot": 996795,
  "last_checked": {
   "Austins": 1794231077.9316072,
   "Hobbycraft": 1794231077.9314015,
