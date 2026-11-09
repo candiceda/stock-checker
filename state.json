@@ -319,11 +319,11 @@
  },
  "full_scan_slot": 996772,
  "last_checked": {
-  "Austins": 1794189685.8529768,
-  "Hobbycraft": 1794189685.8527162,
-  "John Lewis": 1794189685.8526921,
-  "Toytown": 1794189685.8514488,
-  "Urban Outfitters": 1794189685.8523328
+  "Austins": 1794190173.188539,
+  "Hobbycraft": 1794190173.1882834,
+  "John Lewis": 1794190173.1882584,
+  "Toytown": 1794190173.186952,
+  "Urban Outfitters": 1794190173.1878667
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -5344,7 +5344,7 @@
   "Scribbler|needoh-advent-calendar-2026": {
    "available": false,
    "options": {},
-   "price": "£40.87",
+   "price": "£40.90",
    "title": "NeeDoh Advent Calendar 2026",
    "url": "https://www.scribbler.com/products/needoh-advent-calendar-2026"
   },
@@ -6843,7 +6843,7 @@
   "Toys4you|needoh-2026-christmas-advent-calendar-stress-ball-set": {
    "available": false,
    "options": {},
-   "price": "£105.00",
+   "price": "£106.00",
    "title": "Needoh 2026 Christmas Advent Calendar Stress Ball Set",
    "url": "https://www.toys4you.co.uk/products/needoh-2026-christmas-advent-calendar-stress-ball-set"
   },
