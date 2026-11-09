@@ -306,6 +306,10 @@
    "since": 1793206714.6797936,
    "warned": true
   },
+  "Isaac's Treasures": {
+   "since": 1794218481.0074701,
+   "warned": false
+  },
   "John Lewis": {
    "since": 1793206714.6797817,
    "warned": true
@@ -316,7 +320,7 @@
   },
   "Waterstones": 2
  },
- "full_scan_slot": 996787,
+ "full_scan_slot": 996788,
  "last_checked": {
   "Austins": 1794218183.728866,
   "Hobbycraft": 1794218183.728709,
