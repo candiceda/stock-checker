@@ -318,11 +318,11 @@
  },
  "full_scan_slot": 996792,
  "last_checked": {
-  "Austins": 1794225656.4464254,
-  "Hobbycraft": 1794225656.4462848,
-  "John Lewis": 1794225656.4462771,
-  "Toytown": 1794225656.445684,
-  "Urban Outfitters": 1794225656.4461212
+  "Austins": 1794226159.772304,
+  "Hobbycraft": 1794226159.772165,
+  "John Lewis": 1794226159.772158,
+  "Toytown": 1794226159.771588,
+  "Urban Outfitters": 1794226159.772011
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -5343,14 +5343,14 @@
   "Scribbler|needoh-advent-calendar-2026": {
    "available": false,
    "options": {},
-   "price": "£41.05",
+   "price": "£41.04",
    "title": "NeeDoh Advent Calendar 2026",
    "url": "https://www.scribbler.com/products/needoh-advent-calendar-2026"
   },
   "Scribbler|needoh-candy-swirl-nice-cube": {
    "available": false,
    "options": {},
-   "price": "£9.57",
+   "price": "£9.56",
    "title": "NeeDoh Candy Swirl Nice Cube",
    "url": "https://www.scribbler.com/products/needoh-candy-swirl-nice-cube"
   },
