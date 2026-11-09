@@ -319,11 +319,11 @@
  },
  "full_scan_slot": 996778,
  "last_checked": {
-  "Austins": 1794200451.4418464,
-  "Hobbycraft": 1794200451.441729,
-  "John Lewis": 1794200451.44172,
-  "Toytown": 1794200451.4411366,
-  "Urban Outfitters": 1794200451.441559
+  "Austins": 1794200953.6639984,
+  "Hobbycraft": 1794200953.6638055,
+  "John Lewis": 1794200953.6637862,
+  "Toytown": 1794200953.6624846,
+  "Urban Outfitters": 1794200953.6633797
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -1401,7 +1401,7 @@
   "Cloud Nine Boutique|needoh-ramen-noodlies-stretchy-squishy-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£15.00",
+   "price": "£16.00",
    "title": "NeeDoh Ramen Noodlies Stretchy Squishy Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-ramen-noodlies-stretchy-squishy-fidget-toy"
   },
@@ -3471,7 +3471,7 @@
   "JKDIRECT|needoh-2026-christmas-advent-calendar": {
    "available": false,
    "options": {},
-   "price": "£75.00",
+   "price": "£76.00",
    "title": "NeeDoh 2026 Christmas Advent Calendar Sealed",
    "url": "https://jkdirectstore.com/products/needoh-2026-christmas-advent-calendar"
   },
@@ -3561,7 +3561,7 @@
   "JKDIRECT|needoh-funky-pup": {
    "available": false,
    "options": {},
-   "price": "£30.00",
+   "price": "£31.00",
    "title": "NeeDoh Funky Pup",
    "url": "https://jkdirectstore.com/products/needoh-funky-pup"
   },
@@ -3697,7 +3697,7 @@
   "JKDIRECT|needoh-nice-cream-cone": {
    "available": false,
    "options": {},
-   "price": "£45.00",
+   "price": "£46.00",
    "title": "NeeDoh Nice Cream Cone",
    "url": "https://jkdirectstore.com/products/needoh-nice-cream-cone"
   },
@@ -5344,14 +5344,14 @@
   "Scribbler|needoh-advent-calendar-2026": {
    "available": false,
    "options": {},
-   "price": "£40.90",
+   "price": "£40.92",
    "title": "NeeDoh Advent Calendar 2026",
    "url": "https://www.scribbler.com/products/needoh-advent-calendar-2026"
   },
   "Scribbler|needoh-candy-swirl-nice-cube": {
    "available": false,
    "options": {},
-   "price": "£9.53",
+   "price": "£9.54",
    "title": "NeeDoh Candy Swirl Nice Cube",
    "url": "https://www.scribbler.com/products/needoh-candy-swirl-nice-cube"
   },
@@ -5512,7 +5512,7 @@
   "So Realistic|needoh-nice-ice-baby-pack-of-4": {
    "available": false,
    "options": {},
-   "price": "£15.00",
+   "price": "£16.00",
    "title": "NeeDoh Nice Ice Baby Pack of 4",
    "url": "https://sorealistic.co.uk/products/needoh-nice-ice-baby-pack-of-4"
   },
