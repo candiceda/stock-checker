@@ -176,16 +176,17 @@
    "needoh-swirl-4-pack",
    "needoh-teenie-cool-cats-3-pack",
    "needoh-teenie-cool-cube",
+   "needoh-teenie-fuzzball-3-pack",
    "needoh-teenie-fuzzball-4-pack",
    "needoh-teenie-fuzzball-barnyard-damaged-box",
    "needoh-teenie-glow-in-the-dark",
    "needoh-teenie-groovy-glob",
+   "needoh-teenie-ripples",
    "needoh-teenie-swirl",
    "needoh-wow-flake-us-exclusive",
    "untitled-30-oct-at-15-03",
    "untitled-30-oct-at-20-33",
-   "world-s-smallest-needoh",
-   "needoh-teenie-fuzzball-3-pack"
+   "world-s-smallest-needoh"
   ],
   "Jadlam Toys": [
    "halloween-squish-toy-bundle-w-jack-glow-needoh-lantern",
@@ -317,7 +318,7 @@
   },
   "Waterstones": 2
  },
- "full_scan_slot": 996850,
+ "full_scan_slot": 996851,
  "last_checked": {
   "Austins": 1794331873.9006839,
   "Hobbycraft": 1794331873.9004986,
@@ -3917,6 +3918,13 @@
    "price": "£14.00",
    "title": "NeeDoh Teenie Groovy Glob",
    "url": "https://jkdirectstore.com/products/needoh-teenie-groovy-glob"
+  },
+  "JKDIRECT|needoh-teenie-ripples": {
+   "available": false,
+   "options": {},
+   "price": "£17.00",
+   "title": "NeeDoh Teenie Ripples",
+   "url": "https://jkdirectstore.com/products/needoh-teenie-ripples"
   },
   "JKDIRECT|needoh-teenie-swirl": {
    "available": false,
