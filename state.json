@@ -59,7 +59,8 @@
   "Hobbycraft": [],
   "John Lewis": [],
   "Tink n Stink": [
-   "https://www.tinknstink.co.uk/lava-squish-n-flow-lava-lamp.html"
+   "https://www.tinknstink.co.uk/lava-squish-n-flow-lava-lamp.html",
+   "https://www.tinknstink.co.uk/polar-glow-penguin-needoh.html"
   ],
   "Toytown": [],
   "Urban Outfitters": [],
@@ -307,6 +308,10 @@
    "since": 1793206714.6797936,
    "warned": true
   },
+  "Isaac's Treasures": {
+   "since": 1794273265.2009747,
+   "warned": false
+  },
   "John Lewis": {
    "since": 1793206714.6797817,
    "warned": true
@@ -317,13 +322,13 @@
   },
   "Waterstones": 2
  },
- "full_scan_slot": 996804,
+ "full_scan_slot": 996818,
  "last_checked": {
-  "Austins": 1794248391.5805082,
-  "Hobbycraft": 1794248391.5803268,
-  "John Lewis": 1794248391.580312,
-  "Toytown": 1794248391.5793893,
-  "Urban Outfitters": 1794248391.580035
+  "Austins": 1794273265.2365131,
+  "Hobbycraft": 1794273265.236243,
+  "John Lewis": 1794273265.2361724,
+  "Toytown": 1794273265.2010174,
+  "Urban Outfitters": 1794273265.2357533
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -1100,476 +1105,476 @@
   "Cloud Nine Boutique|needoh-advent-calendar-mini-christmas-groovy-squishy-fidget-toy-24-pack": {
    "available": false,
    "options": {},
-   "price": "£62.00",
+   "price": "£45.00",
    "title": "NeeDoh Advent Calendar Mini Christmas Groovy Squishy Fidget Toy 24 Pack (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-advent-calendar-mini-christmas-groovy-squishy-fidget-toy-24-pack"
   },
   "Cloud Nine Boutique|needoh-atomic-groovy-squeeze-squishy-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£14.00",
+   "price": "£10.00",
    "title": "NeeDoh Atomic Groovy Squeeze Squishy Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-atomic-groovy-squeeze-squishy-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-booper-air-launcher-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£14.00",
+   "price": "£10.00",
    "title": "NeeDoh Booper Air Launcher Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-booper-air-launcher-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-candy-swirl-nice-cube-super-solid-squish-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£14.00",
+   "price": "£10.00",
    "title": "NeeDoh Candy Swirl Nice Cube Super Solid Squish Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-candy-swirl-nice-cube-super-solid-squish-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-classic-groovy-squishy-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£13.00",
+   "price": "£15.00",
    "title": "NeeDoh Classic Groovy Squishy Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-classic-groovy-squishy-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-color-change-cube-groovy-squishy-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£14.00",
+   "price": "£20.00",
    "title": "NeeDoh Color Change Cube Groovy Squishy Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-color-change-cube-groovy-squishy-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-color-changing-classic-groovy-squishy-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£17.00",
+   "price": "£15.00",
    "title": "NeeDoh Color Changing Classic Groovy Squishy Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-color-changing-classic-groovy-squishy-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-dig-it-pig-squishy-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£14.00",
+   "price": "£10.00",
    "title": "NeeDoh Dig It Pig Squishy Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-dig-it-pig-squishy-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-dohnut-holes-groovy-squishy-fidget-toy-6-pack": {
    "available": false,
    "options": {},
-   "price": "£17.00",
+   "price": "£12.00",
    "title": "NeeDoh Dohnut Holes Groovy Squishy Fidget Toy 6 Pack (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-dohnut-holes-groovy-squishy-fidget-toy-6-pack"
   },
   "Cloud Nine Boutique|needoh-dohnut-jelly-squeeze-squishy-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£18.00",
+   "price": "£13.00",
    "title": "NeeDoh Dohnut Jelly Squeeze Squishy Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-dohnut-jelly-squeeze-squishy-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-donut-classic-groovy-squishy-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£17.00",
+   "price": "£12.00",
    "title": "NeeDoh Donut Classic Groovy Squishy Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-donut-classic-groovy-squishy-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-dream-drop-raindrop-squishy-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£17.00",
+   "price": "£20.00",
    "title": "NeeDoh Dream Drop Raindrop Squishy Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-dream-drop-raindrop-squishy-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-funky-pup-squishy-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£14.00",
+   "price": "£10.00",
    "title": "NeeDoh Funky Pup Squishy Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-funky-pup-squishy-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-fuzz-ball-flower-power-sensory-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£14.00",
+   "price": "£10.00",
    "title": "NeeDoh Fuzz Ball Flower Power Sensory Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-fuzz-ball-flower-power-sensory-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-fuzz-ball-wild-cats-velvet-squishy-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£14.00",
+   "price": "£10.00",
    "title": "NeeDoh Fuzz Ball Wild Cats Velvet Squishy Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-fuzz-ball-wild-cats-velvet-squishy-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-fuzzball-velvet-squeeze-stress-relief-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£21.00",
+   "price": "£15.00",
    "title": "NeeDoh Fuzzball Velvet Squeeze Stress Relief Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-fuzzball-velvet-squeeze-stress-relief-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-fuzzball-wonder-waves-velvet-squeeze-squishy-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£24.00",
+   "price": "£20.00",
    "title": "NeeDoh Fuzzball Wonder Waves Velvet Squeeze Squishy Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-fuzzball-wonder-waves-velvet-squeeze-squishy-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-ginger-glowman-christmas-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£17.00",
+   "price": "£12.00",
    "title": "NeeDoh Ginger Glowman Christmas Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-ginger-glowman-christmas-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-glitter-glow-nice-cube-super-solid-squish-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£14.00",
+   "price": "£10.00",
    "title": "NeeDoh Glitter & Glow Nice Cube Super Solid Squish Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-glitter-glow-nice-cube-super-solid-squish-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-glow-in-the-dark-classic-groovy-squishy-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£13.00",
+   "price": "£9.00",
    "title": "NeeDoh Glow in the Dark Classic Groovy Squishy Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-glow-in-the-dark-classic-groovy-squishy-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-glowy-ghost-halloween-squishy-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£14.00",
+   "price": "£10.00",
    "title": "NeeDoh Glowy Ghost Halloween Squishy Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-glowy-ghost-halloween-squishy-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-good-vibes-only-heart-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£22.00",
+   "price": "£16.00",
    "title": "NeeDoh Good Vibes Only Heart Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-good-vibes-only-heart-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-groovy-fruit-sensory-squishy-3-pack": {
    "available": false,
    "options": {},
-   "price": "£14.00",
+   "price": "£10.00",
    "title": "NeeDoh Groovy Fruit Sensory Squishy 3 Pack (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-groovy-fruit-sensory-squishy-3-pack"
   },
   "Cloud Nine Boutique|needoh-gumdrop-super-solid-squish-sweet-themed-hard-squeeze-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£14.00",
+   "price": "£10.00",
    "title": "NeeDoh Gumdrop Super Solid Squish Sweet Themed Hard Squeeze Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-gumdrop-super-solid-squish-sweet-themed-hard-squeeze-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-hot-shots-football-classic-groovy-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£14.00",
+   "price": "£10.00",
    "title": "NeeDoh Hot Shots Football Classic Groovy Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-hot-shots-football-classic-groovy-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-jack-glow-lantern-glow-in-the-dark-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£14.00",
+   "price": "£10.00",
    "title": "NeeDoh Jack-Glow Lantern Glow-in-the-Dark Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-jack-glow-lantern-glow-in-the-dark-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-jelly-hops-bunny-scented-groovy-squishy-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£14.00",
+   "price": "£10.00",
    "title": "NeeDoh Jelly Hops Bunny Scented Groovy Squishy Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-jelly-hops-bunny-scented-groovy-squishy-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-jelly-squish-super-solid-squish-jellyfish-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£17.00",
+   "price": "£12.00",
    "title": "NeeDoh Jelly-Squish Super Solid Squish Jellyfish Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-jelly-squish-super-solid-squish-jellyfish-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-lava-instant-slime-lamp-shaped-fidget-toy-3-pack": {
    "available": false,
    "options": {},
-   "price": "£17.00",
+   "price": "£12.00",
    "title": "NeeDoh Lava Instant Slime Lamp Shaped Fidget Toy 3 Pack (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-lava-instant-slime-lamp-shaped-fidget-toy-3-pack"
   },
   "Cloud Nine Boutique|needoh-lava-squish-n-flow-classic-lamp-squishy-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£14.00",
+   "price": "£10.00",
    "title": "NeeDoh Lava Squish N Flow Classic Lamp Squishy Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-lava-squish-n-flow-classic-lamp-squishy-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-mello-mallo-marshmallow-groovy-squishy-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£14.00",
+   "price": "£10.00",
    "title": "NeeDoh Mello Mallo Marshmallow Groovy Squishy Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-mello-mallo-marshmallow-groovy-squishy-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-mystery-box-3-different-needoh": {
    "available": false,
    "options": {},
-   "price": "£69.00",
+   "price": "£49.99",
    "title": "NeeDoh Mystery Box – 3 Different NeeDoh",
    "url": "https://cloudnineboutique.net/products/needoh-mystery-box-3-different-needoh"
   },
   "Cloud Nine Boutique|needoh-mystery-box-5-different-needoh": {
    "available": false,
    "options": {},
-   "price": "£103.00",
+   "price": "£74.99",
    "title": "NeeDoh Mystery Box – 5 Different NeeDoh",
    "url": "https://cloudnineboutique.net/products/needoh-mystery-box-5-different-needoh"
   },
   "Cloud Nine Boutique|needoh-nice-cream-cone-creamy-smooth-squish-satisfying-sensory-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£13.00",
+   "price": "£9.00",
    "title": "NeeDoh Nice Cream Cone Creamy Smooth Squish Satisfying Sensory Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-nice-cream-cone-creamy-smooth-squish-satisfying-sensory-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-nice-cube-glow-super-solid-squish-glow-in-the-dark-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£14.00",
+   "price": "£10.00",
    "title": "NeeDoh Nice Cube Glow Super Solid Squish Glow-in-the-Dark Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-nice-cube-glow-super-solid-squish-glow-in-the-dark-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-nice-cube-super-solid-squish-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£14.00",
+   "price": "£10.00",
    "title": "NeeDoh Nice Cube Super Solid Squish Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-nice-cube-super-solid-squish-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-nice-cube-swirl-super-solid-squish-stress-relieving-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£14.00",
+   "price": "£10.00",
    "title": "NeeDoh Nice Cube Swirl Super Solid Squish Stress Relieving Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-nice-cube-swirl-super-solid-squish-stress-relieving-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-nice-ice-baby-groovy-squishy-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£11.00",
+   "price": "£8.00",
    "title": "Teenie NeeDoh Nice Ice Baby(Pre-Order) Inc 1 cube (colour choosen at random)",
    "url": "https://cloudnineboutique.net/products/needoh-nice-ice-baby-groovy-squishy-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-nice-sicle-super-solid-squish-ice-lolly-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£17.00",
+   "price": "£12.00",
    "title": "NeeDoh Nice-sicle Super Solid Squish Ice Lolly Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-nice-sicle-super-solid-squish-ice-lolly-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-niceberg-glitter-glow-super-solid-squish-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£29.00",
+   "price": "£21.00",
    "title": "NeeDoh Niceberg Glitter & Glow Super Solid Squish Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-niceberg-glitter-glow-super-solid-squish-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-niceberg-super-solid-squish-large-ice-cube-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£29.00",
+   "price": "£21.00",
    "title": "NeeDoh Niceberg Super Solid Squish Large Ice Cube Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-niceberg-super-solid-squish-large-ice-cube-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-niceberg-swirl-super-solid-squish-large-ice-cube-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£25.00",
+   "price": "£18.00",
    "title": "NeeDoh Niceberg Swirl Super Solid Squish Large Ice Cube Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-niceberg-swirl-super-solid-squish-large-ice-cube-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-panic-pete-squishy-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£14.00",
+   "price": "£10.00",
    "title": "NeeDoh Panic Pete Squishy Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-panic-pete-squishy-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-polar-glow-penguin-crunchy-snow-groovy-squishy-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£17.00",
+   "price": "£12.00",
    "title": "NeeDoh Polar Glow Penguin Crunchy Snow Groovy Squishy Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-polar-glow-penguin-crunchy-snow-groovy-squishy-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-ramen-noodlies-stretchy-squishy-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£16.00",
+   "price": "£11.00",
    "title": "NeeDoh Ramen Noodlies Stretchy Squishy Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-ramen-noodlies-stretchy-squishy-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-shaggy-stretchy-squishy-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£14.00",
+   "price": "£10.00",
    "title": "NeeDoh Shaggy Stretchy Squishy Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-shaggy-stretchy-squishy-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-snow-ball-crunch-squishy-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£14.00",
+   "price": "£10.00",
    "title": "NeeDoh Snow Ball Crunch Squishy Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-snow-ball-crunch-squishy-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-sploot-splat-super-solid-squish-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£17.00",
+   "price": "£15.00",
    "title": "NeeDoh Sploot Splat Super Solid Squish Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-sploot-splat-super-solid-squish-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-squeezza-pizza-shaped-groovy-squishy-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£14.00",
+   "price": "£10.00",
    "title": "NeeDoh Squeezza Pizza Shaped Groovy Squishy Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-squeezza-pizza-shaped-groovy-squishy-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-squish-n-flow-snow-globe-christmas-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£17.00",
+   "price": "£12.00",
    "title": "NeeDoh Squish N Flow Snow Globe Christmas Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-squish-n-flow-snow-globe-christmas-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-squisher-the-reindoh-reindeer-groovy-squishy-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£17.00",
+   "price": "£12.00",
    "title": "NeeDoh Squisher the Reindoh Reindeer Groovy Squishy Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-squisher-the-reindoh-reindeer-groovy-squishy-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-squishmas-cool-cane-christmas-fidget-toy-5-pack": {
    "available": false,
    "options": {},
-   "price": "£14.00",
+   "price": "£9.99",
    "title": "NeeDoh Squishmas Cool Cane Christmas Fidget Toy 5 Pack (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-squishmas-cool-cane-christmas-fidget-toy-5-pack"
   },
   "Cloud Nine Boutique|needoh-sugar-skull-cats-glow-in-the-dark-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£17.00",
+   "price": "£12.00",
    "title": "NeeDoh Sugar Skull Cats Glow-in-the-Dark Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-sugar-skull-cats-glow-in-the-dark-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-super-fuzzball-velvet-squeeze-stress-ball": {
    "available": false,
    "options": {},
-   "price": "£35.00",
+   "price": "£25.00",
    "title": "NeeDoh Super FuzzBall Velvet Squeeze Stress Ball (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-super-fuzzball-velvet-squeeze-stress-ball"
   },
   "Cloud Nine Boutique|needoh-super-ripples-groovy-squishy-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£29.00",
+   "price": "£21.00",
    "title": "NeeDoh Super Ripples Groovy Squishy Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-super-ripples-groovy-squishy-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-teenie-classic-groovy-squishy-fidget-toy-3-pack": {
    "available": false,
    "options": {},
-   "price": "£17.00",
+   "price": "£12.00",
    "title": "NeeDoh Teenie Classic Groovy Squishy Fidget Toy 3 Pack (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-teenie-classic-groovy-squishy-fidget-toy-3-pack"
   },
   "Cloud Nine Boutique|needoh-teenie-cool-cats-squishy-fidget-toy-3-pack": {
    "available": false,
    "options": {},
-   "price": "£25.00",
+   "price": "£18.00",
    "title": "NeeDoh Teenie Cool Cats Squishy Fidget Toy 3 Pack (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-teenie-cool-cats-squishy-fidget-toy-3-pack"
   },
   "Cloud Nine Boutique|needoh-teenie-cool-cats-velvet-squeeze-fidget-toy-4-pack": {
    "available": false,
    "options": {},
-   "price": "£28.00",
+   "price": "£20.00",
    "title": "NeeDoh Teenie Cool Cats Velvet Squeeze Fidget Toy 4 Pack (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-teenie-cool-cats-velvet-squeeze-fidget-toy-4-pack"
   },
   "Cloud Nine Boutique|needoh-teenie-funky-pups-mini-dog-squishy-3-pack": {
    "available": false,
    "options": {},
-   "price": "£17.00",
+   "price": "£12.00",
    "title": "NeeDoh Teenie Funky Pups Mini Dog Squishy 3-Pack (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-teenie-funky-pups-mini-dog-squishy-3-pack"
   },
   "Cloud Nine Boutique|needoh-teenie-fuzzball-stress-ball-4-pack-assorted": {
    "available": false,
    "options": {},
-   "price": "£28.00",
+   "price": "£20.00",
    "title": "NeeDoh Teenie FuzzBall Stress Ball 4-Pack Assorted (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-teenie-fuzzball-stress-ball-4-pack-assorted"
   },
   "Cloud Nine Boutique|needoh-teenie-fuzzball-velvet-squeeze-groovy-squishy-fidget-toy-3-pack": {
    "available": false,
    "options": {},
-   "price": "£17.00",
+   "price": "£12.00",
    "title": "NeeDoh Teenie Fuzzball Velvet Squeeze Groovy Squishy Fidget Toy 3 Pack (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-teenie-fuzzball-velvet-squeeze-groovy-squishy-fidget-toy-3-pack"
   },
   "Cloud Nine Boutique|needoh-teenie-hot-shots-sports-ball-fidget-toy-4-pack": {
    "available": false,
    "options": {},
-   "price": "£21.00",
+   "price": "£15.00",
    "title": "NeeDoh Teenie Hot Shots Sports Ball Fidget Toy 4 Pack (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-teenie-hot-shots-sports-ball-fidget-toy-4-pack"
   },
   "Cloud Nine Boutique|needoh-teenie-jack-glow-lanterns-3-pack": {
    "available": false,
    "options": {},
-   "price": "£17.00",
+   "price": "£12.00",
    "title": "NeeDoh Teenie Jack-Glow Lanterns 3 Pack (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-teenie-jack-glow-lanterns-3-pack"
   },
   "Cloud Nine Boutique|needoh-teenie-nice-ice-baby-squishy-fidget-toy-4-pack": {
    "available": false,
    "options": {},
-   "price": "£21.00",
+   "price": "£15.00",
    "title": "NeeDoh Teenie Nice Ice Baby Squishy Fidget Toy 4 Pack (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-teenie-nice-ice-baby-squishy-fidget-toy-4-pack"
   },
   "Cloud Nine Boutique|needoh-teenie-singles-classic-groovy-stress-ball-4-pack-assorted": {
    "available": false,
    "options": {},
-   "price": "£28.00",
+   "price": "£20.00",
    "title": "NeeDoh Teenie Singles Classic Groovy Stress Ball 4 Pack Assorted (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-teenie-singles-classic-groovy-stress-ball-4-pack-assorted"
   },
   "Cloud Nine Boutique|needoh-teenie-sparkle-hearts-fidget-toy-3-pack": {
    "available": false,
    "options": {},
-   "price": "£28.00",
+   "price": "£20.00",
    "title": "NeeDoh Teenie Sparkle Hearts Fidget Toy 3 Pack (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-teenie-sparkle-hearts-fidget-toy-3-pack"
   },
   "Cloud Nine Boutique|needoh-teenie-swirl-marbled-squishy-fidget-toy-4-pack": {
    "available": false,
    "options": {},
-   "price": "£28.00",
+   "price": "£20.00",
    "title": "NeeDoh Teenie Swirl Marbled Squishy Fidget Toy 4 Pack (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-teenie-swirl-marbled-squishy-fidget-toy-4-pack"
   },
   "Cloud Nine Boutique|scrunchems-marshmallow-flump-groovy-squishy-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£9.00",
+   "price": "£6.24",
    "title": "Scrunchems Marshmallow Flump Groovy Squishy Fidget Toy",
    "url": "https://cloudnineboutique.net/products/scrunchems-marshmallow-flump-groovy-squishy-fidget-toy"
   },
@@ -5350,7 +5355,7 @@
   "Scribbler|needoh-advent-calendar-2026": {
    "available": false,
    "options": {},
-   "price": "£41.05",
+   "price": "£41.10",
    "title": "NeeDoh Advent Calendar 2026",
    "url": "https://www.scribbler.com/products/needoh-advent-calendar-2026"
   },
@@ -5483,7 +5488,7 @@
   "So Realistic|needoh-jelly-squish-viral-sugar-squish-stress-toy-in-stock-now": {
    "available": false,
    "options": {},
-   "price": "£13.00",
+   "price": "£14.00",
    "title": "NeeDoh Jelly Squish Viral Sugar Squish Stress Toy - IN STOCK NOW",
    "url": "https://sorealistic.co.uk/products/needoh-jelly-squish-viral-sugar-squish-stress-toy-in-stock-now"
   },
@@ -6540,6 +6545,12 @@
    "price": "",
    "title": "Panic Pete NeeDoh Stress Ball | Squishy Fidget Toy for Anxiety Relief & Focus",
    "url": "https://www.tinknstink.co.uk/panic-pete-needoh.html"
+  },
+  "Tink n Stink|https://www.tinknstink.co.uk/polar-glow-penguin-needoh.html": {
+   "available": false,
+   "price": "",
+   "title": "NeeDoh Polar Glow Penguin – Christmas Fidget Toy for Kids",
+   "url": "https://www.tinknstink.co.uk/polar-glow-penguin-needoh.html"
   },
   "Tink n Stink|https://www.tinknstink.co.uk/sploot-splat-needoh.html": {
    "available": false,
