@@ -318,11 +318,11 @@
  },
  "full_scan_slot": 996846,
  "last_checked": {
-  "Austins": 1794322897.6610997,
-  "Hobbycraft": 1794322897.6609266,
-  "John Lewis": 1794322897.6609159,
-  "Toytown": 1794322897.6601129,
-  "Urban Outfitters": 1794322897.6607075
+  "Austins": 1794323423.4028,
+  "Hobbycraft": 1794323423.4025629,
+  "John Lewis": 1794323423.4025128,
+  "Toytown": 1794323423.4018044,
+  "Urban Outfitters": 1794323423.4023216
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -3581,7 +3581,7 @@
   "JKDIRECT|needoh-funky-pup": {
    "available": false,
    "options": {},
-   "price": "£31.00",
+   "price": "£30.00",
    "title": "NeeDoh Funky Pup",
    "url": "https://jkdirectstore.com/products/needoh-funky-pup"
   },
