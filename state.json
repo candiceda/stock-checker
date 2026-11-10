@@ -320,11 +320,11 @@
  },
  "full_scan_slot": 996832,
  "last_checked": {
-  "Austins": 1794297609.6388648,
-  "Hobbycraft": 1794297609.638651,
-  "John Lewis": 1794297609.6386366,
-  "Toytown": 1794297609.6376688,
-  "Urban Outfitters": 1794297609.6383846
+  "Austins": 1794298113.8541534,
+  "Hobbycraft": 1794298113.8539512,
+  "John Lewis": 1794298113.853936,
+  "Toytown": 1794298113.8529835,
+  "Urban Outfitters": 1794298113.853658
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -3465,7 +3465,7 @@
   "JKDIRECT|needoh": {
    "available": false,
    "options": {},
-   "price": "£48.00",
+   "price": "£49.00",
    "title": "NeeDoh Nice Berg Swirl",
    "url": "https://jkdirectstore.com/products/needoh"
   },
@@ -3817,7 +3817,7 @@
   "JKDIRECT|needoh-super-ripples-green": {
    "available": false,
    "options": {},
-   "price": "£48.00",
+   "price": "£49.00",
    "title": "NeeDoh Super Ripples",
    "url": "https://jkdirectstore.com/products/needoh-super-ripples-green"
   },
@@ -3915,7 +3915,7 @@
   "JKDIRECT|needoh-wow-flake-us-exclusive": {
    "available": false,
    "options": {},
-   "price": "£48.00",
+   "price": "£49.00",
    "title": "NeeDoh WOW FLAKE - US Exclusive",
    "url": "https://jkdirectstore.com/products/needoh-wow-flake-us-exclusive"
   },
@@ -5351,7 +5351,7 @@
   "Scribbler|needoh-advent-calendar-2026": {
    "available": false,
    "options": {},
-   "price": "£41.14",
+   "price": "£41.15",
    "title": "NeeDoh Advent Calendar 2026",
    "url": "https://www.scribbler.com/products/needoh-advent-calendar-2026"
   },
