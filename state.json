@@ -4164,8 +4164,11 @@
    "url": "https://www.jadlamracingmodels.com/products/needoh-niceberg-swirl-large-ice-cube-sensory-fidget-toy"
   },
   "Jadlam Toys|needoh-polar-glow-penguins-squishy-sensory-toy": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://www.jadlamracingmodels.com/cart/54861305807185:1",
+   "options": {
+    "54861305807185": "Default Title"
+   },
    "price": "£9.95",
    "title": "NeeDoh Polar Glow Penguin - Assorted",
    "url": "https://www.jadlamracingmodels.com/products/needoh-polar-glow-penguins-squishy-sensory-toy"
