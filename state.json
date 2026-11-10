@@ -75,7 +75,8 @@
    "glitter-glow-nice-cube-needoh-stress-toy-g99305",
    "jelly-squish-needoh",
    "nice-cube-needoh-stress-toy-g99304",
-   "teenie-needoh-cool-cats-fidget-toy-g99303"
+   "teenie-needoh-cool-cats-fidget-toy-g99303",
+   "world-s-smallest-nee-doh"
   ],
   "Beanie Games": [],
   "Bigjigs Toys": [
@@ -315,11 +316,11 @@
  },
  "full_scan_slot": 996842,
  "last_checked": {
-  "Austins": 1794316944.784116,
-  "Hobbycraft": 1794316944.7838845,
-  "John Lewis": 1794316944.7838628,
-  "Toytown": 1794316944.7823896,
-  "Urban Outfitters": 1794316944.783468
+  "Austins": 1794317434.3916385,
+  "Hobbycraft": 1794317434.3913202,
+  "John Lewis": 1794317434.3913045,
+  "Toytown": 1794317434.1742103,
+  "Urban Outfitters": 1794317434.3910131
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -537,6 +538,16 @@
    "price": "£6.50",
    "title": "Teenie Needoh Cool Cats Fidget Toy",
    "url": "https://www.bemoregeek.co.uk/products/teenie-needoh-cool-cats-fidget-toy-g99303"
+  },
+  "Be More Geek|world-s-smallest-nee-doh": {
+   "available": true,
+   "checkout": "https://www.bemoregeek.co.uk/cart/66435069542749:1",
+   "options": {
+    "66435069542749": "New"
+   },
+   "price": "£10.00",
+   "title": "World's Smallest Nee Doh",
+   "url": "https://www.bemoregeek.co.uk/products/world-s-smallest-nee-doh"
   },
   "Bigjigs Toys|color-change-cube-syccbnd": {
    "available": false,
