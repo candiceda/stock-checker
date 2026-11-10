@@ -303,6 +303,10 @@
    "since": 1793206714.6798878,
    "warned": true
   },
+  "City Beach UK": {
+   "since": 1794346325.9268641,
+   "warned": false
+  },
   "Hamleys": 2,
   "Hobbycraft": {
    "since": 1793206714.6797936,
@@ -318,7 +322,7 @@
   },
   "Waterstones": 2
  },
- "full_scan_slot": 996858,
+ "full_scan_slot": 996859,
  "last_checked": {
   "Austins": 1794346171.8612423,
   "Hobbycraft": 1794346171.8609505,
