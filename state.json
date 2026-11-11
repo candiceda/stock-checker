@@ -326,11 +326,11 @@
  },
  "full_scan_slot": 996899,
  "last_checked": {
-  "Austins": 1794418453.8062332,
-  "Hobbycraft": 1794418453.8060877,
-  "John Lewis": 1794418453.806082,
-  "Toytown": 1794418453.8054745,
-  "Urban Outfitters": 1794418453.8059258
+  "Austins": 1794418954.329748,
+  "Hobbycraft": 1794418954.3295746,
+  "John Lewis": 1794418954.3295655,
+  "Toytown": 1794418954.2188594,
+  "Urban Outfitters": 1794418954.329313
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -6932,8 +6932,11 @@
    "url": "https://www.toys4you.co.uk/products/schylling-needoh-polar-glow-penguin-christmas-fidget-toy"
   },
   "Toys4you|scrunchems-squishy-marshmallow": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://www.toys4you.co.uk/cart/60858272219466:1",
+   "options": {
+    "60858272219466": "Default Title"
+   },
    "price": "£9.00",
    "title": "Scrunchems Squishy Marshmallow",
    "url": "https://www.toys4you.co.uk/products/scrunchems-squishy-marshmallow"
