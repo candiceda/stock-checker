@@ -325,11 +325,11 @@
  },
  "full_scan_slot": 996878,
  "last_checked": {
-  "Austins": 1794380484.2537053,
-  "Hobbycraft": 1794380484.2534006,
-  "John Lewis": 1794380484.2533908,
-  "Toytown": 1794380484.2524173,
-  "Urban Outfitters": 1794380484.2531857
+  "Austins": 1794380968.9235728,
+  "Hobbycraft": 1794380968.9232843,
+  "John Lewis": 1794380968.9232647,
+  "Toytown": 1794380968.921927,
+  "Urban Outfitters": 1794380968.9228818
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -3664,7 +3664,7 @@
   "JKDIRECT|needoh-hot-shots-teenie-4-pack": {
    "available": false,
    "options": {},
-   "price": "£35.00",
+   "price": "£34.00",
    "title": "NeeDoh Hot Shots Teenie 4 Pack",
    "url": "https://jkdirectstore.com/products/needoh-hot-shots-teenie-4-pack"
   },
@@ -3691,7 +3691,7 @@
   "JKDIRECT|needoh-knittens": {
    "available": false,
    "options": {},
-   "price": "£35.00",
+   "price": "£34.00",
    "title": "NeeDoh Knittens",
    "url": "https://jkdirectstore.com/products/needoh-knittens"
   },
@@ -3766,7 +3766,7 @@
   "JKDIRECT|needoh-nice-sicle": {
    "available": false,
    "options": {},
-   "price": "£35.00",
+   "price": "£34.00",
    "title": "NeeDoh Nice-Sicle - Random Colour",
    "url": "https://jkdirectstore.com/products/needoh-nice-sicle"
   },
@@ -3780,7 +3780,7 @@
   "JKDIRECT|needoh-polar-glow-penguin": {
    "available": false,
    "options": {},
-   "price": "£35.00",
+   "price": "£34.00",
    "title": "NeeDoh Polar Glow Penguin",
    "url": "https://jkdirectstore.com/products/needoh-polar-glow-penguin"
   },
@@ -3906,7 +3906,7 @@
   "JKDIRECT|needoh-teenie-fuzzball-barnyard-damaged-box": {
    "available": false,
    "options": {},
-   "price": "£69.00",
+   "price": "£68.00",
    "title": "NeeDoh Teenie Fuzzball Farmyard (Damaged Box)",
    "url": "https://jkdirectstore.com/products/needoh-teenie-fuzzball-barnyard-damaged-box"
   },
@@ -5384,7 +5384,7 @@
   "Scribbler|needoh-advent-calendar-2026": {
    "available": false,
    "options": {},
-   "price": "£40.82",
+   "price": "£40.79",
    "title": "NeeDoh Advent Calendar 2026",
    "url": "https://www.scribbler.com/products/needoh-advent-calendar-2026"
   },
