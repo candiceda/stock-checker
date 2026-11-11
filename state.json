@@ -324,13 +324,13 @@
   },
   "Waterstones": 2
  },
- "full_scan_slot": 996905,
+ "full_scan_slot": 996910,
  "last_checked": {
-  "Austins": 1794429981.1184423,
-  "Hobbycraft": 1794429981.118237,
-  "John Lewis": 1794429981.1182246,
-  "Toytown": 1794429981.1172543,
-  "Urban Outfitters": 1794429981.1179612
+  "Austins": 1794439172.0061874,
+  "Hobbycraft": 1794439172.0060027,
+  "John Lewis": 1794439172.005994,
+  "Toytown": 1794439172.0049794,
+  "Urban Outfitters": 1794439172.0057464
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -5399,7 +5399,7 @@
   "Scribbler|needoh-advent-calendar-2026": {
    "available": false,
    "options": {},
-   "price": "£40.62",
+   "price": "£40.61",
    "title": "NeeDoh Advent Calendar 2026",
    "url": "https://www.scribbler.com/products/needoh-advent-calendar-2026"
   },
