@@ -326,11 +326,11 @@
  },
  "full_scan_slot": 996902,
  "last_checked": {
-  "Austins": 1794423779.4656155,
-  "Hobbycraft": 1794423779.4654682,
-  "John Lewis": 1794423779.465463,
-  "Toytown": 1794423779.4648154,
-  "Urban Outfitters": 1794423779.465304
+  "Austins": 1794424254.7194653,
+  "Hobbycraft": 1794424254.719252,
+  "John Lewis": 1794424254.7192447,
+  "Toytown": 1794424254.7184281,
+  "Urban Outfitters": 1794424254.7190347
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -3746,7 +3746,7 @@
   "JKDIRECT|needoh-nice-cube-glitter-glow": {
    "available": false,
    "options": {},
-   "price": "£24.00",
+   "price": "£23.00",
    "title": "NeeDoh Nice Cube Glitter & Glow",
    "url": "https://jkdirectstore.com/products/needoh-nice-cube-glitter-glow"
   },
