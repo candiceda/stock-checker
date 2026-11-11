@@ -326,11 +326,11 @@
  },
  "full_scan_slot": 996892,
  "last_checked": {
-  "Austins": 1794405664.8132424,
-  "Hobbycraft": 1794405664.8130898,
-  "John Lewis": 1794405664.8130822,
-  "Toytown": 1794405664.812286,
-  "Urban Outfitters": 1794405664.812906
+  "Austins": 1794406171.0701816,
+  "Hobbycraft": 1794406171.0699918,
+  "John Lewis": 1794406171.0699754,
+  "Toytown": 1794406171.0253267,
+  "Urban Outfitters": 1794406171.025984
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -3651,7 +3651,7 @@
   "JKDIRECT|needoh-gummy-bear": {
    "available": false,
    "options": {},
-   "price": "£39.00",
+   "price": "£38.00",
    "title": "NeeDoh Gummy Bear",
    "url": "https://jkdirectstore.com/products/needoh-gummy-bear"
   },
@@ -3872,7 +3872,7 @@
   "JKDIRECT|needoh-teenie-cool-cats-3-pack": {
    "available": false,
    "options": {},
-   "price": "£39.00",
+   "price": "£38.00",
    "title": "NeeDoh Teenie Cool Cats 3 Pack",
    "url": "https://jkdirectstore.com/products/needoh-teenie-cool-cats-3-pack"
   },
@@ -5399,7 +5399,7 @@
   "Scribbler|needoh-advent-calendar-2026": {
    "available": false,
    "options": {},
-   "price": "£40.72",
+   "price": "£40.64",
    "title": "NeeDoh Advent Calendar 2026",
    "url": "https://www.scribbler.com/products/needoh-advent-calendar-2026"
   },
@@ -6737,8 +6737,11 @@
    "url": "https://tinkerandtot.co.uk/products/teenie-nice-ice-baby-needoh-1"
   },
   "Toy Barnhaus|worlds-smallest-needoh-groovy-glob-needoh": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://www.toybarnhaus.co.uk/cart/57403401273670:1",
+   "options": {
+    "57403401273670": "Default Title"
+   },
    "price": "£9.99",
    "title": "Worlds Smallest NeeDoh - Groovy Glob NeeDoh (Random Colour Single Pack) - 2 Per Customer - Orders over 2 Will Be Cancelled",
    "url": "https://www.toybarnhaus.co.uk/products/worlds-smallest-needoh-groovy-glob-needoh"
