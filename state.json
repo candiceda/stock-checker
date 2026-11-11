@@ -292,6 +292,7 @@
  },
  "fail_warned_at": {
   "Austins": 1793217833.3393562,
+  "City Beach UK": 1794357257.4755497,
   "Cloud Nine Boutique": 1793504295.8748732,
   "Hobbycraft": 1793217833.2333064,
   "Isaac's Treasures": 1794284148.9079657,
@@ -305,7 +306,7 @@
   },
   "City Beach UK": {
    "since": 1794346325.9268641,
-   "warned": false
+   "warned": true
   },
   "Hamleys": 2,
   "Hobbycraft": {
@@ -322,13 +323,13 @@
   },
   "Waterstones": 2
  },
- "full_scan_slot": 996864,
+ "full_scan_slot": 996865,
  "last_checked": {
-  "Austins": 1794356733.8323836,
-  "Hobbycraft": 1794356733.832235,
-  "John Lewis": 1794356733.8322275,
-  "Toytown": 1794356733.8312016,
-  "Urban Outfitters": 1794356733.8319054
+  "Austins": 1794357257.5286372,
+  "Hobbycraft": 1794357257.5283551,
+  "John Lewis": 1794357257.5283327,
+  "Toytown": 1794357257.4745138,
+  "Urban Outfitters": 1794357257.475265
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
