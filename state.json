@@ -324,11 +324,11 @@
  },
  "full_scan_slot": 996956,
  "last_checked": {
-  "Austins": 1794520887.5877118,
-  "Hobbycraft": 1794520887.5875494,
-  "John Lewis": 1794520887.5875406,
-  "Toytown": 1794520887.586779,
-  "Urban Outfitters": 1794520887.587323
+  "Austins": 1794521407.246822,
+  "Hobbycraft": 1794521407.2467313,
+  "John Lewis": 1794521407.2467256,
+  "Toytown": 1794521407.2462292,
+  "Urban Outfitters": 1794521407.2465856
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -5464,7 +5464,7 @@
   "Scribbler|needoh-advent-calendar-2026": {
    "available": false,
    "options": {},
-   "price": "£40.50",
+   "price": "£40.49",
    "title": "NeeDoh Advent Calendar 2026",
    "url": "https://www.scribbler.com/products/needoh-advent-calendar-2026"
   },
@@ -5695,7 +5695,7 @@
   "So Realistic|needoh-super-fuzz-ball": {
    "available": false,
    "options": {},
-   "price": "£28.00",
+   "price": "£27.00",
    "title": "NeeDoh Super Fuzz Ball (PLEASE ALLOW 7 DAYS FOR DISPATCH)",
    "url": "https://sorealistic.co.uk/products/needoh-super-fuzz-ball"
   },
