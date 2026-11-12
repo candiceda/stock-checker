@@ -196,7 +196,8 @@
    "needoh-blue-bundle-5-items-included",
    "needoh-pink-bundle-5-items-included",
    "needoh-pink-bundle-5-items-included-1",
-   "needoh-pink-colour-change-bundle-5-items-included"
+   "needoh-pink-colour-change-bundle-5-items-included",
+   "needoh-teenie-groovy-glob-bundle-6-items-included"
   ],
   "Jadlam Toys": [
    "halloween-squish-toy-bundle-w-jack-glow-needoh-lantern",
@@ -3992,6 +3993,13 @@
    "price": "£14.00",
    "title": "NeeDoh Teenie Groovy Glob",
    "url": "https://jkdirectstore.com/products/needoh-teenie-groovy-glob"
+  },
+  "JKDIRECT|needoh-teenie-groovy-glob-bundle-6-items-included": {
+   "available": false,
+   "options": {},
+   "price": "£41.00",
+   "title": "NeeDoh Teenie Groovy Glob Bundle - 6 Items Included",
+   "url": "https://jkdirectstore.com/products/needoh-teenie-groovy-glob-bundle-6-items-included"
   },
   "JKDIRECT|needoh-teenie-ripples": {
    "available": false,
