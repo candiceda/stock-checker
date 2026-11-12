@@ -169,7 +169,14 @@
    "needoh-teenie-fuzzball-4-pack",
    "needoh-sploot-splat-blue",
    "needoh-funky-pup",
-   "needoh-mellow-mallow"
+   "needoh-mellow-mallow",
+   "needoh-teenie-swirl",
+   "needoh-teenie-glow-in-the-dark",
+   "needoh-teenie-groovy-glob",
+   "needoh-teenie-ripples",
+   "needoh-teenie-funky-pup-3-pack",
+   "untitled-30-oct-at-20-33",
+   "needoh-teenie-cool-cats-3-pack"
   ],
   "Jadlam Toys": [
    "halloween-squish-toy-bundle-w-jack-glow-needoh-lantern",
@@ -300,15 +307,19 @@
    "since": 1793206714.6797817,
    "warned": true
   },
+  "Urban Outfitters": {
+   "since": 1794510770.952951,
+   "warned": false
+  },
   "Waterstones": 2
  },
  "full_scan_slot": 996950,
  "last_checked": {
-  "Austins": 1794510302.9094436,
-  "Hobbycraft": 1794510302.9092147,
-  "John Lewis": 1794510302.909187,
-  "Toytown": 1794510302.9079378,
-  "Urban Outfitters": 1794510302.9088109
+  "Austins": 1794510770.9536066,
+  "Hobbycraft": 1794510770.953373,
+  "John Lewis": 1794510770.9533474,
+  "Toytown": 1794510770.9520636,
+  "Urban Outfitters": 1794510770.9529483
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -4025,7 +4036,7 @@
   "JKDIRECT|untitled-30-oct-at-20-33": {
    "available": false,
    "options": {},
-   "price": "£27.00",
+   "price": "£32.00",
    "title": "NeeDoh Mini Groovy Jewel - Random Colour",
    "url": "https://jkdirectstore.com/products/untitled-30-oct-at-20-33"
   },
