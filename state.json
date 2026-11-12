@@ -328,11 +328,11 @@
  },
  "full_scan_slot": 996934,
  "last_checked": {
-  "Austins": 1794482636.1757002,
-  "Hobbycraft": 1794482636.175495,
-  "John Lewis": 1794482636.175481,
-  "Toytown": 1794482636.174523,
-  "Urban Outfitters": 1794482636.1752083
+  "Austins": 1794483099.5020642,
+  "Hobbycraft": 1794483099.5018647,
+  "John Lewis": 1794483099.5018325,
+  "Toytown": 1794483099.500649,
+  "Urban Outfitters": 1794483099.5014222
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -4012,8 +4012,11 @@
    "url": "https://www.jadlamracingmodels.com/products/halloween-squish-toy-bundle-w-jack-glow-needoh-lantern"
   },
   "Jadlam Toys|needoh-2026-advent-calendar": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://www.jadlamracingmodels.com/cart/54577176084817:1",
+   "options": {
+    "54577176084817": "Default Title"
+   },
    "price": "£35.00",
    "title": "NeeDoh 2026 Advent Calendar",
    "url": "https://www.jadlamracingmodels.com/products/needoh-2026-advent-calendar"
