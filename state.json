@@ -145,6 +145,7 @@
    "needoh-1-drop",
    "needoh-2026-christmas-advent-calendar",
    "needoh-baby-boos-3-pack",
+   "needoh-candy-cane",
    "needoh-candy-swirl-bundle",
    "needoh-clip-it-blue",
    "needoh-color-change",
@@ -170,6 +171,7 @@
    "needoh-nice-ice-baby-4-pack",
    "needoh-nice-sicle",
    "needoh-polar-glow-penguin",
+   "needoh-snowball-crunch-bundle-w-sticker-pack",
    "needoh-sploot-splat-blue",
    "needoh-squisher-the-reindoh-bundle-w-sticker-pack-blue",
    "needoh-sugar-skull-cats",
@@ -189,9 +191,7 @@
    "needoh-wow-flake-us-exclusive",
    "untitled-30-oct-at-15-03",
    "untitled-30-oct-at-20-33",
-   "world-s-smallest-needoh",
-   "needoh-candy-cane",
-   "needoh-snowball-crunch-bundle-w-sticker-pack"
+   "world-s-smallest-needoh"
   ],
   "Jadlam Toys": [
    "halloween-squish-toy-bundle-w-jack-glow-needoh-lantern",
@@ -328,7 +328,7 @@
   },
   "Waterstones": 2
  },
- "full_scan_slot": 996936,
+ "full_scan_slot": 996937,
  "last_checked": {
   "Austins": 1794486405.8092034,
   "Hobbycraft": 1794486405.8090782,
