@@ -326,11 +326,11 @@
  },
  "full_scan_slot": 996926,
  "last_checked": {
-  "Austins": 1794466814.0933354,
-  "Hobbycraft": 1794466814.0930583,
-  "John Lewis": 1794466814.0929992,
-  "Toytown": 1794466814.0916452,
-  "Urban Outfitters": 1794466814.092634
+  "Austins": 1794467301.6773217,
+  "Hobbycraft": 1794467301.6770096,
+  "John Lewis": 1794467301.6769874,
+  "Toytown": 1794467301.6755788,
+  "Urban Outfitters": 1794467301.6766107
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -3658,7 +3658,7 @@
   "JKDIRECT|needoh-hot-shots-football-rare-discontinued": {
    "available": false,
    "options": {},
-   "price": "£170.00",
+   "price": "£169.00",
    "title": "NeeDoh Hot Shots Football - RARE DISCONTINUED",
    "url": "https://jkdirectstore.com/products/needoh-hot-shots-football-rare-discontinued"
   },
@@ -5399,7 +5399,7 @@
   "Scribbler|needoh-advent-calendar-2026": {
    "available": false,
    "options": {},
-   "price": "£40.57",
+   "price": "£40.54",
    "title": "NeeDoh Advent Calendar 2026",
    "url": "https://www.scribbler.com/products/needoh-advent-calendar-2026"
   },
