@@ -145,6 +145,8 @@
    "needoh-1-drop",
    "needoh-2026-christmas-advent-calendar",
    "needoh-baby-boos-3-pack",
+   "needoh-blue-bundle-5-items-included",
+   "needoh-blue-nice-ice-baby-bundle-5-items-included",
    "needoh-candy-cane",
    "needoh-candy-swirl-bundle",
    "needoh-clip-it-blue",
@@ -170,6 +172,9 @@
    "needoh-nice-ice-baby",
    "needoh-nice-ice-baby-4-pack",
    "needoh-nice-sicle",
+   "needoh-pink-bundle-5-items-included",
+   "needoh-pink-bundle-5-items-included-1",
+   "needoh-pink-colour-change-bundle-5-items-included",
    "needoh-polar-glow-penguin",
    "needoh-purple-funky-pup-bundle-4-items-included",
    "needoh-snowball-crunch-bundle-w-sticker-pack",
@@ -187,18 +192,13 @@
    "needoh-teenie-fuzzball-barnyard-damaged-box",
    "needoh-teenie-glow-in-the-dark",
    "needoh-teenie-groovy-glob",
+   "needoh-teenie-groovy-glob-bundle-6-items-included",
    "needoh-teenie-ripples",
    "needoh-teenie-swirl",
    "needoh-wow-flake-us-exclusive",
    "untitled-30-oct-at-15-03",
    "untitled-30-oct-at-20-33",
-   "world-s-smallest-needoh",
-   "needoh-blue-bundle-5-items-included",
-   "needoh-pink-bundle-5-items-included",
-   "needoh-pink-bundle-5-items-included-1",
-   "needoh-pink-colour-change-bundle-5-items-included",
-   "needoh-teenie-groovy-glob-bundle-6-items-included",
-   "needoh-blue-nice-ice-baby-bundle-5-items-included"
+   "world-s-smallest-needoh"
   ],
   "Jadlam Toys": [
    "halloween-squish-toy-bundle-w-jack-glow-needoh-lantern",
@@ -335,7 +335,7 @@
   },
   "Waterstones": 2
  },
- "full_scan_slot": 996947,
+ "full_scan_slot": 996948,
  "last_checked": {
   "Austins": 1794506343.611146,
   "Hobbycraft": 1794506343.6109803,
@@ -4051,7 +4051,7 @@
   "JKDIRECT|untitled-30-oct-at-15-03": {
    "available": false,
    "options": {},
-   "price": "£41.00",
+   "price": "£27.00",
    "title": "NeeDoh Jelly Squish",
    "url": "https://jkdirectstore.com/products/untitled-30-oct-at-15-03"
   },
