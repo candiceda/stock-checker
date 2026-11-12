@@ -4427,8 +4427,11 @@
    "url": "https://jukupop.com/products/jukupop-sugar-filled-bundle-includes-needoh-4-more-sensory-toys-copy"
   },
   "Jukupop|jukupop-viral-squishy-bundles": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://jukupop.com/cart/57545973530948:1",
+   "options": {
+    "57545973530948": "Default Title"
+   },
    "price": "£36.99",
    "title": "JUKUPOP Viral Squishy Bundle – Includes NeeDoh & 4 More Sensory Toys",
    "url": "https://jukupop.com/products/jukupop-viral-squishy-bundles"
