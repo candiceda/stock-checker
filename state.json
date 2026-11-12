@@ -192,7 +192,9 @@
    "needoh-wow-flake-us-exclusive",
    "untitled-30-oct-at-15-03",
    "untitled-30-oct-at-20-33",
-   "world-s-smallest-needoh"
+   "world-s-smallest-needoh",
+   "needoh-blue-bundle-5-items-included",
+   "needoh-pink-bundle-5-items-included"
   ],
   "Jadlam Toys": [
    "halloween-squish-toy-bundle-w-jack-glow-needoh-lantern",
@@ -3511,6 +3513,13 @@
    "title": "NeeDoh Baby Boos 3 Pack",
    "url": "https://jkdirectstore.com/products/needoh-baby-boos-3-pack"
   },
+  "JKDIRECT|needoh-blue-bundle-5-items-included": {
+   "available": false,
+   "options": {},
+   "price": "£41.00",
+   "title": "NeeDoh Blue Bundle - 5 Items Included",
+   "url": "https://jkdirectstore.com/products/needoh-blue-bundle-5-items-included"
+  },
   "JKDIRECT|needoh-blue-nice-cube-bundle-6-items-included": {
    "available": false,
    "options": {},
@@ -3792,6 +3801,13 @@
    "price": "£34.00",
    "title": "NeeDoh Nice-Sicle - Random Colour",
    "url": "https://jkdirectstore.com/products/needoh-nice-sicle"
+  },
+  "JKDIRECT|needoh-pink-bundle-5-items-included": {
+   "available": false,
+   "options": {},
+   "price": "£41.00",
+   "title": "NeeDoh Pink Bundle - 5 Items Included",
+   "url": "https://jkdirectstore.com/products/needoh-pink-bundle-5-items-included"
   },
   "JKDIRECT|needoh-pink-glitter-and-glow-6-item-bundle": {
    "available": false,
