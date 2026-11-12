@@ -147,7 +147,14 @@
    "needoh-blue-nice-ice-baby-bundle-5-items-included",
    "needoh-pink-bundle-5-items-included-1",
    "needoh-pink-colour-change-bundle-5-items-included",
-   "needoh-teenie-groovy-glob-bundle-6-items-included"
+   "needoh-teenie-groovy-glob-bundle-6-items-included",
+   "needoh-baby-boos-3-pack",
+   "needoh-teenie-3-pack-green-purple-orange",
+   "needoh-color-change-4-pack",
+   "needoh-candy-swirl-bundle",
+   "needoh-candy-cane",
+   "needoh-purple-funky-pup-bundle-4-items-included",
+   "needoh-pink-bundle-5-items-included"
   ],
   "Jadlam Toys": [
    "halloween-squish-toy-bundle-w-jack-glow-needoh-lantern",
@@ -278,19 +285,15 @@
    "since": 1793206714.6797817,
    "warned": true
   },
-  "Urban Outfitters": {
-   "since": 1794509282.2098076,
-   "warned": false
-  },
   "Waterstones": 2
  },
  "full_scan_slot": 996950,
  "last_checked": {
-  "Austins": 1794509749.8676944,
-  "Hobbycraft": 1794509749.867466,
-  "John Lewis": 1794509749.867453,
-  "Toytown": 1794509749.8665047,
-  "Urban Outfitters": 1794509749.8672361
+  "Austins": 1794510302.9094436,
+  "Hobbycraft": 1794510302.9092147,
+  "John Lewis": 1794510302.909187,
+  "Toytown": 1794510302.9079378,
+  "Urban Outfitters": 1794510302.9088109
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -3536,7 +3539,7 @@
   "JKDIRECT|needoh-color-change-4-pack": {
    "available": false,
    "options": {},
-   "price": "£35.00",
+   "price": "£34.00",
    "title": "NeeDoh Color Change - 4 Pack",
    "url": "https://jkdirectstore.com/products/needoh-color-change-4-pack"
   },
