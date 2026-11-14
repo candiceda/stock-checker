@@ -199,7 +199,8 @@
    "speks-gump-christmas-tree-adult-fidget-stress-relief"
   ],
   "Jukupop": [
-   "scrunchems-marshmallow-squishy"
+   "scrunchems-marshmallow-squishy",
+   "speks-christmas-bundle-includes-gump-tree-5-other-items"
   ],
   "Junior Edition": [],
   "Learning Space": [
@@ -4553,6 +4554,16 @@
    "price": "£4.99",
    "title": "Scrunchems Marshmallow Squishy",
    "url": "https://jukupop.com/products/scrunchems-marshmallow-squishy"
+  },
+  "Jukupop|speks-christmas-bundle-includes-gump-tree-5-other-items": {
+   "available": true,
+   "checkout": "https://jukupop.com/cart/57712734241092:1",
+   "options": {
+    "57712734241092": "Default Title"
+   },
+   "price": "£59.99",
+   "title": "SPEKS. Christmas Bundle - Includes Gump Tree + 5 other items",
+   "url": "https://jukupop.com/products/speks-christmas-bundle-includes-gump-tree-5-other-items"
   },
   "Jukupop|super-needoh-fuzz-ball-giant-fuzzy-stress-ball-sensory-toy": {
    "available": false,
