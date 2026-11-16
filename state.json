@@ -322,11 +322,11 @@
  },
  "full_scan_slot": 997126,
  "last_checked": {
-  "Austins": 1794827713.9773476,
-  "Hobbycraft": 1794827713.9771307,
-  "John Lewis": 1794827713.9771132,
-  "Toytown": 1794827713.9342666,
-  "Urban Outfitters": 1794827713.976792
+  "Austins": 1794828176.6630502,
+  "Hobbycraft": 1794828176.6628044,
+  "John Lewis": 1794828176.6627936,
+  "Toytown": 1794828176.6215887,
+  "Urban Outfitters": 1794828176.662511
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -2298,6 +2298,13 @@
    "price": "£18.00",
    "title": "Stress Ball: Sploot Splat Fidget Toy Individual - Blob - Assorted Colours - NEEDOH",
    "url": "https://giftology-uk.com/products/stress-ball-sploot-splat-fidget-toy-individual-blob-like-extensions-assorted-colours"
+  },
+  "Giftology|stress-ball-teenie-set-4-fuzz-ball-fidget-toy-assorted-colours-needoh": {
+   "available": false,
+   "options": {},
+   "price": "£21.00",
+   "title": "Stress Ball: Teenie Set 4 Fuzz Ball Fidget Toy - Assorted Colours - Needoh",
+   "url": "https://giftology-uk.com/products/stress-ball-teenie-set-4-fuzz-ball-fidget-toy-assorted-colours-needoh"
   },
   "Infinity Collectables|color-changing-nee-doh": {
    "available": false,
