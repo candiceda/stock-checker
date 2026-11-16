@@ -322,11 +322,11 @@
  },
  "full_scan_slot": 997126,
  "last_checked": {
-  "Austins": 1794827253.789039,
-  "Hobbycraft": 1794827253.7888472,
-  "John Lewis": 1794827253.7888305,
-  "Toytown": 1794827253.733389,
-  "Urban Outfitters": 1794827253.7885318
+  "Austins": 1794827713.9773476,
+  "Hobbycraft": 1794827713.9771307,
+  "John Lewis": 1794827713.9771132,
+  "Toytown": 1794827713.9342666,
+  "Urban Outfitters": 1794827713.976792
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -2263,6 +2263,13 @@
    "price": "£21.00",
    "title": "Stress Ball: Nice Cream Cone Fidget Toy Individual - Various Colours - Needoh",
    "url": "https://giftology-uk.com/products/stress-ball-nice-cream-cone-fidget-toy-individual-various-colours-needoh"
+  },
+  "Giftology|stress-ball-nice-cube-fidget-toy-individual-glow-in-the-dark-assorted-colours-needoh": {
+   "available": false,
+   "options": {},
+   "price": "£14.00",
+   "title": "Stress Ball: Nice Cube Fidget Toy Individual - Glow in the Dark - Assorted Colours - Needoh",
+   "url": "https://giftology-uk.com/products/stress-ball-nice-cube-fidget-toy-individual-glow-in-the-dark-assorted-colours-needoh"
   },
   "Giftology|stress-ball-nice-cube-swirl-fidget-toy-individual-needoh": {
    "available": false,
