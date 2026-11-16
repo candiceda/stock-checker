@@ -322,11 +322,11 @@
  },
  "full_scan_slot": 997126,
  "last_checked": {
-  "Austins": 1794826760.3033185,
-  "Hobbycraft": 1794826760.3031042,
-  "John Lewis": 1794826760.3030922,
-  "Toytown": 1794826760.3021002,
-  "Urban Outfitters": 1794826760.3028286
+  "Austins": 1794827253.789039,
+  "Hobbycraft": 1794827253.7888472,
+  "John Lewis": 1794827253.7888305,
+  "Toytown": 1794827253.733389,
+  "Urban Outfitters": 1794827253.7885318
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -2249,6 +2249,13 @@
    "price": "£24.00",
    "title": "World's Smallest NeeDoh",
    "url": "https://www.funkytoystore.com/products/worlds-smallest-needoh"
+  },
+  "Giftology|stress-ball-gumdrop-fidget-toy-individual-needoh": {
+   "available": false,
+   "options": {},
+   "price": "£18.00",
+   "title": "Stress Ball: Gumdrop Fidget Toy Individual - Needoh",
+   "url": "https://giftology-uk.com/products/stress-ball-gumdrop-fidget-toy-individual-needoh"
   },
   "Giftology|stress-ball-nice-cream-cone-fidget-toy-individual-various-colours-needoh": {
    "available": false,
