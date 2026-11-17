@@ -4593,8 +4593,11 @@
    "url": "https://jukupop.com/products/needoh-sploot-splat-squishy-fidget-toy-for-stress-anxiety-adhd-autism"
   },
   "Jukupop|needoh-teenie-fuzz-ball-multipack-sensory-fidget-toy": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://jukupop.com/cart/56734343299396:1",
+   "options": {
+    "56734343299396": "Default Title"
+   },
    "price": "£9.99",
    "title": "NeeDoh Teenie Fuzz Ball Multipack Sensory Fidget Toy",
    "url": "https://jukupop.com/products/needoh-teenie-fuzz-ball-multipack-sensory-fidget-toy"
