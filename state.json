@@ -4464,11 +4464,8 @@
    "url": "https://www.jadlamracingmodels.com/products/speks-gump-christmas-tree-adult-fidget-stress-relief"
   },
   "Jukupop|halloween-sensory-bundle": {
-   "available": true,
-   "checkout": "https://jukupop.com/cart/57331513524548:1",
-   "options": {
-    "57331513524548": "Bundle 2"
-   },
+   "available": false,
+   "options": {},
    "price": "£34.99",
    "title": "Halloween Sensory Bundles",
    "url": "https://jukupop.com/products/halloween-sensory-bundle"
