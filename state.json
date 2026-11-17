@@ -324,11 +324,11 @@
  },
  "full_scan_slot": 997188,
  "last_checked": {
-  "Austins": 1794938480.089547,
-  "Hobbycraft": 1794938480.0892842,
-  "John Lewis": 1794938480.089268,
-  "Toytown": 1794938480.0881338,
-  "Urban Outfitters": 1794938480.0889158
+  "Austins": 1794938985.0737357,
+  "Hobbycraft": 1794938985.0734878,
+  "John Lewis": 1794938985.0734754,
+  "Toytown": 1794938985.0722184,
+  "Urban Outfitters": 1794938985.073018
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -4017,7 +4017,7 @@
   "JKDIRECT|needoh-teenie-fuzzball-4-pack": {
    "available": false,
    "options": {},
-   "price": "£31.00",
+   "price": "£32.00",
    "title": "NeeDoh Teenie Fuzzball 4 Pack",
    "url": "https://jkdirectstore.com/products/needoh-teenie-fuzzball-4-pack"
   },
