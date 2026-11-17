@@ -2220,14 +2220,17 @@
   "Funkytoystore|needoh-teenie-swirl-fidget-toy-4-pack": {
    "available": false,
    "options": {},
-   "price": "£19.00",
+   "price": "£22.00",
    "title": "NeeDoh Teenie Swirl Fidget Toy 4 Pack",
    "url": "https://www.funkytoystore.com/products/needoh-teenie-swirl-fidget-toy-4-pack"
   },
   "Funkytoystore|nice-cube-swirl-needoh-pre-orders": {
-   "available": false,
-   "options": {},
-   "price": "£19.00",
+   "available": true,
+   "checkout": "https://www.funkytoystore.com/cart/57976256921931:1",
+   "options": {
+    "57976256921931": "Orange/Pink"
+   },
+   "price": "£21.00",
    "title": "Nice Cube Swirl NeeDoh",
    "url": "https://www.funkytoystore.com/products/nice-cube-swirl-needoh-pre-orders"
   },
