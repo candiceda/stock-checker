@@ -63,7 +63,8 @@
    "https://www.tinknstink.co.uk/polar-glow-penguin-needoh.html"
   ],
   "Toytown": [
-   "https://www.toytownstores.com/toys-c6/pocket-money-c144/fidget-toys-c145/abgee-worlds-smallest-needoh-p8691"
+   "https://www.toytownstores.com/toys-c6/pocket-money-c144/fidget-toys-c145/abgee-worlds-smallest-needoh-p8691",
+   "https://www.toytownstores.com/toys-c6/pocket-money-c144/fidget-toys-c145/bigjigs-needoh-teenie-swirl-fidget-toy-4-pack-p8694"
   ],
   "Urban Outfitters": [],
   "Waterstones": []
@@ -326,11 +327,11 @@
  },
  "full_scan_slot": 997231,
  "last_checked": {
-  "Austins": 1795016898.665638,
-  "Hobbycraft": 1795016898.6654265,
-  "John Lewis": 1795016898.665414,
-  "Toytown": 1795016898.6644342,
-  "Urban Outfitters": 1795016898.6651516
+  "Austins": 1795017441.7324228,
+  "Hobbycraft": 1795017441.7322752,
+  "John Lewis": 1795017441.7322676,
+  "Toytown": 1795017441.5377088,
+  "Urban Outfitters": 1795017441.7320688
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -7162,6 +7163,12 @@
    "price": "£7.00",
    "title": "Bigjigs NeeDoh Nice Cube Swirl Fidget Toy - one supplied at random",
    "url": "https://www.toytownstores.com/toys-c6/pocket-money-c144/fidget-toys-c145/bigjigs-needoh-nice-cube-swirl-fidget-toy-one-supplied-at-random-p7964"
+  },
+  "Toytown|https://www.toytownstores.com/toys-c6/pocket-money-c144/fidget-toys-c145/bigjigs-needoh-teenie-swirl-fidget-toy-4-pack-p8694": {
+   "available": false,
+   "price": "£9.00",
+   "title": "Bigjigs NeeDoh Teenie Swirl Fidget Toy 4 Pack",
+   "url": "https://www.toytownstores.com/toys-c6/pocket-money-c144/fidget-toys-c145/bigjigs-needoh-teenie-swirl-fidget-toy-4-pack-p8694"
   },
   "Toytown|https://www.toytownstores.com/toys-c6/pocket-money-c144/fidget-toys-c145/bigjigs-nice-cube-needoh-sold-individually-p7963": {
    "available": false,
