@@ -314,10 +314,6 @@
    "since": 1793206714.6797936,
    "warned": true
   },
-  "Isaac's Treasures": {
-   "since": 1795002946.0970898,
-   "warned": false
-  },
   "John Lewis": {
    "since": 1793206714.6797817,
    "warned": true
@@ -3320,7 +3316,7 @@
   },
   "Isaac's Treasures|46247": {
    "available": false,
-   "price": "£5.99",
+   "price": "£8.99",
    "title": "NeeDoh Sploot Splat",
    "url": "https://www.isaacstreasures.com/product/bigjigs-sploot-splat-needoh/"
   },
