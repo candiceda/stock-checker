@@ -326,11 +326,11 @@
  },
  "full_scan_slot": 997227,
  "last_checked": {
-  "Austins": 1795008553.2590506,
-  "Hobbycraft": 1795008553.2589164,
-  "John Lewis": 1795008553.25891,
-  "Toytown": 1795008553.2582633,
-  "Urban Outfitters": 1795008553.2587523
+  "Austins": 1795009071.2875724,
+  "Hobbycraft": 1795009071.2873847,
+  "John Lewis": 1795009071.2873688,
+  "Toytown": 1795009071.2864544,
+  "Urban Outfitters": 1795009071.2870996
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -7131,7 +7131,7 @@
    "url": "https://www.toytownstores.com/toys-c6/pocket-money-c144/bigjigs-needoh-teenie-nice-ice-baby-cube-one-supplied-at-random-p8286"
   },
   "Toytown|https://www.toytownstores.com/toys-c6/pocket-money-c144/fidget-toys-c145/abgee-worlds-smallest-needoh-p8691": {
-   "available": true,
+   "available": false,
    "price": "£6.00",
    "title": "ABGee World's Smallest NeeDoh",
    "url": "https://www.toytownstores.com/toys-c6/pocket-money-c144/fidget-toys-c145/abgee-worlds-smallest-needoh-p8691"
