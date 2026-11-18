@@ -206,8 +206,7 @@
   ],
   "Jukupop": [
    "scrunchems-marshmallow-squishy",
-   "speks-christmas-bundle-includes-gump-tree-5-other-items",
-   "needoh-fuzz-ball-wonder-slow-rise-waves-sensory-fidget-toy"
+   "speks-christmas-bundle-includes-gump-tree-5-other-items"
   ],
   "Junior Edition": [],
   "Learning Space": [
@@ -316,6 +315,10 @@
    "since": 1793206714.6797936,
    "warned": true
   },
+  "Jadlam Toys": {
+   "since": 1795023086.1537476,
+   "warned": false
+  },
   "John Lewis": {
    "since": 1793206714.6797817,
    "warned": true
@@ -326,7 +329,7 @@
   },
   "Waterstones": 2
  },
- "full_scan_slot": 997234,
+ "full_scan_slot": 997235,
  "last_checked": {
   "Austins": 1795022923.794396,
   "Hobbycraft": 1795022923.7942529,
