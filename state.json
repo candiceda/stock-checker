@@ -62,7 +62,9 @@
    "https://www.tinknstink.co.uk/lava-squish-n-flow-lava-lamp.html",
    "https://www.tinknstink.co.uk/polar-glow-penguin-needoh.html"
   ],
-  "Toytown": [],
+  "Toytown": [
+   "https://www.toytownstores.com/toys-c6/pocket-money-c144/fidget-toys-c145/abgee-worlds-smallest-needoh-p8691"
+  ],
   "Urban Outfitters": [],
   "Waterstones": []
  },
@@ -328,11 +330,11 @@
  },
  "full_scan_slot": 997220,
  "last_checked": {
-  "Austins": 1794996109.1296797,
-  "Hobbycraft": 1794996109.1294882,
-  "John Lewis": 1794996109.1294796,
-  "Toytown": 1794996109.1286588,
-  "Urban Outfitters": 1794996109.1292784
+  "Austins": 1794996616.9483292,
+  "Hobbycraft": 1794996616.948193,
+  "John Lewis": 1794996616.9481878,
+  "Toytown": 1794996616.7031796,
+  "Urban Outfitters": 1794996616.94798
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -7134,6 +7136,12 @@
    "price": "£2.50",
    "title": "Bigjigs Needoh Teenie Nice Ice Baby Cube - One supplied at random",
    "url": "https://www.toytownstores.com/toys-c6/pocket-money-c144/bigjigs-needoh-teenie-nice-ice-baby-cube-one-supplied-at-random-p8286"
+  },
+  "Toytown|https://www.toytownstores.com/toys-c6/pocket-money-c144/fidget-toys-c145/abgee-worlds-smallest-needoh-p8691": {
+   "available": true,
+   "price": "£6.00",
+   "title": "ABGee World's Smallest NeeDoh",
+   "url": "https://www.toytownstores.com/toys-c6/pocket-money-c144/fidget-toys-c145/abgee-worlds-smallest-needoh-p8691"
   },
   "Toytown|https://www.toytownstores.com/toys-c6/pocket-money-c144/fidget-toys-c145/bigjigs-fuzz-ball-wonder-waves-needoh-one-supplied-at-random-p7965": {
    "available": false,
