@@ -327,11 +327,11 @@
  },
  "full_scan_slot": 997244,
  "last_checked": {
-  "Austins": 1795039257.5433555,
-  "Hobbycraft": 1795039257.5430958,
-  "John Lewis": 1795039257.5430784,
-  "Toytown": 1795039257.5417678,
-  "Urban Outfitters": 1795039257.5427573
+  "Austins": 1795039787.720074,
+  "Hobbycraft": 1795039787.7198167,
+  "John Lewis": 1795039787.7198074,
+  "Toytown": 1795039787.719045,
+  "Urban Outfitters": 1795039787.7196069
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -6817,7 +6817,7 @@
   "Tinker & Tot|hot-shots-teenie-needoh-pack-of-4": {
    "available": false,
    "options": {},
-   "price": "£11.00",
+   "price": "£10.00",
    "title": "Hot Shots Teenie NeeDoh - Pack of 4",
    "url": "https://tinkerandtot.co.uk/products/hot-shots-teenie-needoh-pack-of-4"
   },
