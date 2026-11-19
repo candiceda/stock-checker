@@ -319,19 +319,15 @@
    "since": 1793206714.6797817,
    "warned": true
   },
-  "Urban Outfitters": {
-   "since": 1795037835.805131,
-   "warned": true
-  },
   "Waterstones": 2
  },
  "full_scan_slot": 997266,
  "last_checked": {
-  "Austins": 1795078782.4105334,
-  "Hobbycraft": 1795078782.4103165,
-  "John Lewis": 1795078782.4103038,
-  "Toytown": 1795078782.4093072,
-  "Urban Outfitters": 1795078782.4100428
+  "Austins": 1795079283.8144069,
+  "Hobbycraft": 1795079283.8141565,
+  "John Lewis": 1795079283.8141375,
+  "Toytown": 1795079283.5615478,
+  "Urban Outfitters": 1795079283.5624318
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -3527,7 +3523,7 @@
   },
   "Isaac's Treasures|92840": {
    "available": false,
-   "price": "£6.95",
+   "price": "£6.99",
    "title": "NeeDoh Snow Ball Crunch Stress Ball",
    "url": "https://www.isaacstreasures.com/product/needoh-snow-ball-crunch-stress-ball/"
   },
