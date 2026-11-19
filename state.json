@@ -328,11 +328,11 @@
  },
  "full_scan_slot": 997285,
  "last_checked": {
-  "Austins": 1795112885.424274,
-  "Hobbycraft": 1795112885.4241312,
-  "John Lewis": 1795112885.4241228,
-  "Toytown": 1795112885.4232206,
-  "Urban Outfitters": 1795112885.4239368
+  "Austins": 1795113383.9473927,
+  "Hobbycraft": 1795113383.9472375,
+  "John Lewis": 1795113383.9472294,
+  "Toytown": 1795113383.9465759,
+  "Urban Outfitters": 1795113383.9470518
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -2069,11 +2069,8 @@
    "url": "https://funhousetoys.co.uk/products/needoh-piece-o-cake-new-for-2026-launching-august"
   },
   "Funhouse Toys|needoh-swirl-cube-set-of-4": {
-   "available": true,
-   "checkout": "https://funhousetoys.co.uk/cart/60571884912985:1",
-   "options": {
-    "60571884912985": "Default Title"
-   },
+   "available": false,
+   "options": {},
    "price": "£34.99",
    "title": "Needoh Swirl Cube - SET OF 4",
    "url": "https://funhousetoys.co.uk/products/needoh-swirl-cube-set-of-4"
