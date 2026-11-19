@@ -130,7 +130,8 @@
    "needoh-nice-sicle",
    "needoh-niceberg-jumbo-squishy",
    "needoh-piece-o-cake-new-for-2026-launching-august",
-   "scrunchems-marshmallow-foam-squishy"
+   "scrunchems-marshmallow-foam-squishy",
+   "needoh-swirl-cube-set-of-4"
   ],
   "Funky Fidgets": [
    "coming-soon",
@@ -2066,6 +2067,16 @@
    "price": "£7.99",
    "title": "Coming Soon... Needoh Peace O' Cake - NEW FOR 2026",
    "url": "https://funhousetoys.co.uk/products/needoh-piece-o-cake-new-for-2026-launching-august"
+  },
+  "Funhouse Toys|needoh-swirl-cube-set-of-4": {
+   "available": true,
+   "checkout": "https://funhousetoys.co.uk/cart/60571884912985:1",
+   "options": {
+    "60571884912985": "Default Title"
+   },
+   "price": "£34.99",
+   "title": "Needoh Swirl Cube - SET OF 4",
+   "url": "https://funhousetoys.co.uk/products/needoh-swirl-cube-set-of-4"
   },
   "Funhouse Toys|scrunchems-marshmallow-foam-squishy": {
    "available": false,
