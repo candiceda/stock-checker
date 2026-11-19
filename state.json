@@ -327,11 +327,11 @@
  },
  "full_scan_slot": 997261,
  "last_checked": {
-  "Austins": 1795070828.9399989,
-  "Hobbycraft": 1795070828.9398432,
-  "John Lewis": 1795070828.9398313,
-  "Toytown": 1795070828.9388556,
-  "Urban Outfitters": 1795070828.9395993
+  "Austins": 1795071282.5754364,
+  "Hobbycraft": 1795071282.575184,
+  "John Lewis": 1795071282.5751593,
+  "Toytown": 1795071282.573772,
+  "Urban Outfitters": 1795071282.574777
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -3524,6 +3524,12 @@
    "price": "£3.49",
    "title": "Color Changing NeeDoh",
    "url": "https://www.isaacstreasures.com/product/bigjigs-color-changing-needoh/"
+  },
+  "Isaac's Treasures|92840": {
+   "available": false,
+   "price": "£6.00",
+   "title": "NeeDoh Snow Ball Crunch Stress Ball",
+   "url": "https://www.isaacstreasures.com/product/needoh-snow-ball-crunch-stress-ball/"
   },
   "JKDIRECT|needoh": {
    "available": false,
