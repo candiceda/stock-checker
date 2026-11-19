@@ -1721,7 +1721,7 @@
   "Fidget Fables|needoh-dohnut": {
    "available": false,
    "options": {},
-   "price": "£13.00",
+   "price": "£12.00",
    "title": "Needoh Dohnut",
    "url": "https://fidgetfables.com/products/needoh-dohnut"
   },
@@ -1938,7 +1938,7 @@
   "Fidget Fables|needoh-teenie-cool-cats-4-pack": {
    "available": false,
    "options": {},
-   "price": "£13.00",
+   "price": "£12.00",
    "title": "Needoh Teenie Cool Cats 4 Pack",
    "url": "https://fidgetfables.com/products/needoh-teenie-cool-cats-4-pack"
   },
@@ -1952,14 +1952,14 @@
   "Fidget Fables|needoh-teenie-fuzz-ball-4-pack": {
    "available": false,
    "options": {},
-   "price": "£13.00",
+   "price": "£12.00",
    "title": "Needoh Teenie Fuzz Ball 4 Pack",
    "url": "https://fidgetfables.com/products/needoh-teenie-fuzz-ball-4-pack"
   },
   "Fidget Fables|needoh-teenie-nice-ice-baby-4-pack": {
    "available": false,
    "options": {},
-   "price": "£13.00",
+   "price": "£12.00",
    "title": "Needoh Teenie Nice Ice Baby 4 Pack",
    "url": "https://fidgetfables.com/products/needoh-teenie-nice-ice-baby-4-pack"
   },
@@ -4129,11 +4129,8 @@
    "url": "https://www.jadlamracingmodels.com/products/needoh-2026-advent-calendar"
   },
   "Jadlam Toys|needoh-candy-swirl-nice-cube": {
-   "available": true,
-   "checkout": "https://www.jadlamracingmodels.com/cart/55326622450001:1",
-   "options": {
-    "55326622450001": "Default Title"
-   },
+   "available": false,
+   "options": {},
    "price": "£6.95",
    "title": "NeeDoh Candy Swirl Nice Cube",
    "url": "https://www.jadlamracingmodels.com/products/needoh-candy-swirl-nice-cube"
