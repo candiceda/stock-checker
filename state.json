@@ -319,15 +319,19 @@
    "since": 1793206714.6797817,
    "warned": true
   },
+  "Urban Outfitters": {
+   "since": 1795086893.6244726,
+   "warned": false
+  },
   "Waterstones": 2
  },
  "full_scan_slot": 997270,
  "last_checked": {
-  "Austins": 1795086433.4253638,
-  "Hobbycraft": 1795086433.4251559,
-  "John Lewis": 1795086433.42514,
-  "Toytown": 1795086433.4241595,
-  "Urban Outfitters": 1795086433.4248776
+  "Austins": 1795086893.6249764,
+  "Hobbycraft": 1795086893.6247644,
+  "John Lewis": 1795086893.6247518,
+  "Toytown": 1795086893.6237497,
+  "Urban Outfitters": 1795086893.6244698
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -3799,7 +3803,7 @@
   "JKDIRECT|needoh-nice-berg": {
    "available": false,
    "options": {},
-   "price": "£41.00",
+   "price": "£38.00",
    "title": "NeeDoh Nice Berg Blue",
    "url": "https://jkdirectstore.com/products/needoh-nice-berg"
   },
