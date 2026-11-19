@@ -323,11 +323,11 @@
  },
  "full_scan_slot": 997270,
  "last_checked": {
-  "Austins": 1795085937.0664845,
-  "Hobbycraft": 1795085937.0662806,
-  "John Lewis": 1795085937.0662663,
-  "Toytown": 1795085937.065306,
-  "Urban Outfitters": 1795085937.0660112
+  "Austins": 1795086433.4253638,
+  "Hobbycraft": 1795086433.4251559,
+  "John Lewis": 1795086433.42514,
+  "Toytown": 1795086433.4241595,
+  "Urban Outfitters": 1795086433.4248776
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -4299,8 +4299,11 @@
    "url": "https://www.jadlamracingmodels.com/products/needoh-niceberg-swirl-large-ice-cube-sensory-fidget-toy"
   },
   "Jadlam Toys|needoh-polar-glow-penguins-squishy-sensory-toy": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://www.jadlamracingmodels.com/cart/54861305807185:1",
+   "options": {
+    "54861305807185": "Default Title"
+   },
    "price": "£9.95",
    "title": "NeeDoh Polar Glow Penguin - Assorted",
    "url": "https://www.jadlamracingmodels.com/products/needoh-polar-glow-penguins-squishy-sensory-toy"
