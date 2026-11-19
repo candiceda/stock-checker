@@ -327,11 +327,11 @@
  },
  "full_scan_slot": 997252,
  "last_checked": {
-  "Austins": 1795053685.557199,
-  "Hobbycraft": 1795053685.5568762,
-  "John Lewis": 1795053685.55685,
-  "Toytown": 1795053685.5554676,
-  "Urban Outfitters": 1795053685.5563962
+  "Austins": 1795054183.534148,
+  "Hobbycraft": 1795054183.5339153,
+  "John Lewis": 1795054183.5339048,
+  "Toytown": 1795054183.532823,
+  "Urban Outfitters": 1795054183.5337014
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -2300,7 +2300,7 @@
   "Giftology|stress-ball-snowball-crunch-toy-individual-needoh": {
    "available": false,
    "options": {},
-   "price": "£13.00",
+   "price": "£12.00",
    "title": "Stress Ball: Snowball Crunch Toy Individual - Needoh",
    "url": "https://giftology-uk.com/products/stress-ball-snowball-crunch-toy-individual-needoh"
   },
@@ -6817,7 +6817,7 @@
   "Tinker & Tot|hot-shots-teenie-needoh-pack-of-4": {
    "available": false,
    "options": {},
-   "price": "£11.00",
+   "price": "£10.00",
    "title": "Hot Shots Teenie NeeDoh - Pack of 4",
    "url": "https://tinkerandtot.co.uk/products/hot-shots-teenie-needoh-pack-of-4"
   },
