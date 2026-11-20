@@ -318,13 +318,13 @@
   },
   "Waterstones": 2
  },
- "full_scan_slot": 997333,
+ "full_scan_slot": 997334,
  "last_checked": {
-  "Austins": 1795200940.2965875,
-  "Hobbycraft": 1795200940.2963398,
-  "John Lewis": 1795200940.2963204,
-  "Toytown": 1795200940.2950299,
-  "Urban Outfitters": 1795200940.2959476
+  "Austins": 1795201444.4578323,
+  "Hobbycraft": 1795201444.4575338,
+  "John Lewis": 1795201444.4575212,
+  "Toytown": 1795201444.2645094,
+  "Urban Outfitters": 1795201444.4571393
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -472,6 +472,18 @@
    "price": "£6.99",
    "title": "NeeDoh Nice Cube Glitter & Glow",
    "url": "https://www.alissensoryboxes.com/products/nice-cube-glitter-glow-needoh"
+  },
+  "Ali's Sensory Boxes|nicecube-swirl-needoh": {
+   "available": true,
+   "checkout": "https://www.alissensoryboxes.com/cart/54141084565842:1",
+   "options": {
+    "54141084565842": "Oranges/yellows/MIX",
+    "54141084598610": "Greens/blues/MIX",
+    "54141084631378": "Purples/pinks/MIX"
+   },
+   "price": "£7.50",
+   "title": "NeeDoh Nice Cube Swirl",
+   "url": "https://www.alissensoryboxes.com/products/nicecube-swirl-needoh"
   },
   "Ali's Sensory Boxes|super-needoh-fuzz-ball": {
    "available": false,
