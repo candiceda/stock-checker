@@ -6564,8 +6564,11 @@
    "url": "https://thekidcollective.co.uk/products/needoh-nice-cube-glow"
   },
   "The Kid Collective|needoh-nice-cube-swirl": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://thekidcollective.co.uk/cart/55094170943823:1",
+   "options": {
+    "55094170943823": "Default Title"
+   },
    "price": "£6.95",
    "title": "NeeDoh Nice Cube Swirl",
    "url": "https://thekidcollective.co.uk/products/needoh-nice-cube-swirl"
@@ -6620,8 +6623,11 @@
    "url": "https://thekidcollective.co.uk/products/needoh-snow-ball-crunch"
   },
   "The Kid Collective|needoh-sploot-splat": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://thekidcollective.co.uk/cart/55094170517839:1",
+   "options": {
+    "55094170517839": "Default Title"
+   },
    "price": "£5.95",
    "title": "NeeDoh Sploot Splat",
    "url": "https://thekidcollective.co.uk/products/needoh-sploot-splat"
