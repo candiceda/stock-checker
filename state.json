@@ -320,11 +320,11 @@
  },
  "full_scan_slot": 997340,
  "last_checked": {
-  "Austins": 1795212075.663126,
-  "Hobbycraft": 1795212075.6628838,
-  "John Lewis": 1795212075.662857,
-  "Toytown": 1795212075.6614072,
-  "Urban Outfitters": 1795212075.6624427
+  "Austins": 1795212578.3114061,
+  "Hobbycraft": 1795212578.3111308,
+  "John Lewis": 1795212578.3111112,
+  "Toytown": 1795212578.3097844,
+  "Urban Outfitters": 1795212578.310742
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -3604,7 +3604,7 @@
   "JKDIRECT|needoh-candy-swirl-bundle": {
    "available": false,
    "options": {},
-   "price": "£20.00",
+   "price": "£21.00",
    "title": "NeeDoh Candy Swirl Bundle",
    "url": "https://jkdirectstore.com/products/needoh-candy-swirl-bundle"
   },
@@ -3632,7 +3632,7 @@
   "JKDIRECT|needoh-color-change": {
    "available": false,
    "options": {},
-   "price": "£20.00",
+   "price": "£21.00",
    "title": "NeeDoh Color Change",
    "url": "https://jkdirectstore.com/products/needoh-color-change"
   },
@@ -3830,7 +3830,7 @@
   "JKDIRECT|needoh-nice-cube-blue": {
    "available": false,
    "options": {},
-   "price": "£20.00",
+   "price": "£21.00",
    "title": "NeeDoh Nice Cube",
    "url": "https://jkdirectstore.com/products/needoh-nice-cube-blue"
   },
@@ -3970,7 +3970,7 @@
   "JKDIRECT|needoh-swirl-4-pack": {
    "available": false,
    "options": {},
-   "price": "£24.00",
+   "price": "£25.00",
    "title": "NeeDoh Swirl 4 Pack",
    "url": "https://jkdirectstore.com/products/needoh-swirl-4-pack"
   },
@@ -4891,7 +4891,7 @@
   "Maple Gifts|bigjigs-toys-niceberg-glitter-and-glow-needoh": {
    "available": false,
    "options": {},
-   "price": "£20.00",
+   "price": "£21.00",
    "title": "Bigjigs Toys Niceberg Glitter and Glow Needoh",
    "url": "https://maplegifts.co.uk/products/bigjigs-toys-niceberg-glitter-and-glow-needoh"
   },
