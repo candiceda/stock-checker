@@ -6347,8 +6347,11 @@
    "url": "https://www.thedyslexiashop.co.uk/products/rainboh-teenie-needoh"
   },
   "The Dyslexia Shop|scrunchems-marshmallow-squishy-slow-rise-foam-toy": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://www.thedyslexiashop.co.uk/cart/57653945074046:1",
+   "options": {
+    "57653945074046": "Default Title"
+   },
    "price": "£5.99",
    "title": "Scrunchems Marshmallow Squishy - Slow-Rise Foam Toy",
    "url": "https://www.thedyslexiashop.co.uk/products/scrunchems-marshmallow-squishy-slow-rise-foam-toy"
