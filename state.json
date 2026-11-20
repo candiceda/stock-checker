@@ -474,8 +474,12 @@
    "url": "https://www.alissensoryboxes.com/products/nice-cube-glitter-glow-needoh"
   },
   "Ali's Sensory Boxes|nicecube-swirl-needoh": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://www.alissensoryboxes.com/cart/54141084598610:1",
+   "options": {
+    "54141084598610": "Greens/blues/MIX",
+    "54141084631378": "Purples/pinks/MIX"
+   },
    "price": "£7.50",
    "title": "NeeDoh Nice Cube Swirl",
    "url": "https://www.alissensoryboxes.com/products/nicecube-swirl-needoh"
