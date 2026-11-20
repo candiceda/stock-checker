@@ -317,11 +317,11 @@
  },
  "full_scan_slot": 997302,
  "last_checked": {
-  "Austins": 1795143678.9222624,
-  "Hobbycraft": 1795143678.9221017,
-  "John Lewis": 1795143678.9220905,
-  "Toytown": 1795143678.921301,
-  "Urban Outfitters": 1795143678.9218633
+  "Austins": 1795144171.0159583,
+  "Hobbycraft": 1795144171.0158281,
+  "John Lewis": 1795144171.0158224,
+  "Toytown": 1795144171.0152357,
+  "Urban Outfitters": 1795144171.0156825
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -4058,14 +4058,14 @@
   "JKDIRECT|needoh-teenie-ripples": {
    "available": false,
    "options": {},
-   "price": "£16.00",
+   "price": "£17.00",
    "title": "NeeDoh Teenie Ripples",
    "url": "https://jkdirectstore.com/products/needoh-teenie-ripples"
   },
   "JKDIRECT|needoh-teenie-swirl": {
    "available": false,
    "options": {},
-   "price": "£16.00",
+   "price": "£17.00",
    "title": "NeeDoh Teenie Swirl",
    "url": "https://jkdirectstore.com/products/needoh-teenie-swirl"
   },
