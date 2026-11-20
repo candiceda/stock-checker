@@ -319,11 +319,11 @@
  },
  "full_scan_slot": 997318,
  "last_checked": {
-  "Austins": 1795172475.059356,
-  "Hobbycraft": 1795172475.0592215,
-  "John Lewis": 1795172475.0592148,
-  "Toytown": 1795172475.0585713,
-  "Urban Outfitters": 1795172475.0590556
+  "Austins": 1795172987.7691376,
+  "Hobbycraft": 1795172987.7690065,
+  "John Lewis": 1795172987.769001,
+  "Toytown": 1795172987.7683384,
+  "Urban Outfitters": 1795172987.7688558
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -4853,7 +4853,7 @@
   "Maple Gifts|bigjigs-toys-needoh-colour-changing-cube": {
    "available": false,
    "options": {},
-   "price": "£8.00",
+   "price": "£9.00",
    "title": "Bigjigs Toys Needoh Colour Changing Cube",
    "url": "https://maplegifts.co.uk/products/bigjigs-toys-needoh-colour-changing-cube"
   },
