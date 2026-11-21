@@ -5330,11 +5330,8 @@
    "url": "https://rainbownationclothing.com/products/needoh-teenies-singles"
   },
   "Roskai|christmas-mixed-textures-squishy-bundle-including-needoh-candy-swirl": {
-   "available": true,
-   "checkout": "https://roskai.com/cart/67927832559931:1",
-   "options": {
-    "67927832559931": "Boys bundle"
-   },
+   "available": false,
+   "options": {},
    "price": "£39.99",
    "title": "Christmas mixed squishy bundle including Needoh Candy Swirl (7 items in total)",
    "url": "https://roskai.com/products/christmas-mixed-textures-squishy-bundle-including-needoh-candy-swirl"
@@ -5501,8 +5498,13 @@
    "url": "https://roskai.com/products/nice-cube-needoh-sold-individually-sensory-fidget-stress-toy"
   },
   "Roskai|nice-cube-swirl-needoh-sensory-fidget": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://roskai.com/cart/50478037139771:1",
+   "options": {
+    "50478037139771": "Pink/purple",
+    "50478037172539": "Green",
+    "50478037205307": "Orange"
+   },
    "price": "£7.99",
    "title": "Needoh Nice Cube Swirl sensory fidget",
    "url": "https://roskai.com/products/nice-cube-swirl-needoh-sensory-fidget"
