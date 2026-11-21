@@ -320,11 +320,11 @@
  },
  "full_scan_slot": 997382,
  "last_checked": {
-  "Austins": 1795288434.707443,
-  "Hobbycraft": 1795288434.7071338,
-  "John Lewis": 1795288434.7071137,
-  "Toytown": 1795288434.7050805,
-  "Urban Outfitters": 1795288434.7067525
+  "Austins": 1795288895.0342767,
+  "Hobbycraft": 1795288895.034034,
+  "John Lewis": 1795288895.0340075,
+  "Toytown": 1795288894.9066322,
+  "Urban Outfitters": 1795288895.0335839
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -5330,8 +5330,11 @@
    "url": "https://rainbownationclothing.com/products/needoh-teenies-singles"
   },
   "Roskai|christmas-mixed-textures-squishy-bundle-including-needoh-candy-swirl": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://roskai.com/cart/67927832559931:1",
+   "options": {
+    "67927832559931": "Boys bundle"
+   },
    "price": "£39.99",
    "title": "Christmas mixed squishy bundle including Needoh Candy Swirl (7 items in total)",
    "url": "https://roskai.com/products/christmas-mixed-textures-squishy-bundle-including-needoh-candy-swirl"
