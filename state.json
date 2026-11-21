@@ -92,6 +92,7 @@
    "teenie-needoh-fuzz-ball-damaged-box-x-rtsyfzbtnd"
   ],
   "Chocoloons": [
+   "needoh-snow-ball-crunch",
    "scrunchems-marshmallow-squishy"
   ],
   "Cloud Nine Boutique": [
@@ -318,7 +319,7 @@
   },
   "Waterstones": 2
  },
- "full_scan_slot": 997376,
+ "full_scan_slot": 997377,
  "last_checked": {
   "Austins": 1795278400.0302327,
   "Hobbycraft": 1795278400.0299761,
@@ -1053,6 +1054,13 @@
    "price": "£6.99",
    "title": "NeeDoh Teenie Fuzz Ball - Mini Fuzzy Stress Balls for Kids, Squishy Sensory Toy",
    "url": "https://www.bigjigstoys.co.uk/products/teenie-needoh-fuzz-ball-syfzbtnd"
+  },
+  "Chocoloons|needoh-snow-ball-crunch": {
+   "available": false,
+   "options": {},
+   "price": "£0.00",
+   "title": "NeeDoh Snow Ball Crunch",
+   "url": "https://chocoloonstoys.com/products/needoh-snow-ball-crunch"
   },
   "Chocoloons|scrunchems-marshmallow-squishy": {
    "available": true,
