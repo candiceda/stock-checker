@@ -318,7 +318,7 @@
   },
   "Waterstones": 2
  },
- "full_scan_slot": 997379,
+ "full_scan_slot": 997380,
  "last_checked": {
   "Austins": 1795284131.452039,
   "Hobbycraft": 1795284131.451823,
@@ -2298,8 +2298,14 @@
    "url": "https://giftology-uk.com/products/stress-ball-nice-cube-fidget-toy-individual-glow-in-the-dark-assorted-colours-needoh"
   },
   "Giftology|stress-ball-nice-cube-swirl-fidget-toy-individual-needoh": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://giftology-uk.com/cart/51469369180488:1",
+   "options": {
+    "51469369180488": "Purple",
+    "51469369213256": "Orange",
+    "51469369278792": "Pink",
+    "53108061667656": "Green"
+   },
    "price": "£18.00",
    "title": "Stress Ball: Nice Cube Swirl - Fidget Toy Individual - Needoh",
    "url": "https://giftology-uk.com/products/stress-ball-nice-cube-swirl-fidget-toy-individual-needoh"
@@ -2319,8 +2325,13 @@
    "url": "https://giftology-uk.com/products/stress-ball-snowball-crunch-toy-individual-needoh"
   },
   "Giftology|stress-ball-sploot-splat-fidget-toy-individual-blob-like-extensions-assorted-colours": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://giftology-uk.com/cart/51901361652040:1",
+   "options": {
+    "51901361652040": "Purple",
+    "51901361684808": "Green",
+    "51901361717576": "Blue"
+   },
    "price": "£21.00",
    "title": "Stress Ball: Sploot Splat Fidget Toy Individual - Blob - Assorted Colours - NEEDOH",
    "url": "https://giftology-uk.com/products/stress-ball-sploot-splat-fidget-toy-individual-blob-like-extensions-assorted-colours"
