@@ -291,7 +291,7 @@
   "City Beach UK": 1794357257.4755497,
   "Cloud Nine Boutique": 1793504295.8748732,
   "Hobbycraft": 1793217833.2333064,
-  "Isaac's Treasures": 1794284148.9079657,
+  "Isaac's Treasures": 1795386489.8000612,
   "John Lewis": 1793217833.1281118,
   "Urban Outfitters": 1795147008.0496962
  },
@@ -311,7 +311,7 @@
   },
   "Isaac's Treasures": {
    "since": 1795375616.0424376,
-   "warned": false
+   "warned": true
   },
   "John Lewis": {
    "since": 1793206714.6797817,
