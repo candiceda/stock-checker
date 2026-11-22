@@ -194,7 +194,8 @@
    "needoh-wow-flake-us-exclusive",
    "untitled-30-oct-at-15-03",
    "untitled-30-oct-at-20-33",
-   "world-s-smallest-needoh"
+   "world-s-smallest-needoh",
+   "needoh-teenie-cool-cube"
   ],
   "Jadlam Toys": [],
   "Jukupop": [
@@ -320,11 +321,11 @@
  },
  "full_scan_slot": 997421,
  "last_checked": {
-  "Austins": 1795358258.505438,
-  "Hobbycraft": 1795358258.5052464,
-  "John Lewis": 1795358258.5052352,
-  "Toytown": 1795358258.5042663,
-  "Urban Outfitters": 1795358258.5049636
+  "Austins": 1795358722.7206748,
+  "Hobbycraft": 1795358722.7204552,
+  "John Lewis": 1795358722.7204392,
+  "Toytown": 1795358722.7193174,
+  "Urban Outfitters": 1795358722.7201235
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -4012,7 +4013,7 @@
   "JKDIRECT|needoh-teenie-cool-cube": {
    "available": false,
    "options": {},
-   "price": "£17.00",
+   "price": "£16.00",
    "title": "NeeDoh Teenie Cool Cube",
    "url": "https://jkdirectstore.com/products/needoh-teenie-cool-cube"
   },
