@@ -122,6 +122,7 @@
   "Funhouse Toys": [
    "needoh-advent-calendar-24-day-of-squishmas",
    "needoh-candy-swirl-nice-cube",
+   "needoh-colour-change-cube",
    "needoh-donut-colour-picked-at-random",
    "needoh-jelly-squish-pink-blue-or-purple",
    "needoh-nice-cream-cone",
@@ -131,8 +132,7 @@
    "needoh-niceberg-jumbo-squishy",
    "needoh-piece-o-cake-new-for-2026-launching-august",
    "needoh-swirl-cube-set-of-4",
-   "scrunchems-marshmallow-foam-squishy",
-   "needoh-colour-change-cube"
+   "scrunchems-marshmallow-foam-squishy"
   ],
   "Funky Fidgets": [
    "coming-soon",
@@ -319,7 +319,7 @@
   },
   "Waterstones": 2
  },
- "full_scan_slot": 997459,
+ "full_scan_slot": 997460,
  "last_checked": {
   "Austins": 1795428089.0401127,
   "Hobbycraft": 1795428089.0400221,
