@@ -131,7 +131,8 @@
    "needoh-niceberg-jumbo-squishy",
    "needoh-piece-o-cake-new-for-2026-launching-august",
    "needoh-swirl-cube-set-of-4",
-   "scrunchems-marshmallow-foam-squishy"
+   "scrunchems-marshmallow-foam-squishy",
+   "needoh-colour-change-cube"
   ],
   "Funky Fidgets": [
    "coming-soon",
@@ -2017,6 +2018,13 @@
    "price": "£8.99",
    "title": "NeeDoh Candy Swirl Nice Cube",
    "url": "https://funhousetoys.co.uk/products/needoh-candy-swirl-nice-cube"
+  },
+  "Funhouse Toys|needoh-colour-change-cube": {
+   "available": false,
+   "options": {},
+   "price": "£6.99",
+   "title": "NeeDoh Colour Change Cube",
+   "url": "https://funhousetoys.co.uk/products/needoh-colour-change-cube"
   },
   "Funhouse Toys|needoh-donut-colour-picked-at-random": {
    "available": false,
