@@ -2151,8 +2151,11 @@
    "url": "https://funkyfidgetsshop.co.uk/products/scrunchems-squishy-marshmallow"
   },
   "Funkytoystore|needoh-2026-advent-calendar": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://www.funkytoystore.com/cart/58228802060619:1",
+   "options": {
+    "58228802060619": "Default Title"
+   },
    "price": "£80.00",
    "title": "NeeDoh 2026 Advent Calendar",
    "url": "https://www.funkytoystore.com/products/needoh-2026-advent-calendar"
@@ -2181,7 +2184,7 @@
   "Funkytoystore|needoh-glitter-and-glow-nice-cube": {
    "available": false,
    "options": {},
-   "price": "£19.00",
+   "price": "£20.00",
    "title": "NeeDoh Glitter and Glow Nice Cube",
    "url": "https://www.funkytoystore.com/products/needoh-glitter-and-glow-nice-cube"
   },
