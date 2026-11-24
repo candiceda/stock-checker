@@ -325,11 +325,11 @@
  },
  "full_scan_slot": 997518,
  "last_checked": {
-  "Austins": 1795532241.819129,
-  "Hobbycraft": 1795532241.8189237,
-  "John Lewis": 1795532241.818908,
-  "Toytown": 1795532241.8179305,
-  "Urban Outfitters": 1795532241.818623
+  "Austins": 1795532747.6358361,
+  "Hobbycraft": 1795532747.635609,
+  "John Lewis": 1795532747.6355915,
+  "Toytown": 1795532747.6344812,
+  "Urban Outfitters": 1795532747.6352632
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -6413,7 +6413,7 @@
   "The Dyslexia Shop|nice-berg-needoh": {
    "available": false,
    "options": {},
-   "price": "£13.00",
+   "price": "£15.98",
    "title": "Nice Berg Needoh",
    "url": "https://www.thedyslexiashop.co.uk/products/nice-berg-needoh"
   },
