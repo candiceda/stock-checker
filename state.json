@@ -180,6 +180,7 @@
    "needoh-pink-colour-change-bundle-5-items-included",
    "needoh-polar-glow-penguin",
    "needoh-purple-funky-pup-bundle-4-items-included",
+   "needoh-snowball-crunch-bundle-w-sticker-pack",
    "needoh-sploot-splat-blue",
    "needoh-sugar-skull-cats",
    "needoh-super-fuzzball",
@@ -313,6 +314,10 @@
    "since": 1793206714.6797936,
    "warned": true
   },
+  "Jadlam Toys": {
+   "since": 1795534354.995434,
+   "warned": false
+  },
   "John Lewis": {
    "since": 1793206714.6797817,
    "warned": true
@@ -323,7 +328,7 @@
   },
   "Waterstones": 2
  },
- "full_scan_slot": 997518,
+ "full_scan_slot": 997519,
  "last_checked": {
   "Austins": 1795534198.7886002,
   "Hobbycraft": 1795534198.788448,
@@ -3985,7 +3990,7 @@
   "JKDIRECT|needoh-snowball-crunch-bundle-w-sticker-pack": {
    "available": false,
    "options": {},
-   "price": "£41.00",
+   "price": "£34.00",
    "title": "Needoh Snowball Crunch Bundle w/ Sticker Pack",
    "url": "https://jkdirectstore.com/products/needoh-snowball-crunch-bundle-w-sticker-pack"
   },
