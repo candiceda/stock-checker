@@ -140,7 +140,11 @@
    "coming-soon-needoh-nice-cream-cone",
    "coming-soon-needoh-nice-sicle",
    "coming-soon-needoh-squeezza-pizza",
-   "needoh-candy-swirl-nice-cube"
+   "needoh-candy-swirl-nice-cube",
+   "needoh-nice-cube-swirl",
+   "needoh-sploot-splat",
+   "needoh-teenie-swirls",
+   "needoh-snowball-crunch"
   ],
   "Funkytoystore": [],
   "Giftology": [],
@@ -2138,14 +2142,45 @@
    "url": "https://funkyfidgetsshop.co.uk/products/halloween-bundle"
   },
   "Funky Fidgets|needoh-candy-swirl-nice-cube": {
-   "available": true,
-   "checkout": "https://funkyfidgetsshop.co.uk/cart/56509656105339:1",
-   "options": {
-    "56509656105339": "Default Title"
-   },
+   "available": false,
+   "options": {},
    "price": "£11.00",
    "title": "NeeDoh Candy Swirl Nice Cube",
    "url": "https://funkyfidgetsshop.co.uk/products/needoh-candy-swirl-nice-cube"
+  },
+  "Funky Fidgets|needoh-nice-cube-swirl": {
+   "available": true,
+   "checkout": "https://funkyfidgetsshop.co.uk/cart/55512488870267:1",
+   "options": {
+    "55512488870267": "Default Title"
+   },
+   "price": "£11.00",
+   "title": "NeeDoh Nice Cube Swirl",
+   "url": "https://funkyfidgetsshop.co.uk/products/needoh-nice-cube-swirl"
+  },
+  "Funky Fidgets|needoh-snowball-crunch": {
+   "available": false,
+   "options": {},
+   "price": "£11.00",
+   "title": "NeeDoh snowball crunch",
+   "url": "https://funkyfidgetsshop.co.uk/products/needoh-snowball-crunch"
+  },
+  "Funky Fidgets|needoh-sploot-splat": {
+   "available": false,
+   "options": {},
+   "price": "£11.00",
+   "title": "NeeDoh Sploot Splat",
+   "url": "https://funkyfidgetsshop.co.uk/products/needoh-sploot-splat"
+  },
+  "Funky Fidgets|needoh-teenie-swirls": {
+   "available": true,
+   "checkout": "https://funkyfidgetsshop.co.uk/cart/56189977592187:1",
+   "options": {
+    "56189977592187": "Default Title"
+   },
+   "price": "£14.00",
+   "title": "NeeDoh teenie swirls - 4 pack",
+   "url": "https://funkyfidgetsshop.co.uk/products/needoh-teenie-swirls"
   },
   "Funky Fidgets|scrunchems-squishy-marshmallow": {
    "available": false,
