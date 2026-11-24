@@ -226,7 +226,9 @@
    "speks-tree-gump"
   ],
   "Paper Tiger": [],
-  "Plush Paradise": [],
+  "Plush Paradise": [
+   "needoh-teenie-fuzz-ball-multipack-sensory-fidget-toy"
+  ],
   "Polhill Garden Centre": [],
   "Rainbow Nation": [],
   "Roskai": [
@@ -5340,6 +5342,13 @@
    "price": "£16.99",
    "title": "NeeDoh Niceberg Super Fidget Sensory Toy Approx 3.25 Inch (Blue x1 Supplied) – Limited to x1 per Customer/Household",
    "url": "https://plushparadise.co.uk/products/needoh-niceberg-super-fidget-sensory-toy-blue"
+  },
+  "Plush Paradise|needoh-teenie-fuzz-ball-multipack-sensory-fidget-toy": {
+   "available": false,
+   "options": {},
+   "price": "£12.99",
+   "title": "NeeDoh Teenie Fuzz Ball Multipack Sensory Fidget Toy (x1 Pack Supplied) – Limited to x2 Packs per Customer/Household",
+   "url": "https://plushparadise.co.uk/products/needoh-teenie-fuzz-ball-multipack-sensory-fidget-toy"
   },
   "Rainbow Nation|needoh-dream-drop": {
    "available": false,
