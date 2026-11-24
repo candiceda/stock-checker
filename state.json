@@ -326,11 +326,11 @@
  },
  "full_scan_slot": 997522,
  "last_checked": {
-  "Austins": 1795539970.3226311,
-  "Hobbycraft": 1795539970.3223698,
-  "John Lewis": 1795539970.3223548,
-  "Toytown": 1795539970.3210049,
-  "Urban Outfitters": 1795539970.3220263
+  "Austins": 1795540430.6079788,
+  "Hobbycraft": 1795540430.6076996,
+  "John Lewis": 1795540430.607689,
+  "Toytown": 1795540430.555338,
+  "Urban Outfitters": 1795540430.607441
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -7236,8 +7236,11 @@
    "url": "https://www.toys4you.co.uk/products/needoh-2026-squishmas-knittens-stress-ball-1-random-color"
   },
   "Toys4you|needoh-mello-mallo-stress-ball": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://www.toys4you.co.uk/cart/51269583372618:1",
+   "options": {
+    "51269583372618": "Default Title"
+   },
    "price": "£20.00",
    "title": "NeeDoh Mello Mallo Stress Ball",
    "url": "https://www.toys4you.co.uk/products/needoh-mello-mallo-stress-ball"
