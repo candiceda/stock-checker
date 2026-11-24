@@ -2173,11 +2173,8 @@
    "url": "https://funkyfidgetsshop.co.uk/products/needoh-sploot-splat"
   },
   "Funky Fidgets|needoh-teenie-swirls": {
-   "available": true,
-   "checkout": "https://funkyfidgetsshop.co.uk/cart/56189977592187:1",
-   "options": {
-    "56189977592187": "Default Title"
-   },
+   "available": false,
+   "options": {},
    "price": "£14.00",
    "title": "NeeDoh teenie swirls - 4 pack",
    "url": "https://funkyfidgetsshop.co.uk/products/needoh-teenie-swirls"
