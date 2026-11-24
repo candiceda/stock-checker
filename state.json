@@ -226,7 +226,9 @@
    "speks-tree-gump"
   ],
   "Paper Tiger": [],
-  "Plush Paradise": [],
+  "Plush Paradise": [
+   "needoh-niceberg-super-fidget-sensory-toy-blue"
+  ],
   "Polhill Garden Centre": [],
   "Rainbow Nation": [],
   "Roskai": [
@@ -5328,8 +5330,11 @@
    "url": "https://papertiger.co.uk/products/teeny-jack-glow-lanterns-pack-of-three-needoh"
   },
   "Plush Paradise|needoh-niceberg-super-fidget-sensory-toy-blue": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://plushparadise.co.uk/cart/55268998283645:1",
+   "options": {
+    "55268998283645": "Default Title"
+   },
    "price": "£16.99",
    "title": "NeeDoh Niceberg Super Fidget Sensory Toy Approx 3.25 Inch (Blue x1 Supplied) – Limited to x1 per Customer/Household",
    "url": "https://plushparadise.co.uk/products/needoh-niceberg-super-fidget-sensory-toy-blue"
