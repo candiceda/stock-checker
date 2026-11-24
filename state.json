@@ -2159,8 +2159,11 @@
    "url": "https://funkyfidgetsshop.co.uk/products/needoh-candy-swirl-nice-cube"
   },
   "Funky Fidgets|needoh-nice-cube-swirl": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://funkyfidgetsshop.co.uk/cart/55512488870267:1",
+   "options": {
+    "55512488870267": "Default Title"
+   },
    "price": "£11.00",
    "title": "NeeDoh Nice Cube Swirl",
    "url": "https://funkyfidgetsshop.co.uk/products/needoh-nice-cube-swirl"
