@@ -6414,8 +6414,11 @@
    "url": "https://www.thedyslexiashop.co.uk/products/needohween-jack-glow-lantern-needoh"
   },
   "The Dyslexia Shop|nice-berg-needoh": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://www.thedyslexiashop.co.uk/cart/56483788128638:1",
+   "options": {
+    "56483788128638": "Default Title"
+   },
    "price": "£15.98",
    "title": "Nice Berg Needoh",
    "url": "https://www.thedyslexiashop.co.uk/products/nice-berg-needoh"
