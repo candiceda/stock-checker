@@ -326,11 +326,11 @@
  },
  "full_scan_slot": 997526,
  "last_checked": {
-  "Austins": 1795547649.1796615,
-  "Hobbycraft": 1795547649.179414,
-  "John Lewis": 1795547649.1793945,
-  "Toytown": 1795547649.1781647,
-  "Urban Outfitters": 1795547649.1790428
+  "Austins": 1795548122.8855417,
+  "Hobbycraft": 1795548122.885325,
+  "John Lewis": 1795548122.8852928,
+  "Toytown": 1795548122.7135053,
+  "Urban Outfitters": 1795548122.884912
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -1388,8 +1388,11 @@
    "url": "https://cloudnineboutique.net/products/needoh-nice-cube-super-solid-squish-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-nice-cube-swirl-super-solid-squish-stress-relieving-fidget-toy": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://cloudnineboutique.net/cart/54693688541517:1",
+   "options": {
+    "54693688541517": "Default Title"
+   },
    "price": "£10.00",
    "title": "NeeDoh Nice Cube Swirl Super Solid Squish Stress Relieving Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-nice-cube-swirl-super-solid-squish-stress-relieving-fidget-toy"
