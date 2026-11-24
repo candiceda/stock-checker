@@ -4740,8 +4740,11 @@
    "url": "https://jukupop.com/products/needoh-teenie-swirl-multipack-mini-stress-balls-sensory-toy-pack"
   },
   "Jukupop|scrunchems-marshmallow-squishy": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://jukupop.com/cart/56829648503108:1",
+   "options": {
+    "56829648503108": "Default Title"
+   },
    "price": "£4.99",
    "title": "Scrunchems Marshmallow Squishy",
    "url": "https://jukupop.com/products/scrunchems-marshmallow-squishy"
