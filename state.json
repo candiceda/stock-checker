@@ -139,7 +139,8 @@
    "coming-soon-needoh-fuzzball-wild-cats",
    "coming-soon-needoh-nice-cream-cone",
    "coming-soon-needoh-nice-sicle",
-   "coming-soon-needoh-squeezza-pizza"
+   "coming-soon-needoh-squeezza-pizza",
+   "needoh-candy-swirl-nice-cube"
   ],
   "Funkytoystore": [],
   "Giftology": [],
@@ -318,13 +319,13 @@
   },
   "Waterstones": 2
  },
- "full_scan_slot": 997503,
+ "full_scan_slot": 997504,
  "last_checked": {
-  "Austins": 1795506892.9715638,
-  "Hobbycraft": 1795506892.9713106,
-  "John Lewis": 1795506892.9712834,
-  "Toytown": 1795506892.9699614,
-  "Urban Outfitters": 1795506892.9708703
+  "Austins": 1795507363.9093642,
+  "Hobbycraft": 1795507363.9090886,
+  "John Lewis": 1795507363.909074,
+  "Toytown": 1795507363.9077146,
+  "Urban Outfitters": 1795507363.9087284
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -2137,8 +2138,11 @@
    "url": "https://funkyfidgetsshop.co.uk/products/halloween-bundle"
   },
   "Funky Fidgets|needoh-candy-swirl-nice-cube": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://funkyfidgetsshop.co.uk/cart/56509656105339:1",
+   "options": {
+    "56509656105339": "Default Title"
+   },
    "price": "£11.00",
    "title": "NeeDoh Candy Swirl Nice Cube",
    "url": "https://funkyfidgetsshop.co.uk/products/needoh-candy-swirl-nice-cube"
