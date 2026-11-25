@@ -334,13 +334,13 @@
   },
   "Waterstones": 2
  },
- "full_scan_slot": 997579,
+ "full_scan_slot": 997580,
  "last_checked": {
-  "Austins": 1795643756.5290565,
-  "Hobbycraft": 1795643756.5288658,
-  "John Lewis": 1795643756.528856,
-  "Toytown": 1795643756.5281096,
-  "Urban Outfitters": 1795643756.528627
+  "Austins": 1795644235.0629888,
+  "Hobbycraft": 1795644235.0626912,
+  "John Lewis": 1795644235.0626721,
+  "Toytown": 1795644235.0612733,
+  "Urban Outfitters": 1795644235.0622518
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -4300,15 +4300,21 @@
    "url": "https://www.jadlamracingmodels.com/products/halloween-squish-toy-bundle-w-jack-glow-needoh-lantern"
   },
   "Jadlam Toys|needoh-2026-advent-calendar": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://www.jadlamracingmodels.com/cart/54577176084817:1",
+   "options": {
+    "54577176084817": "Default Title"
+   },
    "price": "£34.99",
    "title": "NeeDoh 2026 Advent Calendar",
    "url": "https://www.jadlamracingmodels.com/products/needoh-2026-advent-calendar"
   },
   "Jadlam Toys|needoh-candy-swirl-nice-cube": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://www.jadlamracingmodels.com/cart/55326622450001:1",
+   "options": {
+    "55326622450001": "Default Title"
+   },
    "price": "£7.99",
    "title": "NeeDoh Candy Swirl Nice Cube",
    "url": "https://www.jadlamracingmodels.com/products/needoh-candy-swirl-nice-cube"
