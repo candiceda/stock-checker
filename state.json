@@ -203,7 +203,8 @@
    "needoh-wow-flake-us-exclusive",
    "untitled-30-oct-at-15-03",
    "untitled-30-oct-at-20-33",
-   "world-s-smallest-needoh"
+   "world-s-smallest-needoh",
+   "needoh-super-groovy-glob-random-colour"
   ],
   "Jadlam Toys": [],
   "Jukupop": [
@@ -330,11 +331,11 @@
  },
  "full_scan_slot": 997561,
  "last_checked": {
-  "Austins": 1795610783.1443465,
-  "Hobbycraft": 1795610783.144247,
-  "John Lewis": 1795610783.1442416,
-  "Toytown": 1795610783.1436636,
-  "Urban Outfitters": 1795610783.1441112
+  "Austins": 1795611251.7752116,
+  "Hobbycraft": 1795611251.7750318,
+  "John Lewis": 1795611251.7750218,
+  "Toytown": 1795611251.5169127,
+  "Urban Outfitters": 1795611251.5174043
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -4032,6 +4033,13 @@
    "price": "£54.00",
    "title": "NeeDoh Super Fuzzball",
    "url": "https://jkdirectstore.com/products/needoh-super-fuzzball"
+  },
+  "JKDIRECT|needoh-super-groovy-glob-random-colour": {
+   "available": false,
+   "options": {},
+   "price": "£47.00",
+   "title": "NeeDoh Super Groovy Glob - Random Colour",
+   "url": "https://jkdirectstore.com/products/needoh-super-groovy-glob-random-colour"
   },
   "JKDIRECT|needoh-super-ripples-green": {
    "available": false,
