@@ -161,6 +161,7 @@
    "needoh-dream-drop",
    "needoh-funky-pup",
    "needoh-fuzzball-flower-power",
+   "needoh-fuzzball-wild-cats-random-colour",
    "needoh-galactic-glow-dream-drops-us-exclusive",
    "needoh-gobs-of-globs-18-teenie-groovy-globs",
    "needoh-gum-drop",
@@ -185,6 +186,7 @@
    "needoh-sploot-splat-blue",
    "needoh-sugar-skull-cats",
    "needoh-super-fuzzball",
+   "needoh-super-groovy-glob-random-colour",
    "needoh-super-ripples-green",
    "needoh-swirl-4-pack",
    "needoh-swirl-pink-white-black-purple",
@@ -203,9 +205,7 @@
    "needoh-wow-flake-us-exclusive",
    "untitled-30-oct-at-15-03",
    "untitled-30-oct-at-20-33",
-   "world-s-smallest-needoh",
-   "needoh-super-groovy-glob-random-colour",
-   "needoh-fuzzball-wild-cats-random-colour"
+   "world-s-smallest-needoh"
   ],
   "Jadlam Toys": [],
   "Jukupop": [
@@ -330,13 +330,13 @@
   },
   "Waterstones": 2
  },
- "full_scan_slot": 997561,
+ "full_scan_slot": 997562,
  "last_checked": {
-  "Austins": 1795611251.7752116,
-  "Hobbycraft": 1795611251.7750318,
-  "John Lewis": 1795611251.7750218,
-  "Toytown": 1795611251.5169127,
-  "Urban Outfitters": 1795611251.5174043
+  "Austins": 1795611774.021374,
+  "Hobbycraft": 1795611774.0212722,
+  "John Lewis": 1795611774.0212662,
+  "Toytown": 1795611774.0207286,
+  "Urban Outfitters": 1795611774.0211334
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
