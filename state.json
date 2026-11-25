@@ -4109,8 +4109,11 @@
    "url": "https://jkdirectstore.com/products/needoh-sugar-skull-cats"
   },
   "JKDIRECT|needoh-super-fuzzball": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://jkdirectstore.com/cart/55500721357127:1",
+   "options": {
+    "55500721357127": "Green"
+   },
    "price": "£54.00",
    "title": "NeeDoh Super Fuzzball",
    "url": "https://jkdirectstore.com/products/needoh-super-fuzzball"
