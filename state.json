@@ -333,7 +333,7 @@
   },
   "Waterstones": 2
  },
- "full_scan_slot": 997570,
+ "full_scan_slot": 997571,
  "last_checked": {
   "Austins": 1795627584.1570876,
   "Hobbycraft": 1795627584.1568892,
@@ -3926,11 +3926,8 @@
    "url": "https://jkdirectstore.com/products/needoh-mellow-mallow"
   },
   "JKDIRECT|needoh-nice-berg": {
-   "available": true,
-   "checkout": "https://jkdirectstore.com/cart/55436028576071:1",
-   "options": {
-    "55436028576071": "Default Title"
-   },
+   "available": false,
+   "options": {},
    "price": "£27.00",
    "title": "NeeDoh Nice Berg Blue",
    "url": "https://jkdirectstore.com/products/needoh-nice-berg"
