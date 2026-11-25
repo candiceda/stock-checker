@@ -332,11 +332,11 @@
  },
  "full_scan_slot": 997563,
  "last_checked": {
-  "Austins": 1795613183.0119374,
-  "Hobbycraft": 1795613183.011822,
-  "John Lewis": 1795613183.0117915,
-  "Toytown": 1795613183.0111632,
-  "Urban Outfitters": 1795613183.0116334
+  "Austins": 1795613712.7929716,
+  "Hobbycraft": 1795613712.792848,
+  "John Lewis": 1795613712.792842,
+  "Toytown": 1795613712.792149,
+  "Urban Outfitters": 1795613712.7926903
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -6590,6 +6590,13 @@
    "title": "Scrunchems Marshmallow Squishy",
    "url": "https://thefidgetworks.co.uk/products/scrunchems-marshmallow-squishy"
   },
+  "The Kid Collective|needoh-candy-swirl-nice-cube": {
+   "available": false,
+   "options": {},
+   "price": "£6.95",
+   "title": "NeeDoh Candy Swirl Nice Cube",
+   "url": "https://thekidcollective.co.uk/products/needoh-candy-swirl-nice-cube"
+  },
   "The Kid Collective|needoh-colour-change-cube": {
    "available": false,
    "options": {},
@@ -6689,8 +6696,11 @@
    "url": "https://thekidcollective.co.uk/products/needoh-nice-cream-cone"
   },
   "The Kid Collective|needoh-nice-cube": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://thekidcollective.co.uk/cart/54687976259919:1",
+   "options": {
+    "54687976259919": "Default Title"
+   },
    "price": "£6.95",
    "title": "NeeDoh Nice Cube",
    "url": "https://thekidcollective.co.uk/products/needoh-nice-cube"
@@ -6703,18 +6713,18 @@
    "url": "https://thekidcollective.co.uk/products/needoh-nice-cube-glitter-glow"
   },
   "The Kid Collective|needoh-nice-cube-glow": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://thekidcollective.co.uk/cart/55094171631951:1",
+   "options": {
+    "55094171631951": "Default Title"
+   },
    "price": "£6.95",
    "title": "NeeDoh Nice Cube Glow",
    "url": "https://thekidcollective.co.uk/products/needoh-nice-cube-glow"
   },
   "The Kid Collective|needoh-nice-cube-swirl": {
-   "available": true,
-   "checkout": "https://thekidcollective.co.uk/cart/55094170943823:1",
-   "options": {
-    "55094170943823": "Default Title"
-   },
+   "available": false,
+   "options": {},
    "price": "£6.95",
    "title": "NeeDoh Nice Cube Swirl",
    "url": "https://thekidcollective.co.uk/products/needoh-nice-cube-swirl"
@@ -6774,6 +6784,13 @@
    "price": "£5.95",
    "title": "NeeDoh Sploot Splat",
    "url": "https://thekidcollective.co.uk/products/needoh-sploot-splat"
+  },
+  "The Kid Collective|needoh-squisher-the-reindoh": {
+   "available": false,
+   "options": {},
+   "price": "£7.95",
+   "title": "NeeDoh Squisher The Reindoh",
+   "url": "https://thekidcollective.co.uk/products/needoh-squisher-the-reindoh"
   },
   "The Kid Collective|needoh-super-fuzz-ball": {
    "available": false,
