@@ -336,11 +336,11 @@
  },
  "full_scan_slot": 997580,
  "last_checked": {
-  "Austins": 1795644699.2558026,
-  "Hobbycraft": 1795644699.255639,
-  "John Lewis": 1795644699.2556293,
-  "Toytown": 1795644699.254708,
-  "Urban Outfitters": 1795644699.2553964
+  "Austins": 1795645186.1654377,
+  "Hobbycraft": 1795645186.1652393,
+  "John Lewis": 1795645186.165228,
+  "Toytown": 1795645186.1641915,
+  "Urban Outfitters": 1795645186.1648395
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -5752,11 +5752,8 @@
    "url": "https://roskai.com/products/scrunchems-marshmallow-squishy"
   },
   "Roskai|sensory-fidgets-bundle-including-1-random-needoh": {
-   "available": true,
-   "checkout": "https://roskai.com/cart/51201107263803:1",
-   "options": {
-    "51201107263803": "5 piece bundle girls (1 random Needoh)"
-   },
+   "available": false,
+   "options": {},
    "price": "£19.99",
    "title": "Roskai Sensory Fidgets Bundle including 1 Random Needoh",
    "url": "https://roskai.com/products/sensory-fidgets-bundle-including-1-random-needoh"
