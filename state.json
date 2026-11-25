@@ -3886,11 +3886,8 @@
    "url": "https://jkdirectstore.com/products/needoh-jack-glow-lantern-glow-in-the-dark-w-sticker-sheet-random-colour"
   },
   "JKDIRECT|needoh-jelly-hops-blue": {
-   "available": true,
-   "checkout": "https://jkdirectstore.com/cart/55817628680519:1",
-   "options": {
-    "55817628680519": "Default Title"
-   },
+   "available": false,
+   "options": {},
    "price": "£54.00",
    "title": "NeeDoh Jelly Hops Blue",
    "url": "https://jkdirectstore.com/products/needoh-jelly-hops-blue"
@@ -3939,8 +3936,11 @@
    "url": "https://jkdirectstore.com/products/needoh-nice-berg"
   },
   "JKDIRECT|needoh-nice-berg-glitter-glow-random-colours": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://jkdirectstore.com/cart/56052166459719:1",
+   "options": {
+    "56052166459719": "Default Title"
+   },
    "price": "£67.00",
    "title": "NeeDoh Nice Berg Glitter & Glow - Random Colours",
    "url": "https://jkdirectstore.com/products/needoh-nice-berg-glitter-glow-random-colours"
