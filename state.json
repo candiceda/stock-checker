@@ -144,8 +144,8 @@
    "needoh-nice-cube-swirl",
    "needoh-snowball-crunch",
    "needoh-sploot-splat",
-   "needoh-teenie-swirls",
-   "needoh-squisher-the-reindoh"
+   "needoh-squisher-the-reindoh",
+   "needoh-teenie-swirls"
   ],
   "Funkytoystore": [],
   "Giftology": [],
@@ -334,7 +334,7 @@
   },
   "Waterstones": 2
  },
- "full_scan_slot": 997571,
+ "full_scan_slot": 997572,
  "last_checked": {
   "Austins": 1795629478.104799,
   "Hobbycraft": 1795629478.1045547,
