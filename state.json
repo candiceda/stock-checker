@@ -172,6 +172,7 @@
    "needoh-nice-berg",
    "needoh-nice-cream-cone",
    "needoh-nice-cube-blue",
+   "needoh-nice-cube-glitter-glow",
    "needoh-nice-ice-baby",
    "needoh-nice-ice-baby-4-pack",
    "needoh-nice-sicle",
@@ -202,8 +203,7 @@
    "needoh-wow-flake-us-exclusive",
    "untitled-30-oct-at-15-03",
    "untitled-30-oct-at-20-33",
-   "world-s-smallest-needoh",
-   "needoh-nice-cube-glitter-glow"
+   "world-s-smallest-needoh"
   ],
   "Jadlam Toys": [],
   "Jukupop": [
@@ -226,7 +226,10 @@
    "lava-squish-flow",
    "speks-tree-gump"
   ],
-  "Paper Tiger": [],
+  "Paper Tiger": [
+   "needoh-advent-calendar-2025",
+   "teeny-jack-glow-lanterns-pack-of-three-needoh"
+  ],
   "Plush Paradise": [],
   "Polhill Garden Centre": [],
   "Rainbow Nation": [],
@@ -325,7 +328,7 @@
   },
   "Waterstones": 2
  },
- "full_scan_slot": 997560,
+ "full_scan_slot": 997561,
  "last_checked": {
   "Austins": 1795609787.106471,
   "Hobbycraft": 1795609787.1062865,
