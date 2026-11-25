@@ -340,11 +340,11 @@
  },
  "full_scan_slot": 997572,
  "last_checked": {
-  "Austins": 1795630460.379827,
-  "Hobbycraft": 1795630460.3796368,
-  "John Lewis": 1795630460.3796294,
-  "Toytown": 1795630460.3789542,
-  "Urban Outfitters": 1795630460.379422
+  "Austins": 1795630938.2589216,
+  "Hobbycraft": 1795630938.2587705,
+  "John Lewis": 1795630938.2587621,
+  "Toytown": 1795630938.2580237,
+  "Urban Outfitters": 1795630938.2584937
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -3790,10 +3790,8 @@
   },
   "JKDIRECT|needoh-fuzzball-flower-power": {
    "available": true,
-   "checkout": "https://jkdirectstore.com/cart/55435987517767:1",
+   "checkout": "https://jkdirectstore.com/cart/55435987616071:1",
    "options": {
-    "55435987517767": "Blue",
-    "55435987583303": "Orange",
     "55435987616071": "Green"
    },
    "price": "£27.00",
