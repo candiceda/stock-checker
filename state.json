@@ -332,11 +332,11 @@
  },
  "full_scan_slot": 997563,
  "last_checked": {
-  "Austins": 1795613712.7929716,
-  "Hobbycraft": 1795613712.792848,
-  "John Lewis": 1795613712.792842,
-  "Toytown": 1795613712.792149,
-  "Urban Outfitters": 1795613712.7926903
+  "Austins": 1795614183.0489953,
+  "Hobbycraft": 1795614183.0488098,
+  "John Lewis": 1795614183.0488026,
+  "Toytown": 1795614183.0479736,
+  "Urban Outfitters": 1795614183.0485976
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -6720,8 +6720,11 @@
    "url": "https://thekidcollective.co.uk/products/needoh-nice-cube-glow"
   },
   "The Kid Collective|needoh-nice-cube-swirl": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://thekidcollective.co.uk/cart/55094170943823:1",
+   "options": {
+    "55094170943823": "Default Title"
+   },
    "price": "£6.95",
    "title": "NeeDoh Nice Cube Swirl",
    "url": "https://thekidcollective.co.uk/products/needoh-nice-cube-swirl"
