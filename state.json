@@ -336,11 +336,11 @@
  },
  "full_scan_slot": 997578,
  "last_checked": {
-  "Austins": 1795641400.2868526,
-  "Hobbycraft": 1795641400.286744,
-  "John Lewis": 1795641400.2867374,
-  "Toytown": 1795641400.2860394,
-  "Urban Outfitters": 1795641400.2865524
+  "Austins": 1795641869.1785839,
+  "Hobbycraft": 1795641869.1784155,
+  "John Lewis": 1795641869.1784062,
+  "Toytown": 1795641869.1775575,
+  "Urban Outfitters": 1795641869.1781566
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -4421,7 +4421,7 @@
   "Jadlam Toys|needoh-jelly-squish-sensory-fidget-jellyfish-toy": {
    "available": false,
    "options": {},
-   "price": "£9.95",
+   "price": "£9.99",
    "title": "NeeDoh Jelly Squish - Sensory Fidget Jellyfish Toy",
    "url": "https://www.jadlamracingmodels.com/products/needoh-jelly-squish-sensory-fidget-jellyfish-toy"
   },
@@ -4452,7 +4452,7 @@
   "Jadlam Toys|needoh-nice-cube-glow-fidget-stress-toy": {
    "available": false,
    "options": {},
-   "price": "£8.95",
+   "price": "£8.99",
    "title": "NeeDoh Nice Cube Glow Fidget Stress Toy",
    "url": "https://www.jadlamracingmodels.com/products/needoh-nice-cube-glow-fidget-stress-toy"
   },
