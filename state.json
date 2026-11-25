@@ -336,11 +336,11 @@
  },
  "full_scan_slot": 997578,
  "last_checked": {
-  "Austins": 1795640431.7749372,
-  "Hobbycraft": 1795640431.774824,
-  "John Lewis": 1795640431.7748177,
-  "Toytown": 1795640431.7742183,
-  "Urban Outfitters": 1795640431.7746463
+  "Austins": 1795640925.0655947,
+  "Hobbycraft": 1795640925.065419,
+  "John Lewis": 1795640925.0654106,
+  "Toytown": 1795640925.064578,
+  "Urban Outfitters": 1795640925.065168
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -4347,7 +4347,7 @@
   "Jadlam Toys|needoh-glitter-glow-nice-cube-fidget-stress-toy-assorted-colours": {
    "available": false,
    "options": {},
-   "price": "£8.95",
+   "price": "£8.99",
    "title": "NeeDoh Glitter & Glow Nice Cube Fidget Stress Toy - Assorted Colours",
    "url": "https://www.jadlamracingmodels.com/products/needoh-glitter-glow-nice-cube-fidget-stress-toy-assorted-colours"
   },
@@ -4619,7 +4619,7 @@
   "Jadlam Toys|needoh-teenie-nice-ice-baby-needoh-fidget-stress-toy": {
    "available": false,
    "options": {},
-   "price": "£5.95",
+   "price": "£5.99",
    "title": "NeeDoh Teenie Nice Ice Baby NeeDoh Fidget Stress Toy",
    "url": "https://www.jadlamracingmodels.com/products/needoh-teenie-nice-ice-baby-needoh-fidget-stress-toy"
   },
