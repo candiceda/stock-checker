@@ -202,7 +202,8 @@
    "needoh-wow-flake-us-exclusive",
    "untitled-30-oct-at-15-03",
    "untitled-30-oct-at-20-33",
-   "world-s-smallest-needoh"
+   "world-s-smallest-needoh",
+   "needoh-nice-cube-glitter-glow"
   ],
   "Jadlam Toys": [],
   "Jukupop": [
@@ -1392,11 +1393,8 @@
    "url": "https://cloudnineboutique.net/products/needoh-nice-cube-swirl-super-solid-squish-stress-relieving-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-nice-ice-baby-groovy-squishy-fidget-toy": {
-   "available": true,
-   "checkout": "https://cloudnineboutique.net/cart/54693728977229:1",
-   "options": {
-    "54693728977229": "Default Title"
-   },
+   "available": false,
+   "options": {},
    "price": "£6.00",
    "title": "Teenie NeeDoh Nice Ice Baby(Pre-Order) Inc 1 cube (colour choosen at random)",
    "url": "https://cloudnineboutique.net/products/needoh-nice-ice-baby-groovy-squishy-fidget-toy"
@@ -1418,7 +1416,7 @@
   "Cloud Nine Boutique|needoh-niceberg-super-solid-squish-large-ice-cube-fidget-toy": {
    "available": false,
    "options": {},
-   "price": "£21.00",
+   "price": "£25.00",
    "title": "NeeDoh Niceberg Super Solid Squish Large Ice Cube Fidget Toy (Pre-Order)",
    "url": "https://cloudnineboutique.net/products/needoh-niceberg-super-solid-squish-large-ice-cube-fidget-toy"
   },
