@@ -1392,9 +1392,12 @@
    "url": "https://cloudnineboutique.net/products/needoh-nice-cube-swirl-super-solid-squish-stress-relieving-fidget-toy"
   },
   "Cloud Nine Boutique|needoh-nice-ice-baby-groovy-squishy-fidget-toy": {
-   "available": false,
-   "options": {},
-   "price": "£5.00",
+   "available": true,
+   "checkout": "https://cloudnineboutique.net/cart/54693728977229:1",
+   "options": {
+    "54693728977229": "Default Title"
+   },
+   "price": "£6.00",
    "title": "Teenie NeeDoh Nice Ice Baby(Pre-Order) Inc 1 cube (colour choosen at random)",
    "url": "https://cloudnineboutique.net/products/needoh-nice-ice-baby-groovy-squishy-fidget-toy"
   },
