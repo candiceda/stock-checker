@@ -324,6 +324,10 @@
    "since": 1793206714.6797936,
    "warned": true
   },
+  "Isaac's Treasures": {
+   "since": 1795630597.4611523,
+   "warned": false
+  },
   "John Lewis": {
    "since": 1793206714.6797817,
    "warned": true
@@ -4075,8 +4079,13 @@
    "url": "https://jkdirectstore.com/products/needoh-snowball-crunch-bundle-w-sticker-pack"
   },
   "JKDIRECT|needoh-sploot-splat-blue": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://jkdirectstore.com/cart/55803542536519:1",
+   "options": {
+    "55803542536519": "Blue",
+    "55803542569287": "Green",
+    "55803542602055": "Purple"
+   },
    "price": "£21.00",
    "title": "NeeDoh Sploot Splat",
    "url": "https://jkdirectstore.com/products/needoh-sploot-splat-blue"
