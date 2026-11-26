@@ -336,11 +336,11 @@
  },
  "full_scan_slot": 997588,
  "last_checked": {
-  "Austins": 1795659504.8566759,
-  "Hobbycraft": 1795659504.8564494,
-  "John Lewis": 1795659504.856442,
-  "Toytown": 1795659504.8557744,
-  "Urban Outfitters": 1795659504.8562427
+  "Austins": 1795659971.074514,
+  "Hobbycraft": 1795659971.0742784,
+  "John Lewis": 1795659971.0742676,
+  "Toytown": 1795659971.0730708,
+  "Urban Outfitters": 1795659971.0739107
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -3939,11 +3939,8 @@
    "url": "https://jkdirectstore.com/products/needoh-nice-berg"
   },
   "JKDIRECT|needoh-nice-berg-glitter-glow-random-colours": {
-   "available": true,
-   "checkout": "https://jkdirectstore.com/cart/56052166459719:1",
-   "options": {
-    "56052166459719": "Default Title"
-   },
+   "available": false,
+   "options": {},
    "price": "£67.00",
    "title": "NeeDoh Nice Berg Glitter & Glow - Random Colours",
    "url": "https://jkdirectstore.com/products/needoh-nice-berg-glitter-glow-random-colours"
