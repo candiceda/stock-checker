@@ -6409,8 +6409,11 @@
    "url": "https://www.thedyslexiashop.co.uk/products/needoh-good-vibes-only"
   },
   "The Dyslexia Shop|needoh-gumdrop": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://www.thedyslexiashop.co.uk/cart/45314258665721:1",
+   "options": {
+    "45314258665721": "Default Title"
+   },
    "price": "£9.98",
    "title": "NeeDoh Gumdrop",
    "url": "https://www.thedyslexiashop.co.uk/products/needoh-gumdrop"
