@@ -4681,8 +4681,11 @@
    "url": "https://jukupop.com/products/halloween-sensory-bundle"
   },
   "Jukupop|jukupop-stocking-filler-bundle-includes-needoh-4-more-sensory-toys": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://jukupop.com/cart/57655225418052:1",
+   "options": {
+    "57655225418052": "Default Title"
+   },
    "price": "£39.99",
    "title": "JUKUPOP Stocking Filler Bundle – Includes NeeDoh & 4 More Sensory Toys",
    "url": "https://jukupop.com/products/jukupop-stocking-filler-bundle-includes-needoh-4-more-sensory-toys"
