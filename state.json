@@ -159,6 +159,7 @@
    "needoh-clip-it-blue",
    "needoh-color-change",
    "needoh-color-change-4-pack",
+   "needoh-colour-change-cube-random-colour",
    "needoh-dream-drop",
    "needoh-funky-pup",
    "needoh-fuzzball-flower-power",
@@ -207,8 +208,7 @@
    "needoh-wow-flake-us-exclusive",
    "untitled-30-oct-at-15-03",
    "untitled-30-oct-at-20-33",
-   "world-s-smallest-needoh",
-   "needoh-colour-change-cube-random-colour"
+   "world-s-smallest-needoh"
   ],
   "Jadlam Toys": [],
   "Jukupop": [
@@ -346,7 +346,7 @@
   },
   "Waterstones": 2
  },
- "full_scan_slot": 997622,
+ "full_scan_slot": 997623,
  "last_checked": {
   "Austins": 1795721215.3464713,
   "Hobbycraft": 1795721215.3463387,
