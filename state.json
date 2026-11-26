@@ -336,7 +336,7 @@
   },
   "Waterstones": 2
  },
- "full_scan_slot": 997613,
+ "full_scan_slot": 997614,
  "last_checked": {
   "Austins": 1795705048.499705,
   "Hobbycraft": 1795705048.499457,
@@ -3944,8 +3944,11 @@
    "url": "https://jkdirectstore.com/products/needoh-nice-berg"
   },
   "JKDIRECT|needoh-nice-berg-glitter-glow-random-colours": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://jkdirectstore.com/cart/56052166459719:1",
+   "options": {
+    "56052166459719": "Default Title"
+   },
    "price": "£67.00",
    "title": "NeeDoh Nice Berg Glitter & Glow - Random Colours - PRE ORDER : Ships 7/12",
    "url": "https://jkdirectstore.com/products/needoh-nice-berg-glitter-glow-random-colours"
