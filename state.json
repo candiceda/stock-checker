@@ -3873,7 +3873,7 @@
    "options": {
     "55505951162695": "Default Title"
    },
-   "price": "£168.00",
+   "price": "£167.00",
    "title": "NeeDoh Hot Shots Football - RARE DISCONTINUED",
    "url": "https://jkdirectstore.com/products/needoh-hot-shots-football-rare-discontinued"
   },
@@ -4096,8 +4096,13 @@
    "url": "https://jkdirectstore.com/products/needoh-squisher-the-reindoh-bundle-w-sticker-pack-pink"
   },
   "JKDIRECT|needoh-sugar-skull-cats": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://jkdirectstore.com/cart/55436965871943:1",
+   "options": {
+    "55436965871943": "Variation #1",
+    "55436965904711": "Variation #2",
+    "55436965937479": "Variation #3"
+   },
    "price": "£41.00",
    "title": "NeeDoh Sugar Skull Cats",
    "url": "https://jkdirectstore.com/products/needoh-sugar-skull-cats"
@@ -5073,7 +5078,7 @@
   "Maple Gifts|bigjigs-toys-needoh-colour-changing-cube": {
    "available": false,
    "options": {},
-   "price": "£9.00",
+   "price": "£8.00",
    "title": "Bigjigs Toys Needoh Colour Changing Cube",
    "url": "https://maplegifts.co.uk/products/bigjigs-toys-needoh-colour-changing-cube"
   },
