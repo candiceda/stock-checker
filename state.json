@@ -338,11 +338,11 @@
  },
  "full_scan_slot": 997613,
  "last_checked": {
-  "Austins": 1795704112.2696676,
-  "Hobbycraft": 1795704112.2695146,
-  "John Lewis": 1795704112.269505,
-  "Toytown": 1795704112.2686548,
-  "Urban Outfitters": 1795704112.2691824
+  "Austins": 1795704580.7484388,
+  "Hobbycraft": 1795704580.7482626,
+  "John Lewis": 1795704580.748252,
+  "Toytown": 1795704580.7472184,
+  "Urban Outfitters": 1795704580.7479534
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -6805,8 +6805,11 @@
    "url": "https://thekidcollective.co.uk/products/needoh-nice-cube"
   },
   "The Kid Collective|needoh-nice-cube-glitter-glow": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://thekidcollective.co.uk/cart/55374950400335:1",
+   "options": {
+    "55374950400335": "Default Title"
+   },
    "price": "£6.95",
    "title": "NeeDoh Nice Cube Glitter & Glow",
    "url": "https://thekidcollective.co.uk/products/needoh-nice-cube-glitter-glow"
