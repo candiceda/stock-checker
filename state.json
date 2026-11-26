@@ -341,13 +341,13 @@
   },
   "Waterstones": 2
  },
- "full_scan_slot": 997621,
+ "full_scan_slot": 997622,
  "last_checked": {
-  "Austins": 1795719361.6385458,
-  "Hobbycraft": 1795719361.6384,
-  "John Lewis": 1795719361.6383927,
-  "Toytown": 1795719361.6374562,
-  "Urban Outfitters": 1795719361.6380901
+  "Austins": 1795719840.2800574,
+  "Hobbycraft": 1795719840.27989,
+  "John Lewis": 1795719840.2798822,
+  "Toytown": 1795719840.2044172,
+  "Urban Outfitters": 1795719840.2796192
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -509,6 +509,16 @@
    "price": "£7.50",
    "title": "NeeDoh Nice Cube Swirl",
    "url": "https://www.alissensoryboxes.com/products/nicecube-swirl-needoh"
+  },
+  "Ali's Sensory Boxes|snowballcrunch-needoh": {
+   "available": true,
+   "checkout": "https://www.alissensoryboxes.com/cart/54141098787154:1",
+   "options": {
+    "54141098787154": "Default Title"
+   },
+   "price": "£4.99",
+   "title": "Needoh SnowBall Crunch",
+   "url": "https://www.alissensoryboxes.com/products/snowballcrunch-needoh"
   },
   "Ali's Sensory Boxes|super-needoh-fuzz-ball": {
    "available": false,
