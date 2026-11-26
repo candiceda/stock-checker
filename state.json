@@ -236,7 +236,9 @@
    "needoh-advent-calendar-2025",
    "teeny-jack-glow-lanterns-pack-of-three-needoh"
   ],
-  "Plush Paradise": [],
+  "Plush Paradise": [
+   "needoh-gumdrop-sensory-fidget-toy"
+  ],
   "Polhill Garden Centre": [],
   "Rainbow Nation": [],
   "Roskai": [
@@ -5429,6 +5431,13 @@
    "price": "£4.75",
    "title": "Teeny Jack-Glow Lanterns Pack of Three Needoh",
    "url": "https://papertiger.co.uk/products/teeny-jack-glow-lanterns-pack-of-three-needoh"
+  },
+  "Plush Paradise|needoh-gumdrop-sensory-fidget-toy": {
+   "available": false,
+   "options": {},
+   "price": "£8.99",
+   "title": "NeeDoh Gumdrop Sensory Fidget Toy (x1 Supplied) Approx 2.25 Inch – Limited to x1 Colour per Customer/Household",
+   "url": "https://plushparadise.co.uk/products/needoh-gumdrop-sensory-fidget-toy"
   },
   "Plush Paradise|needoh-niceberg-super-fidget-sensory-toy-blue": {
    "available": false,
