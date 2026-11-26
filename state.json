@@ -2193,8 +2193,11 @@
    "url": "https://funkyfidgetsshop.co.uk/products/needoh-nice-cube-swirl"
   },
   "Funky Fidgets|needoh-snowball-crunch": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://funkyfidgetsshop.co.uk/cart/44926142021865:1",
+   "options": {
+    "44926142021865": "Default Title"
+   },
    "price": "£11.00",
    "title": "NeeDoh snowball crunch",
    "url": "https://funkyfidgetsshop.co.uk/products/needoh-snowball-crunch"
