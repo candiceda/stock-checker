@@ -342,11 +342,11 @@
  },
  "full_scan_slot": 997616,
  "last_checked": {
-  "Austins": 1795708870.081194,
-  "Hobbycraft": 1795708870.080919,
-  "John Lewis": 1795708870.0809014,
-  "Toytown": 1795708870.0795407,
-  "Urban Outfitters": 1795708870.0804892
+  "Austins": 1795709372.961251,
+  "Hobbycraft": 1795709372.9608552,
+  "John Lewis": 1795709372.9608333,
+  "Toytown": 1795709372.7335837,
+  "Urban Outfitters": 1795709372.7343576
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -3992,8 +3992,11 @@
    "url": "https://jkdirectstore.com/products/needoh-nice-cube-glitter-glow"
   },
   "JKDIRECT|needoh-nice-ice-baby": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://jkdirectstore.com/cart/55478227206471:1",
+   "options": {
+    "55478227206471": "Blue"
+   },
    "price": "£14.00",
    "title": "NeeDoh Nice Ice Baby",
    "url": "https://jkdirectstore.com/products/needoh-nice-ice-baby"
