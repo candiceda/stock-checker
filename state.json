@@ -173,7 +173,6 @@
    "needoh-knittens",
    "needoh-mellow-mallow",
    "needoh-nice-berg",
-   "needoh-nice-berg-glitter-glow-random-colours",
    "needoh-nice-cream-cone",
    "needoh-nice-cube-blue",
    "needoh-nice-cube-glitter-glow",
@@ -346,7 +345,7 @@
   },
   "Waterstones": 2
  },
- "full_scan_slot": 997623,
+ "full_scan_slot": 997624,
  "last_checked": {
   "Austins": 1795723073.5464125,
   "Hobbycraft": 1795723073.5461664,
@@ -3921,8 +3920,11 @@
    "url": "https://jkdirectstore.com/products/needoh-jack-glow-lantern-glow-in-the-dark-w-sticker-sheet-random-colour"
   },
   "JKDIRECT|needoh-jelly-hops-blue": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://jkdirectstore.com/cart/55817628680519:1",
+   "options": {
+    "55817628680519": "Default Title"
+   },
    "price": "£54.00",
    "title": "NeeDoh Jelly Hops Blue",
    "url": "https://jkdirectstore.com/products/needoh-jelly-hops-blue"
