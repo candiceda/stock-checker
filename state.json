@@ -336,11 +336,11 @@
  },
  "full_scan_slot": 997598,
  "last_checked": {
-  "Austins": 1795676588.03843,
-  "Hobbycraft": 1795676588.0381596,
-  "John Lewis": 1795676588.0381415,
-  "Toytown": 1795676588.0368772,
-  "Urban Outfitters": 1795676588.0377598
+  "Austins": 1795677052.0592403,
+  "Hobbycraft": 1795677052.0589411,
+  "John Lewis": 1795677052.0589185,
+  "Toytown": 1795677051.903883,
+  "Urban Outfitters": 1795677051.9047797
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -3932,8 +3932,11 @@
    "url": "https://jkdirectstore.com/products/needoh-mellow-mallow"
   },
   "JKDIRECT|needoh-nice-berg": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://jkdirectstore.com/cart/55436028576071:1",
+   "options": {
+    "55436028576071": "Default Title"
+   },
    "price": "£27.00",
    "title": "NeeDoh Nice Berg Blue",
    "url": "https://jkdirectstore.com/products/needoh-nice-berg"
