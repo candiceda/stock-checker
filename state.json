@@ -336,13 +336,13 @@
   },
   "Waterstones": 2
  },
- "full_scan_slot": 997612,
+ "full_scan_slot": 997613,
  "last_checked": {
-  "Austins": 1795703174.2982314,
-  "Hobbycraft": 1795703174.2979743,
-  "John Lewis": 1795703174.2979476,
-  "Toytown": 1795703174.2966204,
-  "Urban Outfitters": 1795703174.297502
+  "Austins": 1795703653.0415168,
+  "Hobbycraft": 1795703653.041265,
+  "John Lewis": 1795703653.041235,
+  "Toytown": 1795703653.0399215,
+  "Urban Outfitters": 1795703653.0408108
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -6798,15 +6798,21 @@
    "url": "https://thekidcollective.co.uk/products/needoh-nice-cream-cone"
   },
   "The Kid Collective|needoh-nice-cube": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://thekidcollective.co.uk/cart/54687976259919:1",
+   "options": {
+    "54687976259919": "Default Title"
+   },
    "price": "£6.95",
    "title": "NeeDoh Nice Cube",
    "url": "https://thekidcollective.co.uk/products/needoh-nice-cube"
   },
   "The Kid Collective|needoh-nice-cube-glitter-glow": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://thekidcollective.co.uk/cart/55374950400335:1",
+   "options": {
+    "55374950400335": "Default Title"
+   },
    "price": "£6.95",
    "title": "NeeDoh Nice Cube Glitter & Glow",
    "url": "https://thekidcollective.co.uk/products/needoh-nice-cube-glitter-glow"
@@ -6868,8 +6874,11 @@
    "url": "https://thekidcollective.co.uk/products/needoh-peace-o-cake"
   },
   "The Kid Collective|needoh-snow-ball-crunch": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://thekidcollective.co.uk/cart/55871455691087:1",
+   "options": {
+    "55871455691087": "Default Title"
+   },
    "price": "£3.95",
    "title": "NeeDoh Snow Ball Crunch",
    "url": "https://thekidcollective.co.uk/products/needoh-snow-ball-crunch"
@@ -6924,8 +6933,11 @@
    "url": "https://thekidcollective.co.uk/products/needoh-teenie-sparkle-hearts"
   },
   "The Kid Collective|speks-tree-gump": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://thekidcollective.co.uk/cart/57466247872847:1",
+   "options": {
+    "57466247872847": "Default Title"
+   },
    "price": "£6.95",
    "title": "SPEKS Tree Gump",
    "url": "https://thekidcollective.co.uk/products/speks-tree-gump"
