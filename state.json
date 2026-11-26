@@ -267,7 +267,8 @@
   ],
   "The Fidget Works": [
    "needoh-sploot-splat",
-   "scrunchems-marshmallow-squishy"
+   "scrunchems-marshmallow-squishy",
+   "needoh-advent-calendar-2026"
   ],
   "The Kid Collective": [],
   "Tinker & Tot": [],
@@ -336,11 +337,11 @@
  },
  "full_scan_slot": 997603,
  "last_checked": {
-  "Austins": 1795685633.923116,
-  "Hobbycraft": 1795685633.9228485,
-  "John Lewis": 1795685633.9228315,
-  "Toytown": 1795685633.9215238,
-  "Urban Outfitters": 1795685633.92244
+  "Austins": 1795686098.589279,
+  "Hobbycraft": 1795686098.5890207,
+  "John Lewis": 1795686098.5890014,
+  "Toytown": 1795686098.587636,
+  "Urban Outfitters": 1795686098.5885603
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -6655,6 +6656,10 @@
   },
   "The Fidget Works|needoh-advent-calendar-2026": {
    "available": true,
+   "checkout": "https://thefidgetworks.co.uk/cart/56305895768449:1",
+   "options": {
+    "56305895768449": "Default Title"
+   },
    "price": "£46.99",
    "title": "NeeDoh Advent Calendar 2026",
    "url": "https://thefidgetworks.co.uk/products/needoh-advent-calendar-2026"
