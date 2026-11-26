@@ -338,11 +338,11 @@
  },
  "full_scan_slot": 997613,
  "last_checked": {
-  "Austins": 1795704580.7484388,
-  "Hobbycraft": 1795704580.7482626,
-  "John Lewis": 1795704580.748252,
-  "Toytown": 1795704580.7472184,
-  "Urban Outfitters": 1795704580.7479534
+  "Austins": 1795705048.499705,
+  "Hobbycraft": 1795705048.499457,
+  "John Lewis": 1795705048.4994385,
+  "Toytown": 1795705048.4982147,
+  "Urban Outfitters": 1795705048.4990613
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -4451,8 +4451,11 @@
    "url": "https://www.jadlamracingmodels.com/products/needoh-knittens-squishy-sensory-toy"
   },
   "Jadlam Toys|needoh-mello-mallo-fidget-stress-toy": {
-   "available": false,
-   "options": {},
+   "available": true,
+   "checkout": "https://www.jadlamracingmodels.com/cart/53473932345681:1",
+   "options": {
+    "53473932345681": "Default Title"
+   },
    "price": "£12.95",
    "title": "NeeDoh Mello Mallo Fidget Stress Toy",
    "url": "https://www.jadlamracingmodels.com/products/needoh-mello-mallo-fidget-stress-toy"
