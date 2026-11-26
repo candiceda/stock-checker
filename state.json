@@ -347,11 +347,11 @@
  },
  "full_scan_slot": 997624,
  "last_checked": {
-  "Austins": 1795723073.5464125,
-  "Hobbycraft": 1795723073.5461664,
-  "John Lewis": 1795723073.5461574,
-  "Toytown": 1795723073.5453026,
-  "Urban Outfitters": 1795723073.5459056
+  "Austins": 1795723554.5393717,
+  "Hobbycraft": 1795723554.5391676,
+  "John Lewis": 1795723554.5391598,
+  "Toytown": 1795723554.5383103,
+  "Urban Outfitters": 1795723554.5389054
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -3813,11 +3813,8 @@
    "url": "https://jkdirectstore.com/products/needoh-funky-pup"
   },
   "JKDIRECT|needoh-fuzzball-flower-power": {
-   "available": true,
-   "checkout": "https://jkdirectstore.com/cart/55435987616071:1",
-   "options": {
-    "55435987616071": "Green"
-   },
+   "available": false,
+   "options": {},
    "price": "£27.00",
    "title": "NeeDoh Fuzzball (All Variants) w/ Sticker Sheet",
    "url": "https://jkdirectstore.com/products/needoh-fuzzball-flower-power"
