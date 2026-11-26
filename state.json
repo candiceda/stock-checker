@@ -348,11 +348,11 @@
  },
  "full_scan_slot": 997623,
  "last_checked": {
-  "Austins": 1795721710.4621587,
-  "Hobbycraft": 1795721710.4620683,
-  "John Lewis": 1795721710.4620633,
-  "Toytown": 1795721710.4615057,
-  "Urban Outfitters": 1795721710.461923
+  "Austins": 1795722167.3257205,
+  "Hobbycraft": 1795722167.3255384,
+  "John Lewis": 1795722167.3255296,
+  "Toytown": 1795722167.3248115,
+  "Urban Outfitters": 1795722167.3252814
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -4176,11 +4176,8 @@
    "url": "https://jkdirectstore.com/products/needoh-swirl-4-pack"
   },
   "JKDIRECT|needoh-swirl-pink-white-black-purple": {
-   "available": true,
-   "checkout": "https://jkdirectstore.com/cart/55395491512647:1",
-   "options": {
-    "55395491512647": "Default Title"
-   },
+   "available": false,
+   "options": {},
    "price": "£22.00",
    "title": "NeeDoh Swirl Cube - Random Colours",
    "url": "https://jkdirectstore.com/products/needoh-swirl-pink-white-black-purple"
