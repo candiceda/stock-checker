@@ -324,10 +324,6 @@
    "since": 1793206714.6797936,
    "warned": true
   },
-  "Isaac's Treasures": {
-   "since": 1795698961.5107732,
-   "warned": false
-  },
   "John Lewis": {
    "since": 1793206714.6797817,
    "warned": true
@@ -338,13 +334,13 @@
   },
   "Waterstones": 2
  },
- "full_scan_slot": 997611,
+ "full_scan_slot": 997612,
  "last_checked": {
-  "Austins": 1795701296.413182,
-  "Hobbycraft": 1795701296.4128883,
-  "John Lewis": 1795701296.4128637,
-  "Toytown": 1795701296.4114354,
-  "Urban Outfitters": 1795701296.4124138
+  "Austins": 1795701788.4158115,
+  "Hobbycraft": 1795701788.4154658,
+  "John Lewis": 1795701788.4154456,
+  "Toytown": 1795701788.314782,
+  "Urban Outfitters": 1795701788.3157494
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -3978,9 +3974,9 @@
   },
   "JKDIRECT|needoh-nice-cube-glitter-glow": {
    "available": true,
-   "checkout": "https://jkdirectstore.com/cart/56064509641031:1",
+   "checkout": "https://jkdirectstore.com/cart/55437312852295:1",
    "options": {
-    "56064509641031": "Pink"
+    "55437312852295": "Blue"
    },
    "price": "£23.00",
    "title": "NeeDoh Nice Cube Glitter & Glow",
