@@ -336,11 +336,11 @@
  },
  "full_scan_slot": 997602,
  "last_checked": {
-  "Austins": 1795683697.3717988,
-  "Hobbycraft": 1795683697.3715336,
-  "John Lewis": 1795683697.371517,
-  "Toytown": 1795683697.3701658,
-  "Urban Outfitters": 1795683697.3711238
+  "Austins": 1795684196.214544,
+  "Hobbycraft": 1795684196.2143784,
+  "John Lewis": 1795684196.2143693,
+  "Toytown": 1795684196.2132177,
+  "Urban Outfitters": 1795684196.2141118
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -3769,7 +3769,7 @@
   "JKDIRECT|needoh-dream-drop": {
    "available": false,
    "options": {},
-   "price": "£38.00",
+   "price": "£39.00",
    "title": "NeeDoh Dream Drop",
    "url": "https://jkdirectstore.com/products/needoh-dream-drop"
   },
@@ -3790,7 +3790,7 @@
    "options": {
     "55435987616071": "Green"
    },
-   "price": "£38.00",
+   "price": "£39.00",
    "title": "NeeDoh Fuzzball (All Variants) w/ Sticker Sheet",
    "url": "https://jkdirectstore.com/products/needoh-fuzzball-flower-power"
   },
@@ -3852,7 +3852,7 @@
   "JKDIRECT|needoh-gum-drop": {
    "available": false,
    "options": {},
-   "price": "£38.00",
+   "price": "£39.00",
    "title": "NeeDoh Gumdrop",
    "url": "https://jkdirectstore.com/products/needoh-gum-drop"
   },
@@ -3927,17 +3927,14 @@
   "JKDIRECT|needoh-mellow-mallow": {
    "available": false,
    "options": {},
-   "price": "£38.00",
+   "price": "£39.00",
    "title": "NeeDoh Mello Mallo",
    "url": "https://jkdirectstore.com/products/needoh-mellow-mallow"
   },
   "JKDIRECT|needoh-nice-berg": {
-   "available": true,
-   "checkout": "https://jkdirectstore.com/cart/55436028576071:1",
-   "options": {
-    "55436028576071": "Default Title"
-   },
-   "price": "£38.00",
+   "available": false,
+   "options": {},
+   "price": "£39.00",
    "title": "NeeDoh Nice Berg Blue",
    "url": "https://jkdirectstore.com/products/needoh-nice-berg"
   },
@@ -3989,7 +3986,7 @@
   "JKDIRECT|needoh-nice-ice-baby-4-pack": {
    "available": false,
    "options": {},
-   "price": "£38.00",
+   "price": "£39.00",
    "title": "NeeDoh Nice Ice Baby 4 Pack",
    "url": "https://jkdirectstore.com/products/needoh-nice-ice-baby-4-pack"
   },
@@ -4146,7 +4143,7 @@
   "JKDIRECT|needoh-teenie-3-pack-green-purple-orange": {
    "available": false,
    "options": {},
-   "price": "£38.00",
+   "price": "£39.00",
    "title": "NeeDoh Teenie 3 Pack - Random Colours",
    "url": "https://jkdirectstore.com/products/needoh-teenie-3-pack-green-purple-orange"
   },
@@ -4268,7 +4265,7 @@
   "JKDIRECT|untitled-30-oct-at-15-03": {
    "available": false,
    "options": {},
-   "price": "£38.00",
+   "price": "£39.00",
    "title": "NeeDoh Jelly Squish",
    "url": "https://jkdirectstore.com/products/untitled-30-oct-at-15-03"
   },
@@ -4285,7 +4282,7 @@
   "JKDIRECT|world-s-smallest-needoh": {
    "available": false,
    "options": {},
-   "price": "£38.00",
+   "price": "£39.00",
    "title": "World’s Smallest NeeDoh",
    "url": "https://jkdirectstore.com/products/world-s-smallest-needoh"
   },
@@ -4971,7 +4968,7 @@
   "Learning Space|needoh-golden-egg-hunt-fidget-set": {
    "available": false,
    "options": {},
-   "price": "£23.74",
+   "price": "£23.75",
    "title": "Needoh Golden Egg Hunt Fidget Set",
    "url": "https://learningspace.co.uk/products/needoh-golden-egg-hunt-fidget-set"
   },
