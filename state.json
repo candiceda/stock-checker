@@ -269,7 +269,9 @@
    "needoh-sploot-splat",
    "scrunchems-marshmallow-squishy"
   ],
-  "The Kid Collective": [],
+  "The Kid Collective": [
+   "speks-tree-gump"
+  ],
   "Tinker & Tot": [],
   "Toy Barnhaus": [],
   "Toy-Box Hampshire": [
@@ -336,11 +338,11 @@
  },
  "full_scan_slot": 997612,
  "last_checked": {
-  "Austins": 1795702252.7129107,
-  "Hobbycraft": 1795702252.7127383,
-  "John Lewis": 1795702252.7127194,
-  "Toytown": 1795702252.7112136,
-  "Urban Outfitters": 1795702252.712268
+  "Austins": 1795702713.1713161,
+  "Hobbycraft": 1795702713.1710737,
+  "John Lewis": 1795702713.1710641,
+  "Toytown": 1795702713.1702292,
+  "Urban Outfitters": 1795702713.1708198
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -6920,6 +6922,13 @@
    "price": "£7.95",
    "title": "NeeDoh Teenie Sparkle Hearts",
    "url": "https://thekidcollective.co.uk/products/needoh-teenie-sparkle-hearts"
+  },
+  "The Kid Collective|speks-tree-gump": {
+   "available": false,
+   "options": {},
+   "price": "£6.95",
+   "title": "SPEKS Tree Gump",
+   "url": "https://thekidcollective.co.uk/products/speks-tree-gump"
   },
   "Tink n Stink|https://www.tinknstink.co.uk/dream-drop-needoh.html": {
    "available": false,
