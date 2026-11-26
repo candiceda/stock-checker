@@ -207,7 +207,8 @@
    "needoh-wow-flake-us-exclusive",
    "untitled-30-oct-at-15-03",
    "untitled-30-oct-at-20-33",
-   "world-s-smallest-needoh"
+   "world-s-smallest-needoh",
+   "needoh-colour-change-cube-random-colour"
   ],
   "Jadlam Toys": [],
   "Jukupop": [
@@ -3766,6 +3767,16 @@
    "price": "£42.00",
    "title": "NeeDoh Colour Change Bundle! - 6 Items",
    "url": "https://jkdirectstore.com/products/needoh-colour-change-bundle-6-items"
+  },
+  "JKDIRECT|needoh-colour-change-cube-random-colour": {
+   "available": true,
+   "checkout": "https://jkdirectstore.com/cart/56070223495495:1",
+   "options": {
+    "56070223495495": "Default Title"
+   },
+   "price": "£23.00",
+   "title": "NeeDoh Colour Change CUBE! - Random Colour",
+   "url": "https://jkdirectstore.com/products/needoh-colour-change-cube-random-colour"
   },
   "JKDIRECT|needoh-colour-change-random-colour": {
    "available": false,
