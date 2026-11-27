@@ -236,7 +236,11 @@
    "needoh-advent-calendar-2025",
    "teeny-jack-glow-lanterns-pack-of-three-needoh"
   ],
-  "Plush Paradise": [],
+  "Plush Paradise": [
+   "needoh-gumdrop-sensory-fidget-toy",
+   "needoh-teenie-fuzz-ball-multipack-sensory-fidget-toy",
+   "teenie-needoh-cool-cats-3-pack"
+  ],
   "Polhill Garden Centre": [],
   "Rainbow Nation": [],
   "Roskai": [
@@ -331,17 +335,13 @@
    "since": 1793206714.6797817,
    "warned": true
   },
-  "Plush Paradise": {
-   "since": 1795706595.8768308,
-   "warned": true
-  },
   "Urban Outfitters": {
    "since": 1795135986.262788,
    "warned": true
   },
   "Waterstones": 2
  },
- "full_scan_slot": 997631,
+ "full_scan_slot": 997632,
  "last_checked": {
   "Austins": 1795737648.2523797,
   "Hobbycraft": 1795737648.2522528,
@@ -5478,6 +5478,13 @@
    "price": "£12.99",
    "title": "NeeDoh Teenie Fuzz Ball Multipack Sensory Fidget Toy (x1 Pack Supplied) – Limited to x2 Packs per Customer/Household",
    "url": "https://plushparadise.co.uk/products/needoh-teenie-fuzz-ball-multipack-sensory-fidget-toy"
+  },
+  "Plush Paradise|teenie-needoh-cool-cats-3-pack": {
+   "available": false,
+   "options": {},
+   "price": "£8.99",
+   "title": "Needoh Teenie Cool Cats (Colours Selected at Random - x1 Pack of 3) - Limit of 2 per Customer/Household",
+   "url": "https://plushparadise.co.uk/products/teenie-needoh-cool-cats-3-pack"
   },
   "Rainbow Nation|needoh-dream-drop": {
    "available": false,
