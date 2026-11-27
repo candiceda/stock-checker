@@ -339,11 +339,11 @@
  },
  "full_scan_slot": 997636,
  "last_checked": {
-  "Austins": 1795744815.887378,
-  "Hobbycraft": 1795744815.8871586,
-  "John Lewis": 1795744815.8871474,
-  "Toytown": 1795744815.8860734,
-  "Urban Outfitters": 1795744815.8868248
+  "Austins": 1795745316.7546582,
+  "Hobbycraft": 1795745316.754473,
+  "John Lewis": 1795745316.754457,
+  "Toytown": 1795745316.7535162,
+  "Urban Outfitters": 1795745316.7541547
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -3890,7 +3890,7 @@
    "options": {
     "55505951162695": "Default Title"
    },
-   "price": "£167.00",
+   "price": "£168.00",
    "title": "NeeDoh Hot Shots Football - RARE DISCONTINUED",
    "url": "https://jkdirectstore.com/products/needoh-hot-shots-football-rare-discontinued"
   },
@@ -5100,7 +5100,7 @@
   "Maple Gifts|bigjigs-toys-needoh-colour-changing-cube": {
    "available": false,
    "options": {},
-   "price": "£8.00",
+   "price": "£9.00",
    "title": "Bigjigs Toys Needoh Colour Changing Cube",
    "url": "https://maplegifts.co.uk/products/bigjigs-toys-needoh-colour-changing-cube"
   },
