@@ -343,11 +343,11 @@
  },
  "full_scan_slot": 997645,
  "last_checked": {
-  "Austins": 1795762288.448004,
-  "Hobbycraft": 1795762288.4478679,
-  "John Lewis": 1795762288.4478626,
-  "Toytown": 1795762288.447224,
-  "Urban Outfitters": 1795762288.4476964
+  "Austins": 1795762755.5965695,
+  "Hobbycraft": 1795762755.5963922,
+  "John Lewis": 1795762755.5963862,
+  "Toytown": 1795762755.595537,
+  "Urban Outfitters": 1795762755.5961425
  },
  "products": {
   "Ali's Sensory Boxes|bundleteenie-needoh-singles-teenie": {
@@ -3832,9 +3832,8 @@
   },
   "JKDIRECT|needoh-galactic-glow-dream-drops-us-exclusive": {
    "available": true,
-   "checkout": "https://jkdirectstore.com/cart/55665493311815:1",
+   "checkout": "https://jkdirectstore.com/cart/55665493377351:1",
    "options": {
-    "55665493311815": "Green",
     "55665493377351": "Blue"
    },
    "price": "£54.00",
